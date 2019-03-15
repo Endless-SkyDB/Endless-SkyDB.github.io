@@ -88,9 +88,9 @@ var tradeMin = [145, 578, 227, 103, 615, 526, 911, 434, 188, 222];
 var tradeMax = [458, 888, 730, 598, 1305, 920, 1508, 925, 589, 539];
 var systems = {};
 var labels = {};
-var scale = 5;
-var scrollX = 1750;
-var scrollY = 1250;
+var scale = 1.5;
+var scrollX = 900;
+var scrollY = 270;
 var mouse = new Mouse();
 var bgImage;
 
