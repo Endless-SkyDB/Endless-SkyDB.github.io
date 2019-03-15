@@ -20,7 +20,7 @@ function parseData(data) {
 		let link = subdata.substring(subdata.indexOf('['), subdata.indexOf(')') + 1);
 		let name = link.substring(link.indexOf('[') + 1, link.indexOf(']'));
 		let href = link.substring(link.indexOf('(') + 1, link.indexOf(')'));
-		data = data.replace(link, '<a href="' + href + '">' + name + "</a>");
+		data = data.replace(link, '<a href="' + href + '" target="_blank">' + name + "</a>");
 		i++;
 	}
 	return data;
