@@ -99,6 +99,8 @@ window.onload = function () {
 	getSystems();
 	getLinks();
 	render();
+
+	document.getElementById("mapCanvas").addEventListener("wheel", zoom);;
 }
 
 window.onmousemove = function (event) {
@@ -194,6 +196,7 @@ function zoom(event) {
 		scale += zoom;
 		render();
 	}
+	event.preventDefault();
 	return false;//cancel scroll
 }
 
