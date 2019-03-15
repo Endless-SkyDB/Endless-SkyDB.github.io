@@ -103,7 +103,7 @@ function addTableItem(data, column1 = document.getElementById("select1").value, 
 	name.onclick = function () {
 		window.location.href = "ships.html?ship=" + ships[this.innerText].lower.replaceAll(" ", "_");
 	}
-	name.onmousemove = function () {
+	name.onmousemove = function (event) {
 		var imgPreview = document.getElementById("imgPreview");
 		var imgHolder = document.getElementById("imgHolder");
 
