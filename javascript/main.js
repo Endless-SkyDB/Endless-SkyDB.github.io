@@ -48,7 +48,7 @@ String.prototype.toTitleCase = function () {
     }));
 }
 
-window.onmousemove = function() {
+window.onmousemove = function(event) {
 	var element = document.getElementById("tooltip");
 	if (element) {
 		element.style.left = event.clientX + "px";
