@@ -2,7 +2,6 @@ $(window).ready(function() {
 	$.get('https://api.github.com/repos/endless-sky/endless-sky/releases/latest', function(data) {
 		$("#release").text(data.name);
 		$("#latest").html(parseData(data.body));
-		console.log(data.name);
 	});
 });
 
