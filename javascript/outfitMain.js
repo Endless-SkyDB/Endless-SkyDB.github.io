@@ -74,7 +74,7 @@ function addTableItem(data, column1 = document.getElementById("select1").value.s
 	name.onclick = function () {
 		window.location.href = "outfits.html?outfit=" + outfits[this.innerText].lower.replaceAll(" ", "_");
 	}
-	name.onmousemove = function () {
+	name.onmousemove = function (event) {
 		var imgPreview = document.getElementById("imgPreview");
 		var imgHolder = document.getElementById("imgHolder");
 
