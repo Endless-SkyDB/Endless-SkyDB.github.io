@@ -1,0 +1,47 @@
+{
+	"race": "Korath",
+	"category": "Secondary Weapons",
+	"type": "Secondary Weapon",
+	"cost": 593000,
+	"thumbnail": "outfit/piercer launcher",
+	"mass": 18,
+	"outfit_space": -27,
+	"weapon_capacity": -27,
+	"energy_capacity": 50,
+	"gun_ports": -1,
+	"piercer_capacity": 31,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/piercer",
+			"frame_rate": 5,
+			"random_start_frame": 1
+		},
+		"sound": "piercer",
+		"ammo": "Korath Piercer",
+		"icon": "icon/piercer",
+		"fire_effect": "piercer fire",
+		"hit_effect": [
+			"piercer impact",
+			"piercer explosion"
+		],
+		"die_effect": "piercer explosion",
+		"inaccuracy": 3,
+		"velocity": 18,
+		"lifetime": 200,
+		"reload": 72,
+		"firing_energy": 29,
+		"firing_heat": 144,
+		"acceleration": 0.54,
+		"drag": 0.03,
+		"turn": 1.6,
+		"homing": 4,
+		"infrared_tracking": 0.9,
+		"shield_damage": 290,
+		"hull_damage": 440,
+		"piercing": 0.2,
+		"hit_force": 30,
+		"missile_strength": 73,
+		"stream": 1
+	},
+	"description": "Korath Piercer missiles carry a pair of warheads. The first, a smaller one in the very tip of the missile, explodes on impact to blast a hole in the ship's shields to allow some of the subsequent, larger explosion to pierce through."
+}

@@ -1,0 +1,49 @@
+{
+	"race": "Hai",
+	"sprite": "ship/hai aphid",
+	"attributes": {
+		"category": "Light Freighter",
+		"cost": 570000,
+		"shields": 1700,
+		"hull": 1400,
+		"required_crew": 1,
+		"bunks": 5,
+		"mass": 100,
+		"drag": 1.9,
+		"heat_dissipation": 0.9,
+		"fuel_capacity": 400,
+		"cargo_space": 51,
+		"outfit_space": 185,
+		"weapon_capacity": 37,
+		"engine_capacity": 48,
+		"weapon": {
+			"blast_radius": 30,
+			"shield_damage": 300,
+			"hull_damage": 150,
+			"hit_force": 450
+		}
+	},
+	"outfits": {
+		"Pulse_Turret": 1,
+		"Pebble_Core": 1,
+		"Hai_Fissure_Batteries": 1,
+		"Hai_Corundum_Regenerator": 1,
+		"Hai_Williwaw_Cooling": 1,
+		"Basrem": [
+			"Atomic Thruster`",
+			"Atomic Steering`"
+		],
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-8 40",
+		"8 40"
+	],
+	"turret": "0 24 Pulse Turret",
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 20",
+		"medium explosion 15"
+	],
+	"description": "The Aphid is a light freighter designed by the Hai. It has only minimal armament."
+}

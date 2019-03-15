@@ -1,0 +1,14 @@
+{
+	"race": "Wanderer",
+	"category": "Systems",
+	"type": "Ramscoop",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 460000,
+	"thumbnail": "outfit/wanderer ramscoop",
+	"mass": 7,
+	"outfit_space": -7,
+	"ramscoop": 4,
+	"description": "Wanderer ships are designed to be self-sufficient even when traveling through uninhabited space, and their compact and efficient ramscoops are a key part of that self-sufficiency."
+}

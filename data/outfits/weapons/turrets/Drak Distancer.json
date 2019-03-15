@@ -1,0 +1,21 @@
+{
+	"race": "Drak",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 1000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 64,
+	"outfit_space": -64,
+	"weapon_capacity": -64,
+	"turret_mounts": -1,
+	"weapon": {
+		"fire_effect": "distancer flare",
+		"velocity": 2000,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 15,
+		"firing_heat": 10,
+		"firing_force": 60
+	},
+	"description": "This is a thruster that can produce force in any direction, allowing a Drak ship to keep a safe distance away from its target."
+}

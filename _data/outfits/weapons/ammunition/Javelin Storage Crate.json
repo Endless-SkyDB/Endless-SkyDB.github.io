@@ -1,0 +1,11 @@
+{
+  "file": "Javelin Storage Crate",
+  "category": "Ammunition",
+  "cost": 5000,
+  "thumbnail": "outfit/javelin storage",
+  "mass": 2,
+  "outfit_space": -6,
+  "javelin_capacity": 100,
+  "ammo": "Javelin",
+  "description": "The Javelin Storage Crate is used to store extra ammunition for Javlein Pods."
+}

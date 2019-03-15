@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"category": "Ammunition",
+	"type": "Ammunition Storage",
+	"cost": 28000,
+	"thumbnail": "outfit/hai tracker storage",
+	"mass": 4.4,
+	"outfit_space": -10,
+	"tracker_capacity": 28,
+	"ammo": "Hai Tracker",
+	"description": "The Tracker Storage Pod is used to store extra ammunition for Tracker Pods."
+}

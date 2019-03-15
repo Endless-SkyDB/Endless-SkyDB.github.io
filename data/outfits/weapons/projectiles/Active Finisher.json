@@ -1,0 +1,27 @@
+{
+	"race": "Coalition",
+	"type": "Projectile",
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/finisher",
+			"frame_rate": 2.4
+		},
+		"live_effect": "finisher trail 50",
+		"hit_effect": [
+			"finisher impact 2",
+			"finisher fragment 12"
+		],
+		"die_effect": "small explosion",
+		"lifetime": 500,
+		"acceleration": 1,
+		"drag": 0.1,
+		"turn": 2,
+		"homing": 4,
+		"radar_tracking": 0.8,
+		"optical_tracking": 0.5,
+		"missile_strength": 50,
+		"shield_damage": 1500,
+		"hull_damage": 1900,
+		"hit_force": 240
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "file": "A125 Atomic Steering",
+    "category": "Engines",
+    "cost": 120000,
+    "thumbnail": "outfit/tiny atomic steering",
+    "mass": 16,
+    "outfit_space": -16,
+    "engine_capacity": -16,
+    "turn": 392,
+    "turning_energy": 0.9,
+    "turning_heat": 2.2,
+    "description": "Deep Sky's atomic thrusters are a popular choice for high-end starships. It is not uncommon for a set of atomic engines to cost more than the ship they are installed in."
+}

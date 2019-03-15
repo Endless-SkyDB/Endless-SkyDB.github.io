@@ -1,0 +1,16 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Special Engine",
+	"cost": 340000,
+	"thumbnail": "outfit/ionic afterburner",
+	"mass": 24,
+	"outfit_space": -24,
+	"engine_capacity": -24,
+	"afterburner_thrust": 29.0,
+	"afterburner_fuel": 0.1,
+	"afterburner_energy": 5.1,
+	"afterburner_heat": 12.0,
+	"afterburner_effect": "ionic afterburner",
+	"description": "The ionic afterburner was designed by the Syndicate to compensate for the primary weakness of an ordinary afterburner: namely, that it consumes hyperspace fuel at a prodigious rate. Ionic afterburners instead use a small amount of fuel combined with a large burst of energy from your ship's batteries to achieve the same effect."
+}

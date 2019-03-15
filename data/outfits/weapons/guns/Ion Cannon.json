@@ -1,0 +1,31 @@
+{
+	"race": "Hai",
+	"category": "Guns",
+	"type": "Gun",
+	"cost": 490000,
+	"thumbnail": "outfit/ion cannon",
+	"mass": 47,
+	"outfit_space": -47,
+	"weapon_capacity": -47,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/ion bolt",
+			"frame_rate": 5
+		},
+		"sound": "ion",
+		"hit_effect": "ion impact 2",
+		"inaccuracy": 1,
+		"velocity": 16,
+		"lifetime": 50,
+		"reload": 60,
+		"firing_energy": 120,
+		"firing_force": 10,
+		"firing_heat": 150,
+		"hit_force": 120,
+		"shield_damage": 168,
+		"hull_damage": 60,
+		"ion_damage": 5
+	},
+	"description": "Ion cannons do not inflict as much damage as some other weapons, but they disrupt the electrical systems on any ship they hit, draining its energy. If a ship has sizable battery reserves, this may not have any effect, but for a ship running at near its energy generation capacity an ion strike can take it out of the battle for a few seconds while it recovers."
+}

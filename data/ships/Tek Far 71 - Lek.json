@@ -1,0 +1,78 @@
+{
+	"race": "Korath",
+	"sprite": "ship/tek far 71 lek",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 22870000,
+		"shields": 25400,
+		"hull": 29500,
+		"automaton": 1,
+		"mass": 610,
+		"drag": 9.6,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 36,
+		"outfit_space": 533,
+		"weapon_capacity": 235,
+		"engine_capacity": 102,
+		"self_destruct": 0.7,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 320,
+			"shield_damage": 4000,
+			"hull_damage": 2000,
+			"hit_force": 6000
+		}
+	},
+	"outfits": {
+		"Korath_Detainer": 1,
+		"Korath_Piercer_Launcher": 2,
+		"Korath_Piercer": 62,
+		"Korath_Banisher": 1,
+		"Korath_Warder": 2,
+		"Double_Plasma_Core": 1,
+		"Generator_(Furnace_Class)": 1,
+		"Systems_Core_(Medium)": 1,
+		"Large_Heat_Shunt": 1,
+		"Control_Transceiver": 1,
+		"Thruster_(Lunar_Class)": 1,
+		"Steering_(Lunar_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-9 219",
+		"9 219"
+	],
+	"gun": [
+		"10 -180 Korath Detainer",
+		"10 -180 Korath Piercer Launcher",
+		"10 -180 Korath Piercer Launcher"
+	],
+	"turret": [
+		"-10 -85 Korath Warder",
+		"-13 -61",
+		"-14 -38 Korath Banisher",
+		"14 177 Korath Warder"
+	],
+	"drone": [
+		"20.5 -65 over",
+		"44.5 -40 over",
+		"30 67 over",
+		"61.5 83 over",
+		"43 137 over",
+		"18 171.5 over",
+		"30 -106 under",
+		"24 -8 under",
+		"42 55 under",
+		"34 172 under"
+	],
+	"explode": [
+		"tiny explosion 80",
+		"small explosion 45",
+		"medium explosion 50",
+		"large explosion 40",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Kor Sestor war fleets rely heavily on small, powerful fighters and drones. This ship can carry up to ten of their drones, clamped to the exterior of its hull."
+}

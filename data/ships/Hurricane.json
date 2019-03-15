@@ -1,0 +1,70 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/hurricane",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Wanderer_Military": 1
+		},
+		"cost": 39100000,
+		"shields": 72400,
+		"hull": 46500,
+		"required_crew": 76,
+		"bunks": 117,
+		"mass": 770,
+		"drag": 11.9,
+		"heat_dissipation": 0.55,
+		"fuel_capacity": 500,
+		"cargo_space": 98,
+		"outfit_space": 960,
+		"weapon_capacity": 428,
+		"engine_capacity": 140,
+		"weapon": {
+			"blast_radius": 400,
+			"shield_damage": 4000,
+			"hull_damage": 2000,
+			"hit_force": 6000
+		}
+	},
+	"outfits": {
+		"Sunbeam": 6,
+		"Dual_Sunbeam_Turret": 2,
+		"Wanderer_Anti-Missile": 2,
+		"Blue_Sun_Reactor": 1,
+		"White_Sun_Reactor": 1,
+		"Dark_Storm_Shielding": 2,
+		"Wanderer_Heat_Sink": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_4_Radiant_Thruster": 1,
+		"Type_4_Radiant_Steering": 1,
+		"Type_2_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-23 181",
+		"23 181"
+	],
+	"gun": [
+		"-68 5",
+		"68 5",
+		"-85 21",
+		"85 21",
+		"-62 32",
+		"62 32"
+	],
+	"turret": [
+		"-27 -80 Dual Sunbeam Turret",
+		"27 -80 Dual Sunbeam Turret",
+		"0 -33",
+		"-39 140 Wanderer Anti-Missile",
+		"39 140 Wanderer Anti-Missile"
+	],
+	"explode": [
+		"small explosion 20",
+		"medium explosion 80",
+		"large explosion 70",
+		"huge explosion 30"
+	],
+	"final_explode": "final explosion large 1",
+	"description": "The Hurricane is not built for speed, elegance, or versatility, but for one simple purpose: to be durable enough to serve as a rearguard, absorbing an enemy's attacks for long enough to allow the fleet it is guarding to escape."
+}

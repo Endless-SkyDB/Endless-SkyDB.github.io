@@ -1,0 +1,22 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 99000,
+	"thumbnail": "outfit/medium plasma thruster",
+	"mass": 58,
+	"outfit_space": -58,
+	"engine_capacity": -58,
+	"thrust": 35.4,
+	"thrusting_energy": 3.2,
+	"thrusting_heat": 6.5,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/plasma flare/medium",
+		"frame_rate": 7
+	},
+	"flare_sound": "plasma medium",
+	"description": [
+		"Impala class thrusters produce a significant amount of force, and are suitable for smaller capital ships. But, your ship may need extra cooling systems in order to handle them.",
+		"Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
+	]
+}

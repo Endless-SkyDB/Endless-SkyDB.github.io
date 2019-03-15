@@ -1,0 +1,32 @@
+{
+  "file": "Gatling Gun",
+  "category": "Secondary Weapons",
+  "cost": 20000,
+  "thumbnail": "outfit/gat",
+  "mass": 2,
+  "outfit_space": -8,
+  "weapon_capacity": -8,
+  "gun_ports": -1,
+  "gatling_round_capacity": 3000,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/tinyflare",
+      "random_start_frame": "true"
+    },
+    "sound": "explosion tiny",
+    "ammo": "Gatling Gun Ammo",
+    "icon": "icon/gat",
+    "inaccuracy": 2,
+    "velocity": 16,
+    "lifetime": 1,
+    "reload": 3,
+    "burst_count": 180,
+    "burst_reload": 1,
+    "firing_energy": 0.03,
+    "firing_heat": 2.5,
+    "submunition": "gbullet",
+    "cluster": "true",
+    "hit_effect": "bullet impact"
+  },
+  "description": "When Dr. Richard J. Gatling invented the rapid-fire gun bearing his name in the 19th century, he hoped that its destructiveness would lead to the end of war itself. Over a millennia later, this modern incarnation of the gatling gun sees action in the stars, a testament to its fundamentally robust design - and Dr. Gatling's naivete. While capable of a high fire rate, this gun needs to cool down for twice as long as it fires, and can only sustain a maximum of three seconds of continuous fire."
+}

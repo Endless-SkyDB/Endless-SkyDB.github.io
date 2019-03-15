@@ -1,0 +1,29 @@
+{
+	"race": "Quarg",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 18000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 60,
+	"outfit_space": -60,
+	"weapon_capacity": -60,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/skylance",
+			"frame_rate": 1
+		},
+		"sound": "skylance",
+		"hit_effect": "skylance impact",
+		"inaccuracy": 0.4,
+		"velocity": 500,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 30,
+		"firing_heat": 10,
+		"shield_damage": 50,
+		"hull_damage": 40,
+		"ion_damage": 0.1
+	}
+}

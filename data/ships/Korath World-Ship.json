@@ -1,0 +1,63 @@
+{
+	"race": "Korath",
+	"sprite": "ship/world-ship a",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"cost": 27690000,
+		"shields": 47000,
+		"hull": 34000,
+		"required_crew": 794,
+		"bunks": 1492,
+		"mass": 1735,
+		"drag": 21,
+		"heat_dissipation": 0.4,
+		"fuel_capacity": 1000,
+		"cargo_space": 264,
+		"outfit_space": 778,
+		"weapon_capacity": 314,
+		"engine_capacity": 165,
+		"weapon": {
+			"blast_radius": 400,
+			"shield_damage": 8000,
+			"hull_damage": 4000,
+			"hit_force": 12000
+		}
+	},
+	"outfits": {
+		"Korath_Grab-Strike": 2,
+		"Korath_Banisher": 3,
+		"Korath_Warder": 3,
+		"Triple_Plasma_Core": 1,
+		"Systems_Core_(Large)": 1,
+		"Large_Heat_Shunt": 2,
+		"Ramscoop": 1,
+		"Intrusion_Countermeasures": 6,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-37 343 .8",
+		"0 343 .9",
+		"37 343 .8"
+	],
+	"turret": [
+		"-76 -157 Korath Grab-Strike",
+		"76 -157 Korath Banisher",
+		"-59 -135 Korath Warder",
+		"59 -135 Korath Grab-Strike",
+		"-61 -6 Korath Banisher",
+		"61 -6 Korath Warder",
+		"-66 210 Korath Warder",
+		"66 210 Korath Banisher"
+	],
+	"explode": [
+		"tiny explosion 30",
+		"small explosion 45",
+		"medium explosion 50",
+		"large explosion 40",
+		"huge explosion 50"
+	],
+	"final_explode": "final explosion large",
+	"description": "Korath World-Ships are massive nomadic habitats that hold all that is left of their people."
+}

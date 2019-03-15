@@ -1,0 +1,22 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 26000,
+	"thumbnail": "outfit/small ion thruster",
+	"mass": 27,
+	"outfit_space": -27,
+	"engine_capacity": -27,
+	"thrust": 11.5,
+	"thrusting_energy": 1.1,
+	"thrusting_heat": 1.7,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/ion flare/small",
+		"frame_rate": 1.1
+	},
+	"flare_sound": "ion small",
+	"description": [
+		"The X2700 ion thruster is intended mostly for use in small, single-person or two-person ships, as well as in fighters. It is also used in larger ships, such as freighters, that have very little space for propulsion systems or energy to drive them. But these larger ships move unbearably slowly as a result.",
+		"Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+	]
+}

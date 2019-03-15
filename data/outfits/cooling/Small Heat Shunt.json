@@ -1,0 +1,11 @@
+{
+	"race": "Korath",
+	"category": "Systems",
+	"type": "Cooling",
+	"cost": 180000,
+	"thumbnail": "outfit/small heat shunt",
+	"mass": 7,
+	"outfit_space": -7,
+	"cooling": 13.5,
+	"description": "The sheer inefficiency of most Korath equipment has forced them to become exceptionally good at one thing: dealing with large amounts of waste heat."
+}

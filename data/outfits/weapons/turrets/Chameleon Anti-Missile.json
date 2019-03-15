@@ -1,0 +1,24 @@
+{
+	"race": "Hai",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 140000,
+	"thumbnail": "outfit/heavy anti-missile hai",
+	"mass": 22,
+	"outfit_space": -22,
+	"weapon_capacity": -22,
+	"turret_mounts": -1,
+	"weapon": {
+		"hardpoint_sprite": "hardpoint/heavy anti-missile hai",
+		"hardpoint_offset": 4.0,
+		"hit_effect": "large anti-missile",
+		"anti-missile": 16,
+		"velocity": 200,
+		"lifetime": 1,
+		"reload": 15,
+		"firing_energy": 23,
+		"firing_heat": 6,
+		"stream": 1
+	},
+	"description": "The Chameleon Anti-Missile turret has a longer range, higher power, and shorter reload time than the Bullfrog."
+}

@@ -1,0 +1,32 @@
+{
+	"race": "Human",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 140000,
+	"thumbnail": "outfit/laser turret",
+	"mass": 22,
+	"outfit_space": -22,
+	"weapon_capacity": -22,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/2x laser",
+			"frame_rate": 1
+		},
+		"hardpoint_sprite": "hardpoint/laser turret",
+		"hardpoint_offset": 7.0,
+		"sound": "laser",
+		"hit_effect": "beam laser impact",
+		"inaccuracy": 0.5,
+		"turret_turn": 6,
+		"velocity": 300,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 1,
+		"firing_heat": 2.4,
+		"shield_damage": 2,
+		"hull_damage": 2.6
+	},
+	"description": "Laser Turrets are hated by fighter pilots because it is nearly impossible to dodge them once you are within their reach. This turret carries a pair of lasers and can swivel almost instantly to fire on new targets as they approach. Laser Turrets are especially useful when mounted on slow-moving freighters to fend off packs of small pirate vessels."
+}

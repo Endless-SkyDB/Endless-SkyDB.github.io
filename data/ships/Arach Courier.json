@@ -1,0 +1,53 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/arach courier",
+	"attributes": {
+		"category": "Light Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 723000,
+		"shields": 1200,
+		"hull": 2000,
+		"required_crew": 1,
+		"bunks": 1,
+		"mass": 100,
+		"drag": 2.9,
+		"heat_dissipation": 0.65,
+		"fuel_capacity": 300,
+		"cargo_space": 78,
+		"outfit_space": 148,
+		"weapon_capacity": 39,
+		"engine_capacity": 40,
+		"weapon": {
+			"blast_radius": 20,
+			"shield_damage": 200,
+			"hull_damage": 100,
+			"hit_force": 300
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 1,
+		"Small_Battery_Module": 1,
+		"Small_Repair_Module": 1,
+		"Small_Thrust_Module": 2,
+		"Small_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-27 58 .6",
+		"-15 58 .8",
+		"15 58 .8",
+		"27 58 .6"
+	],
+	"gun": [
+		"-14 -38",
+		"14 -38"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 10"
+	],
+	"final_explode": "final explosion small",
+	"description": "`These hardy little cargo ships are the perfect size for young Arachi just setting out into the sky with dreams of one day building their own merchant fleets. Of course, an Arach lucky enough to be born into one of the great Houses can probably find a patron to buy them a much larger ship instead.`"
+}

@@ -1,0 +1,64 @@
+{
+	"file": "Frigate",
+	"sprite": "ship/frigate",
+	"attributes": {
+		"category": "Medium Warship",
+		"licenses": {
+			
+		},
+		"cost": 5200000,
+		"shields": 8000,
+		"hull": 2500,
+		"required_crew": 21,
+		"bunks": 44,
+		"mass": 310,
+		"drag": 5.2,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 500,
+		"cargo_space": 35,
+		"outfit_space": 410,
+		"weapon_capacity": 170,
+		"engine_capacity": 100,
+		"weapon": {
+			"blast_radius": 100,
+			"shield_damage": 1000,
+			"hull_damage": 500,
+			"hit_force": 1500
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 2,
+		"Torpedo_Launcher": 2,
+		"Torpedo": 60,
+		"Blaster_Turret": 3,
+		"NT-200_Nucleovoltaic": 1,
+		"LP144a_Battery_Pack": 1,
+		"D41-HY_Shield_Generator": 1,
+		"X3700_Ion_Thruster": 1,
+		"X3200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-26 92",
+		"26 92"
+	],
+	"gun": [
+		"-10 -83 Particle Cannon",
+		"10 -83 Particle Cannon",
+		"-10 -83 Torpedo Launcher",
+		"10 -83 Torpedo Launcher"
+	],
+	"turret": [
+		"0 -37 Blaster Turret",
+		"-12 -12 Blaster Turret",
+		"12 -12 Blaster Turret"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion medium",
+	"description": "For centuries, the Frigate was the largest warship produced by the Republic Navy Yard, but now they seem quite small compared to a Cruiser or a Carrier. Armed with a variety of weapons, and with relatively good maneuverability for a ship its size, the Frigate is equally capable at fending off small fighters or bombarding larger ships."
+}

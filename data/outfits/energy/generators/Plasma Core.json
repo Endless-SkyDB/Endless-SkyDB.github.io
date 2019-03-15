@@ -1,0 +1,12 @@
+{
+	"race": "Korath",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 4188000,
+	"thumbnail": "outfit/plasma core",
+	"mass": 54,
+	"outfit_space": -54,
+	"energy_generation": 11.9,
+	"heat_generation": 36.0,
+	"description": "This compact fusion reactor is an ancient Korath design, and served as the mainstay of their war fleets until larger ships and more powerful weapons created a need for bigger and more powerful generators."
+}

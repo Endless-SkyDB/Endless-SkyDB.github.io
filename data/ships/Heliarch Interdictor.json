@@ -1,0 +1,65 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/heliarch interdictor",
+	"attributes": {
+		"category": "Medium Warship",
+		"licenses": {
+			"Heliarch": 1
+		},
+		"cost": 35487000,
+		"shields": 65300,
+		"hull": 54600,
+		"required_crew": 42,
+		"bunks": 70,
+		"mass": 520,
+		"drag": 7.4,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 800,
+		"cargo_space": 79,
+		"outfit_space": 544,
+		"weapon_capacity": 179,
+		"engine_capacity": 135,
+		"weapon": {
+			"blast_radius": 250,
+			"shield_damage": 3000,
+			"hull_damage": 1500,
+			"hit_force": 3800
+		}
+	},
+	"outfits": {
+		"Finisher_Pod": 2,
+		"Finisher_Torpedo": 80,
+		"Heliarch_Attractor": 1,
+		"Heliarch_Repulsor": 1,
+		"Large_Reactor_Module": 1,
+		"Large_Battery_Module": 1,
+		"Large_Shield_Module": 2,
+		"Large_Repair_Module": 1,
+		"Cooling_Module": 1,
+		"Large_Thrust_Module": 2,
+		"Large_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-30 163 .5",
+		"-20 163 .85",
+		"20 163 .85",
+		"30 163 .5"
+	],
+	"gun": [
+		"-20 -98 Finisher Pod",
+		"20 -98 Finisher Pod"
+	],
+	"turret": [
+		"-8 -63 Heliarch Attractor",
+		"8 -63 Heliarch Repulsor"
+	],
+	"explode": [
+		"small explosion 20",
+		"medium explosion 50",
+		"large explosion 30",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large 1",
+	"description": "`Anyone who incurs the wrath of the Heliarchs cannot count on making a fast getaway thanks to the Interdictors, which were primarily designed to carry a pair of attractor and repulsor beams that can hold a ship a safe distance away while pushing it around enough to prevent it from getting a hyperspace lock to jump out of the system.`"
+}

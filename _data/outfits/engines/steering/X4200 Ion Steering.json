@@ -1,0 +1,13 @@
+{
+    "file": "X4200 Ion Steering",
+    "category": "Engines",
+    "cost": 102000,
+    "thumbnail": "outfit/large ion steering",
+    "mass": 59,
+    "outfit_space": -59,
+    "engine_capacity": -59,
+    "turn": 1132,
+    "turning_energy": 1.9,
+    "turning_heat": 3.9,
+    "description": "The X4200 is a powerful steering system, designed mostly for warships because quick steering is seldom a requirement in freighter design. Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+}

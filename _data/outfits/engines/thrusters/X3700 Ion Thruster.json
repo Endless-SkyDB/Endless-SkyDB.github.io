@@ -1,0 +1,16 @@
+{
+    "file": "X3700 Ion Thruster",
+    "category": "Engines",
+    "cost": 58000,
+    "thumbnail": "outfit/medium ion thruster",
+    "mass": 46,
+    "outfit_space": -46,
+    "engine_capacity": -46,
+    "thrust": 22.1,
+    "thrusting_energy": 1.9,
+    "thrusting_heat": 3.2,
+    "flare_sprite": "effect/ion flare/medium",
+    "frame_rate": 1.0,
+    "flare_sound": "ion medium",
+    "description": "The X3700 ion thruster is designed for heavy freighters and small capital ships. In theory, it could be installed in smaller ships too, if they have enough engine space, to attain almost ridiculous speeds. Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+}

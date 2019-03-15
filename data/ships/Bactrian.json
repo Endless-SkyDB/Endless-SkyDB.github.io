@@ -1,0 +1,73 @@
+{
+	"race": "Human",
+	"sprite": "ship/bactrian",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 17600000,
+		"shields": 17500,
+		"hull": 8600,
+		"required_crew": 70,
+		"bunks": 245,
+		"mass": 940,
+		"drag": 16.1,
+		"heat_dissipation": 0.4,
+		"fuel_capacity": 700,
+		"cargo_space": 530,
+		"outfit_space": 740,
+		"weapon_capacity": 300,
+		"engine_capacity": 180,
+		"weapon": {
+			"blast_radius": 260,
+			"shield_damage": 2600,
+			"hull_damage": 1300,
+			"hit_force": 3900
+		}
+	},
+	"outfits": {
+		"Sidewinder_Missile_Launcher": 2,
+		"Sidewinder_Missile": 100,
+		"Torpedo_Launcher": 2,
+		"Torpedo": 60,
+		"Heavy_Laser_Turret": 4,
+		"Heavy_Anti-Missile_Turret": 2,
+		"Fusion_Reactor": 1,
+		"LP144a_Battery_Pack": 1,
+		"D94-YV_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"Ramscoop": 1,
+		"X4700_Ion_Thruster": 1,
+		"X5200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-18 230",
+		"18 230"
+	],
+	"gun": [
+		"-15 -226 Torpedo Launcher",
+		"15 -226 Torpedo Launcher",
+		"-40 -133 Sidewinder Missile Launcher",
+		"-45 -128 Sidewinder Missile Launcher"
+	],
+	"turret": [
+		"-22 -148 Heavy Laser Turret",
+		"26 -80 Heavy Anti-Missile Turret",
+		"-41 -20 Heavy Laser Turret",
+		"32 -7 Heavy Laser Turret",
+		"53 82 Heavy Laser Turret",
+		"-37 186 Heavy Anti-Missile Turret"
+	],
+	"fighter": [
+		"-38 -26",
+		"35 36",
+		"-47 97"
+	],
+	"explode": [
+		"small explosion 25",
+		"medium explosion 35",
+		"large explosion 45",
+		"huge explosion 30"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Lionheart Bactrian is the last of the great city-ships, a design hearkening back to the early days of space colonization when a long-distance vessel needed to be a self-contained world, able to survive for weeks at a time without encountering an inhabited planet. It is not only a freighter, but a carrier, and a capable warship either at short range or at a distance. Naturally, this versatility also makes it extremely expensive, and the Bactrian is not normally for sale to ordinary citizens who have not been vetted by the local government of the Deep."
+}

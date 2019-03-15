@@ -1,0 +1,39 @@
+{
+	"race": "Remnant",
+	"sprite": "ship/gascraft",
+	"attributes": {
+		"category": "Transport",
+		"cost": 530000,
+		"shields": 800,
+		"hull": 1500,
+		"required_crew": 1,
+		"bunks": 1,
+		"mass": 80,
+		"drag": 1.7,
+		"heat_dissipation": 0.9,
+		"fuel_capacity": 700,
+		"cargo_space": 8,
+		"outfit_space": 90,
+		"engine_capacity": 34,
+		"shield_generation": 0.6,
+		"shield_energy": 0.4,
+		"hull_repair_rate": 1.2,
+		"hull_energy": 0.9,
+		"gaslining": 1
+	},
+	"outfits": {
+		"Millennium_Cell": 1,
+		"Supercapacitor": 1,
+		"Emergency_Ramscoop": 1,
+		"Quantum_Key_Stone": 1,
+		"Crucible-Class_Thruster": 1,
+		"Crucible-Class_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": "0 30",
+	"explode": [
+		"tiny explosion 8",
+		"small explosion 7"
+	],
+	"description": "Centuries ago, the Remnant built these ships in order to explore the upper atmosphere of nearby gas giants. The Archons took issue with the Remnant's research methods, and the studies were unable to be completed. The remaining gascraft have been gathering dust in storage for centuries while the Remnant waits to see if the anger of the Archons will subside."
+}

@@ -1,0 +1,11 @@
+{
+	"race": "Korath",
+	"category": "Systems",
+	"type": "Cooling",
+	"cost": 790000,
+	"thumbnail": "outfit/large heat shunt",
+	"mass": 24,
+	"outfit_space": -24,
+	"cooling": 54,
+	"description": "Without these powerful cooling systems, most Korath warships would overheat within seconds as soon as they began to fire their weapons."
+}

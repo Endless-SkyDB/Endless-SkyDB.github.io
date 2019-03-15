@@ -1,0 +1,10 @@
+{
+  "file": "Water Coolant System",
+  "category": "Systems",
+  "cost": 25000,
+  "thumbnail": "outfit/water cooling",
+  "mass": 10,
+  "outfit_space": -10,
+  "cooling": 12,
+  "description": "This system is a step up from ordinary cooling ducts; it circulates water in between an external radiator and your ship's hottest internal components to keep them from overheating."
+}

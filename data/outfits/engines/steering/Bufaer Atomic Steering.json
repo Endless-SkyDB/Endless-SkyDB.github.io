@@ -1,0 +1,14 @@
+{
+	"race": "Hai",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 2100000,
+	"thumbnail": "outfit/huge atomic steering hai",
+	"mass": 76,
+	"outfit_space": -76,
+	"engine_capacity": -76,
+	"turn": 3043,
+	"turning_energy": 5.2,
+	"turning_heat": 13.8,
+	"description": "Nine out of ten human captains interviewed in Hai space say that they would choose Hai atomic engines over those of Deep Sky any day... that is, if they could afford such expensive engines."
+}

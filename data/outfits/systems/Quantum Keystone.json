@@ -1,0 +1,11 @@
+{
+	"race": "Hai",
+	"category": "Systems",
+	"type": "Systems",
+	"cost": 12000,
+	"thumbnail": "outfit/keystone",
+	"mass": 1,
+	"outfit_space": -1,
+	"quantum_keystone": 1,
+	"description": "This chunk of rock from the mountains on the Hai homeworld is apparently nothing more than a good luck charm, but the Hai have decorated their ships with them since the height of their empire. More superstitious Hai claim that the stones somehow reduce the nausea induced by hyperspace jumps by making travel between star systems easier."
+}

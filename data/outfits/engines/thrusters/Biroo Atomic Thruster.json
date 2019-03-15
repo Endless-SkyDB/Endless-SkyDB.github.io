@@ -1,0 +1,19 @@
+{
+	"race": "Hai",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 610000,
+	"thumbnail": "outfit/medium atomic thruster hai",
+	"mass": 44,
+	"outfit_space": -44,
+	"engine_capacity": -44,
+	"thrust": 41.5,
+	"thrusting_energy": 4.2,
+	"thrusting_heat": 8.6,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/atomic flare/small",
+		"frame_rate": 13
+	},
+	"flare_sound": "atomic small",
+	"description": "This thruster is the standard thruster on most Hai light warships, providing enough thrust to make them useable in combat, but it is not quite big enough to suffice for something as large as a Hai Shield Beetle."
+}

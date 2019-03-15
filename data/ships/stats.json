@@ -1,0 +1,111 @@
+{
+	"cost_min": 50000,
+	"cost": "bad",
+	"cost_max": 1000000000,
+
+	"shields_min": 200,
+	"shields": "good",
+	"shields_max": 4000000,
+
+	"hull_min": 200,
+	"hull": "good",
+	"hull_max": 1000000,
+
+	"required_crew_min": 1,
+	"required_crew": "bad",
+	"required_crew_max": 794,
+
+	"bunks_min": 1,
+	"bunks": "good",
+	"bunks_max": 1492,
+
+	"mass_min": 15,
+	"mass": "bad",
+	"mass_max": 1735,
+
+	"drag_min": 0.53,
+	"drag": "bad",
+	"drag_max": 27,
+
+	"heat_dissipation_min": 0.27,
+	"heat_dissipation": "good",
+	"heat_dissipation_max": 40,
+
+	"fuel_capacity_min": 200,
+	"fuel_capacity": "good",
+	"fuel_capacity_max": 1200,
+
+	"cargo_space_min": 0,
+	"cargo_space": "good",
+	"cargo_space_max": 1140,
+
+	"outfit_space_min": 45,
+	"outfit_space": "good",
+	"outfit_space_max": 1054,
+
+	"weapon_capacity_min": 0,
+	"weapon_capacity": "good",
+	"weapon_capacity_max": 600,
+
+	"engine_capacity_min": 22,
+	"engine_capacity": "good",
+	"engine_capacity_max": 220,
+
+	"shield_generation_min": 0.6,
+	"shield_generation": "good",
+	"shield_generation_max": 100,
+
+	"shield_energy_min": 0.4,
+	"shield_energy": "good",
+	"shield_energy_max": 100,
+
+	"hull_repair_rate_min": 0.8,
+	"hull_repair_rate": "good",
+	"hull_repair_rate_max": 100,
+
+	"hull_energy_min": 0.6,
+	"hull_energy": "good",
+	"hull_energy_max": 100,
+
+	"energy_capacity_min": 1000,
+	"energy_capacity": "good",
+	"energy_capacity_max": 10000,
+
+	"energy_generation_min": 10,
+	"energy_generation": "good",
+	"energy_generation_max": 500,
+
+	"heat_generation_min": 10,
+	"heat_generation": "bad",
+	"heat_generation_max": 48,
+
+	"ramscoop_min": 2,
+	"ramscoop": "good",
+	"ramscoop_max": 100,
+
+	"atmosphere_scan_min": 100,
+	"atmosphere_scan": "good",
+	"atmosphere_scan_max": 100,
+
+	"self_destruct_min": 0.15,
+	"self_destruct": "bad",
+	"self_destruct_max": 0.8,
+
+	"cloaking_fuel_min": -0.2,
+	"cloaking_fuel": "bad",
+	"cloaking_fuel_max": 0.1,
+
+	"cloak_min": 0.02,
+	"cloak": "good",
+	"cloak_max": 0.02,
+
+	"cloaking_energy_min": 5,
+	"cloaking_energy": "bad",
+	"cloaking_energy_max": 5,
+
+	"group": [
+		["cost", "mass"],
+		["shields", "hull", "bunks", "heat_dissipation", "fuel_capacity", "cargo_space", "outfit_space", "weapon_capacity", "engine_capacity", "shield_generation", "shield_energy", "hull_repair_rate", "hull_energy", "energy_capacity", "energy_generation", "ramscoop", "atmosphere_scan", "cloak"],
+		["required_crew", "drag", "heat_generation", "self_destruct", "cloaking_fuel", "cloaking_energy"]
+	]
+}

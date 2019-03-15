@@ -1,0 +1,22 @@
+{
+	"race": "Coalition",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 66000,
+	"thumbnail": "outfit/small thrust module",
+	"mass": 9,
+	"outfit_space": -9,
+	"engine_capacity": -9,
+	"thrust": 6.6,
+	"thrusting_energy": 0.46,
+	"thrusting_heat": 3.5,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/coalition small flare",
+		"frame_rate": 4.8
+	},
+	"flare_sound": "atomic tiny",
+	"description": "This tiny thruster produces a considerable amount of thrust... but also a considerable amount of heat."
+}

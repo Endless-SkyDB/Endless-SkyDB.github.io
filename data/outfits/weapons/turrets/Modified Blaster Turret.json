@@ -1,0 +1,29 @@
+{
+	"race": "Human",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 170000,
+	"thumbnail": "outfit/mod blaster turret",
+	"mass": 18,
+	"outfit_space": -18,
+	"weapon_capacity": -18,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": "projectile/mod blaster",
+		"hardpoint_sprite": "hardpoint/mod blaster turret",
+		"hardpoint_offset": 9.0,
+		"sound": "mod blaster",
+		"hit_effect": "blaster impact",
+		"inaccuracy": 4,
+		"turret_turn": 4,
+		"velocity": 7.5,
+		"lifetime": 60,
+		"reload": 6,
+		"firing_energy": 16,
+		"firing_heat": 55,
+		"shield_damage": 12,
+		"hull_damage": 8
+	},
+	"description": "This is a turreted version of the Modified Blaster, which is an Energy Blaster modified for greater power at the cost of higher energy consumption and heat. These turrets are popular with pirates and others who are trying to cram as much firepower into their ships as possible."
+}

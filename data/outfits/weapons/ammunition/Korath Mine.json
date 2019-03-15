@@ -1,0 +1,10 @@
+{
+	"race": "Korath",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 3500,
+	"thumbnail": "outfit/korath mine",
+	"mass": 0.7,
+	"minelayer_capacity": -1,
+	"description": "This is ammunition for a Korath Minelayer. Each mine splits into eleven submunitions after it is deployed."
+}

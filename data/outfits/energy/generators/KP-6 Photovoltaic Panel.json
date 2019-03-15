@@ -1,0 +1,11 @@
+{
+	"race": "Human",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 10000,
+	"thumbnail": "outfit/tiny photovoltaic",
+	"mass": 3,
+	"outfit_space": -3,
+	"solar_collection": 0.1,
+	"description": "This early commercial photovoltaic system was the driving force behind humanity's first interplanetary trade network. Rugged and modular, it can be bolted to the hull of any ship and has seen even the most remote parts of human space."
+}

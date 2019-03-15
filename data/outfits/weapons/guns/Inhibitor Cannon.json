@@ -1,0 +1,37 @@
+{
+	"race": "Remnant",
+	"category": "Guns",
+	"type": "Gun",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 471000,
+	"thumbnail": "outfit/inhibitor cannon",
+	"mass": 16,
+	"outfit_space": -16,
+	"weapon_capacity": -16,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/inhibitor",
+			"frame_rate": 10,
+			"no_repeat": 1
+		},
+		"sound": "particle",
+		"hit_effect": "inhibitor impact 3",
+		"inaccuracy": 0.5,
+		"velocity": 36,
+		"random_velocity": 0.5,
+		"lifetime": 24,
+		"reload": 13,
+		"cluster": 1,
+		"firing_energy": 26,
+		"firing_heat": 45.5,
+		"firing_force": 13,
+		"shield_damage": 26,
+		"hull_damage": 19.5,
+		"hit_force": 39,
+		"slowing_damage": 0.5
+	},
+	"description": "`Nearly a century ago, a Remnant scout exploring space north of the Ember Waste came under fire from an alien fleet armed with weapons that interfered with the scout's engines. The story says that the Remnant captain calmly told her crew, We aren't going home until we steal that weapon. That alien technology became the basis of the Inhibitor Cannon.`"
+}

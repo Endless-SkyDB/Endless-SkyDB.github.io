@@ -1,0 +1,520 @@
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\special
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Cooling Ducts.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Cooling Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Hai Williwaw Cooling.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Large Heat Shunt.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Liquid Helium Cooler.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Liquid Nitrogen Cooler.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Small Heat Shunt.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Thermoelectric Cooler.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Wanderer Heat Sink.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\cooling\Water Coolant System.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Crystal Capacitor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Hai Chasm Batteries.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Hai Fissure Batteries.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Hai Gorge Batteries.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Hai Ravine Batteries.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Hai Valley Batteries.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Large Battery Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\LP036a Battery Pack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\LP072a Battery Pack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\LP144a Battery Pack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\LP288a Battery Pack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\LP576a Battery Pack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Nanotech Battery.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Small Battery Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\batteries\Supercapacitor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Aeon Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Antimatter Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Armageddon Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Blue Sun Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Boulder Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Breeder Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Double Plasma Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Dwarf Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Epoch Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Fission Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Fusion Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Generator (Candle Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Generator (Furnace Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Generator (Inferno Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Geode Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\KP-6 Photovoltaic Array.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\KP-6 Photovoltaic Panel.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Large Biochemical Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Large Collector Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Large Reactor Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Millennium Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\nGVF-AA Fuel Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\nGVF-BB Fuel Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\nGVF-CC Fuel Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\nGVF-DD Fuel Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\nGVF-EE Fuel Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\NT-200 Nucleovoltaic.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Pebble Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Plasma Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Red Sun Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\RT-I Radiothermal.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\S3 Thermionic.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Sand Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Small Biochemical Cell.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Small Collector Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Small Reactor Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Stack Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Triple Plasma Core.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\White Sun Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\energy\generators\Yellow Sun Reactor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\special
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\special\Afterburner.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\special\Baellie Atomic Engines.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\special\Ionic Afterburner.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\special\X1050 Ion Engines.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\A125 Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\A255 Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\A375 Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\A525 Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\A865 Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Basrem Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Benga Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Biroo Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Bondir Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Bufaer Atomic Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Chipmunk Plasma Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Crucible-Class Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Forge-Class Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Greyhound Plasma Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Impala Plasma Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Large Steering Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Medium Graviton Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Orca Plasma Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Pug Akfar Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Pug Cormet Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Pug Lohmar Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Small Steering Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Smelter-Class Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Steering (Asteroid Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Steering (Comet Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Steering (Lunar Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Steering (Planetary Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Steering (Stellar Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Type 1 Radiant Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Type 2 Radiant Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Type 3 Radiant Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Type 4 Radiant Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\Tyrant Plasma Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\X1200 Ion Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\X2200 Ion Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\X3200 Ion Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\X4200 Ion Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\steering\X5200 Ion Steering.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\A120 Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\A250 Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\A370 Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\A520 Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\A860 Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\AR120 Reverse Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Basrem Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Benga Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Biroo Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Bondir Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Bufaer Atomic Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Chipmunk Plasma Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Crucible-Class Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Forge-Class Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Greyhound Plasma Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Impala Plasma Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Large Thrust Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Medium Graviton Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Orca Plasma Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Pug Akfar Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Pug Cormet Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Pug Lohmar Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Small Thrust Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Smelter-Class Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Thruster (Asteroid Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Thruster (Comet Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Thruster (Lunar Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Thruster (Planetary Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Thruster (Stellar Class).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Type 1 Radiant Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Type 2 Radiant Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Type 3 Radiant Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Type 4 Radiant Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\Tyrant Plasma Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\X1700 Ion Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\X2700 Ion Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\X3700 Ion Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\X4700 Ion Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\engines\thrusters\X5700 Ion Thruster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand\Fragmentation Grenades.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand\Intrusion Countermeasures.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand\Laser Rifle.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand\Nerve Gas.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand\Pug Biodefenses.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\hand to hand\Security Station.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Bright Cloud Shielding.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\D14-RN Shield Generator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\D23-QP Shield Generator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\D41-HY Shield Generator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\D67-TM Shield Generator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\D94-YV Shield Generator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Dark Storm Shielding.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Hai Corundum Regenerator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Hai Diamond Regenerator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Large Shield Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Quantum Shield Generator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\S-270 Regenerator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\S-970 Regenerator.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\shield\Small Shield Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\special\Local Map.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\special\Pilot's License.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Bunk Room.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Cargo Expansion.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Cargo Scanner.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Catalytic Ramscoop.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Cloaking Device.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Command Center.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Control Transceiver.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Emergency Ramscoop.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Fuel Pod.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Hyperdrive.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Interference Plating.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Jump Drive.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Large Radar Jammer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Large Repair Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Outfit Scanner.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Outfits Expansion.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Quantum Key Stone.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Quantum Keystone.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Ramscoop.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Reasoning Node.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Scram Drive.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Small Bunk Room.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Small Radar Jammer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Small Repair Module.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Surveillance Pod.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Systems Core (Large).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Systems Core (Medium).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Systems Core (Small).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\systems\Wanderer Ramscoop.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Bullet Boxes.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Finisher Torpedo.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Gatling Gun Ammo.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Hai Tracker.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Heavy Rocket Rack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Heavy Rocket.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Javelin Storage Crate.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Javelin.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Korath Mine Rack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Korath Mine.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Korath Piercer Rack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Korath Piercer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Meteor Missile Box.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Meteor Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Railgun Slug.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Sidewinder Missile Rack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Sidewinder Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Thunderhead Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Thunderhead Storage Array.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Torpedo Storage Rack.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Torpedo.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Tracker Storage Pod.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Typhoon Storage Tube.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\ammunition\Typhoon Torpedo.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Beam Laser.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Bombardment Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Drak Antimatter Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Electron Beam.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Energy Blaster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Heavy Laser.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Inhibitor Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Ion Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Ion Rain Gun.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Korath Detainer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Korath Fire-Lance.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Korath Repeater.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Korath Slicer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Modified Blaster.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Particle Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Plasma Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Proton Gun.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Pug Seeker.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Pug Zapper.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Pulse Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Sunbeam.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\guns\Thrasher Cannon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\Active Finisher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\Drak Antimatter Fragment.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\Flamethrower Projectile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\gbullet.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\Korath Mine Submunition.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\Proton Fragment.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\rslug.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\projectiles\Thunderhead.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Finisher Pod.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Flamethrower.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Gatling Gun.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Hai Tracker Pod.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Heavy Rocket Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Javelin Pod.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Korath Minelayer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Korath Piercer Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Meteor Missile Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Nuclear Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Railgun.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Sidewinder Missile Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Thunderhead Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Torpedo Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\secondary weapons\Typhoon Launcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Anti-Missile Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Blaster Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Bombardment Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Bullfrog Anti-Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Chameleon Anti-Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Drak Anti-Missile Field.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Drak Distancer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Drak Draining Field.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Drak Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Dual Sunbeam Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Electron Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Heavy Anti-Missile Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Heavy Laser Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Heliarch Attractor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Heliarch Repulsor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Korath Banisher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Korath Disruptor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Korath Grab-Strike.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Korath Repeater Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Korath Slicer Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Korath Warder.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Laser Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Modified Blaster Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Plasma Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Point Defense Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Pug Anti-Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Pug Gridfire Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Pug Zapper Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Pulse Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Quad Blaster Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Quarg Anti-Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Quarg Skylance.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Sunbeam Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Thrasher Turret.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Tier 3 Anti-Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\outfits\weapons\turrets\Wanderer Anti-Missile.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Aerie.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Albatross Albatross (Heavy).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Albatross Albatross (Sniper).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Albatross Albatross (Turret).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Albatross.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Aphid Aphid (Anti-Missile).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Aphid.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Arach Courier.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Arach Freighter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Arach Hulk.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Arach Spindle.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Arach Transport.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Archon Archon (Cloaked).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Archon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Argosy.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Arrow.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Autumn Leaf.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Bactrian.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Barb Barb (Proton).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Barb.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Bastion.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Behemoth.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Berserker.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Blackbird.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Bounder.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Boxwing.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Bulk Freighter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Carrier.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Class C Freighter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Clipper.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Combat Drone.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Corvette.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Cruiser.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Dagger.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River Deep River 0.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River Deep River 1.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River Deep River 2.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River Deep River 3.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River Deep River 4.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River Transport.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Deep River.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Derecho Derecho (Tough).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Derecho Derecho (Turret).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Derecho.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Dreadnought.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Earth Shaper.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Falcon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Far Lek 14.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Far Osk 27.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Finch.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Firebird.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Flea.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Flivver.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Flycatcher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Freighter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Frigate.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Fury.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Gascraft.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Gunboat.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hauler II.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hauler III.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hauler.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hawk.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Headhunter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heavy Shuttle.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Interdictor Heliarch Interdictor (Bombardment).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Interdictor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Neutralizer Heliarch Neutralizer (Missile).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Neutralizer Heliarch Neutralizer (Nimble).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Neutralizer Heliarch Neutralizer (Scrappy).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Neutralizer.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Punisher Heliarch Punisher (Interdicting).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Punisher Heliarch Punisher (Missile).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Punisher Heliarch Punisher (Scrappy).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Heliarch Punisher.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hurricane Hurricane (Tough).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hurricane Hurricane (Turret).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Hurricane.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kar Ik Vot 349 Kar Ik Vot 349 (Defense).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kar Ik Vot 349 Kar Ik Vot 349 (Offense).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kar Ik Vot 349 Kar Ik Vot 349 (Trapper).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kar Ik Vot 349.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kimek Briar.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kimek Spire.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kimek Thistle.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Kimek Thorn.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath Chaser.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath Raider Korath Raider (Hyperdrive).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath Raider.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath World-Ship Korath World-Ship A (Jump).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath World-Ship Korath World-Ship B (Jump).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath World-Ship Korath World-Ship B.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath World-Ship Korath World-Ship C (Jump).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath World-Ship Korath World-Ship C.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Korath World-Ship.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Lance.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Leviathan.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Lightning Bug Lightning Bug (Pulse).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Lightning Bug.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Manta.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Arrow Marauder Arrow (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Arrow Marauder Arrow (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Arrow.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Bounder Marauder Bounder (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Bounder Marauder Bounder (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Bounder.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Falcon Marauder Falcon (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Falcon Marauder Falcon (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Falcon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Firebird Marauder Firebird (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Firebird Marauder Firebird (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Firebird.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Fury.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Leviathan Marauder Leviathan (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Leviathan Marauder Leviathan (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Leviathan.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Manta Marauder Manta (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Manta Marauder Manta (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Manta.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Quicksilver Marauder Quicksilver (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Quicksilver Marauder Quicksilver (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Quicksilver.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Raven Marauder Raven (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Raven Marauder Raven (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Raven.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Splinter Marauder Splinter (Engines).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Splinter Marauder Splinter (Weapons).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Marauder Splinter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Met Par Tek 53 Met Par Tek 53 (Sniper).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Met Par Tek 53.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 128.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 16.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 256.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 32.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 512.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 64.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Model 8.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Modified Argosy.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Mule.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Nest.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Osprey.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Pond Strider.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Protector.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Pug Arfecta.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Pug Enfolta.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Pug Maboro.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Pug Zibruka.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Quarg Skylark.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Quarg Wardragon.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Quicksilver.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Rainmaker.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Raven.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Roost.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Saryd Runabout.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Saryd Sojourner.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Saryd Traveler.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Saryd Visitor.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Scout.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Shield Beetle Shield Beetle (Jump).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Shield Beetle Shield Beetle (Jump, Tracker).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Shield Beetle Shield Beetle (Pulse).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Shield Beetle Shield Beetle (Tracker).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Shield Beetle.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Shuttle.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Skein.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Solifuge Solifuge (Jump).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Solifuge Solifuge (Jump, Pulse).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Solifuge Solifuge (Jump, Tracker).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Solifuge Solifuge (Pulse).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Solifuge Solifuge (Tracker).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Solifuge.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Sparrow.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Splinter.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Star Barge.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Star Queen.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Starling Starling (Heavy).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Starling Starling (Hunter).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Starling Starling (Sniper).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Starling Starling (Thrasher).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Starling.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Strong Wind.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Summer Leaf.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Surveillance Drone.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tek Far 109.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tek Far 71 - Lek Tek Far 71 - Lek (Close Quarters).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tek Far 71 - Lek.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tek Far 78 - Osk Tek Far 78 - Osk (Close Quarters).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tek Far 78 - Osk.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tempest Tempest (Heavy).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tempest Tempest (Missile).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Tempest.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Vanguard.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Violin Spider Violin Spider (Pulse).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Violin Spider.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Wasp.json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Water Bug Water Bug (Jump).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Water Bug Water Bug (Pulse).json
+C:\Users\Ben\Desktop\JavascriptProjects\endlessSkyDB\data\ships\Water Bug.json

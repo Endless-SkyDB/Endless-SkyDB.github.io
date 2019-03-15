@@ -1,0 +1,31 @@
+{
+  "file": "Electron Turret",
+  "category": "Turrets",
+  "cost": 720000,
+  "thumbnail": "outfit/electron turret",
+  "mass": 54,
+  "outfit_space": -54,
+  "weapon_capacity": -54,
+  "turret_mounts": -1,
+  "required_crew": 1,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/2x electron",
+      "frame_rate": 60
+    },
+    "hardpoint_sprite": "hardpoint/electron turret",
+    "hardpoint_offset": 8.0,
+    "sound": "electron beam",
+    "hit_effect": "electron impact",
+    "inaccuracy": 0.3,
+    "turret_turn": 2.5,
+    "velocity": 450,
+    "lifetime": 1,
+    "reload": 1,
+    "firing_energy": 3.0,
+    "firing_heat": 5.2,
+    "shield_damage": 5.8,
+    "hull_damage": 7.8
+  },
+  "description": "This turret places two of Deep Sky's recently developed electron beam weapons onto a rotating turret, providing unsurpassed accuracy and power for shooting down fast-moving targets."
+}

@@ -1,0 +1,11 @@
+{
+    "file": "nGVF-EE Fuel Cell",
+    "category": "Power",
+    "cost": 177000,
+    "thumbnail": "outfit/huge fuel cell",
+    "mass": 80,
+    "outfit_space": -80,
+    "energy_generation": 5.9,
+    "heat_generation": 7.8,
+    "description": "This is the largest fuel cell available, larger than some nuclear reactors but much, much more affordable. Many captains on a tight budget are willing to put up with one of these until they can raise the money for something more efficient."
+}

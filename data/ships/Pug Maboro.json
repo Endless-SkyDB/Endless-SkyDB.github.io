@@ -1,0 +1,63 @@
+{
+	"race": "Pug",
+	"sprite": "ship/pug maboro",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 9500000,
+		"shields": 12600,
+		"hull": 2700,
+		"required_crew": 54,
+		"bunks": 87,
+		"mass": 940,
+		"drag": 9.8,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 600,
+		"cargo_space": 70,
+		"outfit_space": 560,
+		"weapon_capacity": 309,
+		"engine_capacity": 148,
+		"energy_generation": 32,
+		"shield_generation": 10,
+		"shield_energy": 10,
+		"heat_generation": 48,
+		"energy_capacity": 4000,
+		"weapon": {
+			"blast_radius": 300,
+			"shield_damage": 1200,
+			"hull_damage": 600,
+			"hit_force": 1800
+		}
+	},
+	"outfits": {
+		"Pug_Seeker": 4,
+		"Pug_Zapper_Turret": 2,
+		"Pug_Anti-Missile": 1,
+		"Pug_Biodefenses": 8,
+		"Jump_Drive": 1,
+		"Pug_Lohmar_Thruster": 1,
+		"Pug_Lohmar_Steering": 1
+	},
+	"engine": [
+		"-20 136",
+		"20 136"
+	],
+	"gun": [
+		"-20 -150 Pug Seeker",
+		"20 -150 Pug Seeker",
+		"-10 -150 Pug Seeker",
+		"10 -150 Pug Seeker"
+	],
+	"turret": [
+		"0 -50 Pug Anti-Missile",
+		"-15 -35 Pug Zapper Turret",
+		"15 -35 Pug Zapper Turret"
+	],
+	"explode": [
+		"small explosion 25",
+		"medium explosion 30",
+		"large explosion 20",
+		"huge explosion 5"
+	],
+	"final_explode": "final explosion large",
+	"description": "This is the largest Pug warship."
+}

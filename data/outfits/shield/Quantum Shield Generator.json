@@ -1,0 +1,11 @@
+{
+	"race": "Quarg",
+	"category": "Systems",
+	"type": "Shield",
+	"cost": 30000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 120,
+	"outfit_space": -120,
+	"shield_generation": 10,
+	"shield_energy": 10
+}

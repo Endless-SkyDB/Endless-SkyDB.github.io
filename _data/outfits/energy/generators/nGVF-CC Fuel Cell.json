@@ -1,0 +1,11 @@
+{
+    "file": "nGVF-CC Fuel Cell",
+    "category": "Power",
+    "cost": 72000,
+    "thumbnail": "outfit/medium fuel cell",
+    "mass": 40,
+    "outfit_space": -40,
+    "energy_generation": 2.6,
+    "heat_generation": 3.8,
+    "description": "This is a medium-sized fuel cell, designed to be sufficient for larger civilian ships and small warships while still being more affordable than the more sophisticated generator options."
+}

@@ -1,0 +1,13 @@
+{
+	"race": "Korath",
+	"plural": "Generators (Furnace Class)",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 925000,
+	"thumbnail": "outfit/medium korath generator",
+	"mass": 39,
+	"outfit_space": -39,
+	"energy_generation": 5.5,
+	"heat_generation": 13.0,
+	"description": "Because Korath equipment is so power-hungry, they use radiothermal generators even in their fighters and interceptors, rather than relying on fuel cells or other comparable technology."
+}

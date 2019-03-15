@@ -1,0 +1,27 @@
+{
+	"cost_min": 8000,
+	"cost": "bad",
+	"cost_max": 100000,
+
+	"capture_attack_min": 0.6,
+	"capture_attack": "good",
+	"capture_attack_max": 2.8,
+
+	"capture_defense_min": 0.3,
+	"capture_defense": "good",
+	"capture_defense_max": 250,
+
+	"mass_min": 2,
+	"mass": "bad",
+	"mass_max": 2,
+
+	"outfit_space_min": -2,
+	"outfit_space": "bad",
+	"outfit_space_max": -2,
+	"outfit_space_operation": "flip",
+
+	"group": [
+		["cost", "mass"],
+		["capture_attack", "capture_defense"]
+	]
+}

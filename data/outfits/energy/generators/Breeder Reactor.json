@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 2500000,
+	"thumbnail": "outfit/breeder",
+	"mass": 80,
+	"outfit_space": -80,
+	"energy_generation": 12.8,
+	"heat_generation": 35,
+	"description": "A breeder reactor is a more efficient fission reactor that captures some of the neutron radiation produced by the reactor and uses it to enrich more fuel. They are also, of course, bigger and more expensive as a result."
+}

@@ -1,0 +1,71 @@
+{
+	"race": "Hai",
+	"sprite": "ship/hai shield beetle",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 17900000,
+		"shields": 32000,
+		"hull": 9800,
+		"required_crew": 47,
+		"bunks": 95,
+		"mass": 650,
+		"drag": 8.8,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 500,
+		"cargo_space": 142,
+		"outfit_space": 798,
+		"weapon_capacity": 333,
+		"engine_capacity": 150,
+		"weapon": {
+			"blast_radius": 400,
+			"shield_damage": 4000,
+			"hull_damage": 2000,
+			"hit_force": 3000
+		}
+	},
+	"outfits": {
+		"Ion_Cannon": 4,
+		"Hai_Tracker_Pod": 4,
+		"Hai_Tracker": 224,
+		"Chameleon_Anti-Missile": 2,
+		"Boulder_Reactor": 1,
+		"Geode_Reactor": 1,
+		"Hai_Gorge_Batteries": 1,
+		"Hai_Ravine_Batteries": 1,
+		"Hai_Diamond_Regenerator": 1,
+		"Hai_Williwaw_Cooling": 2,
+		"Quantum_Keystone": 1,
+		"Bondir Atomic Thruster": 1,
+		"Bufaer Atomic Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-44 133",
+		"44 133"
+	],
+	"gun": [
+		"-22 -102 Ion Cannon",
+		"22 -102 Ion Cannon",
+		"-34 -68 Hai Tracker Pod",
+		"34 -68 Hai Tracker Pod",
+		"-49 -38 Ion Cannon",
+		"49 -38 Ion Cannon",
+		"-61 -14 Hai Tracker Pod",
+		"61 -14 Hai Tracker Pod"
+	],
+	"turret": [
+		"-39 48",
+		"39 48",
+		"-57 75 Chameleon Anti-Missile",
+		"57 75 Chameleon Anti-Missile"
+	],
+	"explode": [
+		"tiny explosion 50",
+		"small explosion 50",
+		"medium explosion 50",
+		"large explosion 50",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Shield Beetle is a versatile warship used by the Hai to guard their merchant convoys."
+}

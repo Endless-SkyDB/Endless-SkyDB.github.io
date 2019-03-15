@@ -1,0 +1,64 @@
+{
+	"race": "Drak",
+	"noun": "entity",
+	"sprite": "ship/archon-0",
+	"never_disabled": 1,
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 1000000000,
+		"shields": 4000000,
+		"hull": 1000000,
+		"required_crew": 1,
+		"bunks": 1,
+		"mass": 1000,
+		"drag": 27,
+		"heat_dissipation": 40,
+		"fuel_capacity": 800,
+		"cargo_space": 0,
+		"outfit_space": 800,
+		"weapon_capacity": 600,
+		"engine_capacity": 200,
+		"energy_capacity": 10000,
+		"energy_generation": 500,
+		"shield_generation": 100,
+		"shield_energy": 100,
+		"hull_repair_rate": 100,
+		"hull_energy": 100,
+		"heat_generation": 17,
+		"ramscoop": 100,
+		"weapon": {
+			"blast_radius": 200,
+			"shield_damage": 20000,
+			"hull_damage": 10000,
+			"hit_force": 30000
+		}
+	},
+	"outfits": {
+		"Drak_Antimatter_Cannon": 1,
+		"Drak_Anti-Missile_Field": 2,
+		"Drak_Draining_Field": 1,
+		"Drak_Distancer": 2,
+		"Drak_Turret": 3,
+		"Medium_Graviton_Thruster": 1,
+		"Medium_Graviton_Steering": 1,
+		"Hyperdrive": 1,
+		"Jump_Drive": 1
+	},
+	"engine": [
+		"-17 92",
+		"17 92"
+	],
+	"gun": "0 -74 Drak Antimatter Cannon",
+	"turret": [
+		"0 -10 Drak Anti-Missile Field",
+		"0 -10 Drak Anti-Missile Field",
+		"0 -10 Drak Draining Field",
+		"-40 -13 Drak Turret",
+		"40 -13 Drak Turret",
+		"0 81 Drak Turret",
+		"-55 16 Drak Distancer",
+		"55 16 Drak Distancer"
+	],
+	"explode": "nuke explosion 3",
+	"final_explode": "final explosion large"
+}

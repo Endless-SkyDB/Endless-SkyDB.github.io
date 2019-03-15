@@ -1,0 +1,57 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/arach transport",
+	"attributes": {
+		"category": "Light Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 2772000,
+		"shields": 2300,
+		"hull": 4800,
+		"required_crew": 2,
+		"bunks": 5,
+		"mass": 280,
+		"drag": 7.2,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 190,
+		"outfit_space": 281,
+		"weapon_capacity": 96,
+		"engine_capacity": 70,
+		"weapon": {
+			"blast_radius": 40,
+			"shield_damage": 400,
+			"hull_damage": 200,
+			"hit_force": 600
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 2,
+		"Small_Battery_Module": 1,
+		"Small_Shield_Module": 1,
+		"Small_Repair_Module": 1,
+		"Large_Thrust_Module": 1,
+		"Large_Steering_Module": 1,
+		"Small_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-14 117 .4",
+		"-7 117 .9",
+		"7 117 .9",
+		"14 117 .4"
+	],
+	"gun": [
+		"-22 13",
+		"22 13"
+	],
+	"turret": "0 -77",
+	"explode": [
+		"small explosion 10",
+		"medium explosion 30",
+		"large explosion 5"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`The Arach Transport is the oldest of their ship designs, dating back to the time when they first joined the Coalition in overthrowing the Quarg and capturing their ringworlds. Back then, Transports were occasionally used as warships, but now, thousands of years later, they are considered outdated compared to the latest Heliarch military ships.`"
+}

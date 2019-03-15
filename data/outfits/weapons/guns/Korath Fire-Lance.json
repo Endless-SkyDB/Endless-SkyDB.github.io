@@ -1,0 +1,30 @@
+{
+	"race": "Korath",
+	"category": "Guns",
+	"type": "Gun",
+	"cost": 697000,
+	"thumbnail": "outfit/fire-lance",
+	"mass": 22,
+	"outfit_space": -22,
+	"weapon_capacity": -22,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/fire-lance",
+			"frame_rate": 12,
+			"random_start_frame": 1
+		},
+		"sound": "fire-lance",
+		"hit_effect": "fire-lance impact",
+		"inaccuracy": 0.4,
+		"velocity": 350,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 2.5,
+		"firing_heat": 1.7,
+		"shield_damage": 3.5,
+		"hull_damage": 1.5,
+		"heat_damage": 12
+	},
+	"description": "The Korath Fire-Lance is a medium-range beam weapon designed to be used by their fighters."
+}

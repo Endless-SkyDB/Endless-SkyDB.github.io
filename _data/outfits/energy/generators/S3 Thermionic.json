@@ -1,0 +1,11 @@
+{
+    "file": "S3 Thermionic",
+    "category": "Power",
+    "cost": 360000,
+    "thumbnail": "outfit/small thermionic",
+    "mass": 55,
+    "outfit_space": -55,
+    "energy_generation": 5.0,
+    "heat_generation": 12,
+    "description": "Thermionic radioisotopic generators were designed as a cooler-running alternative to radiothermal generators."
+}

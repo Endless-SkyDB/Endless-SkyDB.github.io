@@ -1,0 +1,33 @@
+{
+  "file": "Plasma Turret",
+  "category": "Turrets",
+  "cost": 520000,
+  "thumbnail": "outfit/plasma turret",
+  "mass": 60,
+  "outfit_space": -60,
+  "weapon_capacity": -60,
+  "turret_mounts": -1,
+  "required_crew": 1,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/plasma",
+      "frame_rate": 3
+    },
+    "hardpoint_sprite": "hardpoint/plasma turret",
+    "hardpoint_offset": 15.0,
+    "sound": "plasma",
+    "hit_effect": "plasma explosion",
+    "inaccuracy": 2,
+    "turret_turn": 2,
+    "velocity": 12,
+    "lifetime": 40,
+    "reload": 9,
+    "firing_energy": 30,
+    "firing_heat": 180,
+    "hit_force": 30,
+    "shield_damage": 63,
+    "hull_damage": 25,
+    "heat_damage": 340
+  },
+  "description": "The Plasma Turret is a pair of plasma cannons mounted on a turret so that they can fire in any direction. It is a fearsome weapon, but only the largest of ships have the space and the energy that it requires."
+}

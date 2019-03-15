@@ -1,0 +1,41 @@
+{
+	"cost_min": 10000,
+	"cost": "bad",
+	"cost_max": 16000000,
+
+	"mass_min": 7,
+	"mass": "bad",
+	"mass_max": 125,
+
+	"outfit_space_min": -125,
+	"outfit_space": "bad",
+	"outfit_space_max": -7,
+	"outfit_space_operation": "flip",
+
+	"engine_capacity_min": -125,
+	"engine_capacity": "bad",
+	"engine_capacity_max": -7,
+	"engine_capacity_operation": "flip",
+
+	"turn_min": 160,
+	"turn": "good",
+	"turn_max": 4005,
+
+	"turning_energy_min": 0.26,
+	"turning_energy": "bad",
+	"turning_energy_max": 10,
+
+	"turning_heat_min": 0.6,
+	"turning_heat": "bad",
+	"turning_heat_max": 26.7,
+
+	"cooling_min": 1,
+	"cooling": "good",
+	"cooling_max": 6.7,
+
+	"group": [
+		["cost", "mass"],
+		["turn", "cooling"],
+		["turning_energy", "turning_heat"]
+	]
+}

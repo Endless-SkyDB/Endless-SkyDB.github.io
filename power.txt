@@ -1,0 +1,261 @@
+<outfits>
+	<outfit>
+		<file>"Supercapacitor"</file>
+		<category>"Power"</category>
+		<cost>25000</cost>
+		<thumbnail>"outfit/supercapacitor"</thumbnail>
+		<mass>2</mass>
+		<outfit_space>-2</outfit_space>
+		<energy_capacity>150</energy_capacity>
+		<description>"With a powerful enough generator, many ships do not need batteries at all. The one exception is projectile weapons, which usually require a burst of energy far exceeding what the generator produces. Supercapacitors provide just enough energy storage for those weapons, without requiring you to install a bulky battery pack."</description>
+	</outfit>
+
+	<outfit>
+		<file>"LP036a Battery Pack"</file>
+		<category>"Power"</category>
+		<cost>12000</cost>
+		<thumbnail>"outfit/tiny battery"</thumbnail>
+		<mass>10</mass>
+		<outfit_space>-10</outfit_space>
+		<energy_capacity>1000</energy_capacity>
+		<description>"A ship can run without batteries if its generator's instantaneous power output is higher than the total energy consumption of its systems, but batteries make it possible to store up energy when it is not needed and thus to use a much smaller and cheaper generator."</description>
+	</outfit>
+
+	<outfit>
+		<file>"LP072a Battery Pack"</file>
+		<category>"Power"</category>
+		<cost>30000</cost>
+		<thumbnail>"outfit/small battery"</thumbnail>
+		<mass>20</mass>
+		<outfit_space>-20</outfit_space>
+		<energy_capacity>2200</energy_capacity>
+		<description>"This battery pack has more than twice the energy capacity of the most basic model, allowing your ship to engage in combat for longer periods of time before running out of energy. Some pilots have even been known to install these in lieu of any generator at all, trusting that they can reach their destination planet and recharge before running out of battery power, but that is a risky proposition."</description>
+	</outfit>
+
+	<outfit>
+		<file>"LP144a Battery Pack"</file>
+		<category>"Power"</category>
+		<cost>67000</cost>
+		<thumbnail>"outfit/medium battery"</thumbnail>
+		<mass>40</mass>
+		<outfit_space>-40</outfit_space>
+		<energy_capacity>4800</energy_capacity>
+		<description>"This medium-sized battery pack is intended for ships that need to fire the occasional salvo of high-powered weaponry without running out of energy. As with all battery packs, relying on batteries is risky if combat lasts long enough for them to become depleted."</description>
+	</outfit>
+
+	<outfit>
+		<file>"LP288a Battery Pack"</file>
+		<category>"Power"</category>
+		<cost>150000</cost>
+		<thumbnail>"outfit/large battery"</thumbnail>
+		<mass>80</mass>
+		<outfit_space>-80</outfit_space>
+		<energy_capacity>10400</energy_capacity>
+		<description>"This is a large battery pack designed for ships that may occasionally have high power needs but do not want the expense or the heat associated with a more powerful ship's generator."</description>
+	</outfit>
+
+	<outfit>
+		<file>"LP576a Battery Pack"</file>
+		<category>"Power"</category>
+		<cost>380000</cost>
+		<thumbnail>"outfit/huge battery"</thumbnail>
+		<mass>160</mass>
+		<outfit_space>-160</outfit_space>
+		<energy_capacity>23000</energy_capacity>
+		<description>"For most ships that require this much power, a larger generator makes more sense than a battery this size. However, battery packs have the advantage that they generate no heat, so some captains use them instead of powerful generators if they do not expect to be in combat frequently or for extended periods of time."</description>
+	</outfit>
+
+
+	<outfit>
+		<file>"KP-6 Photovoltaic Panel"</file>
+		<category>"Power"</category>
+		<cost>10000</cost>
+		<thumbnail>"outfit/tiny photovoltaic"</thumbnail>
+		<mass>3</mass>
+		<outfit_space>-3</outfit_space>
+		<solar_collection>.1</solar_collection>
+		<description>"This early commercial photovoltaic system was the driving force behind humanity's first interplanetary trade network. Rugged and modular, it can be bolted to the hull of any ship and has seen even the most remote parts of human space."</description>
+	</outfit>
+
+	<outfit>
+		<file>"KP-6 Photovoltaic Array"</file>
+		<category>"Power"</category>
+		<cost>90000</cost>
+		<thumbnail>"outfit/small photovoltaic"</thumbnail>
+		<mass>24</mass>
+		<outfit_space>-24</outfit_space>
+		<solar_collection>1.1</solar_collection>
+		<description>"The compact modularity of the KP-6 lent itself well to the creation of larger solar collection arrays. This original Korunak Photovoltaics model is equipped with a solar tracker, allowing it to make better use of available light."</description>
+	</outfit>
+
+
+	<outfit>
+		<file>"nGVF-AA Fuel Cell"</file>
+		<category>"Power"</category>
+		<cost>40000</cost>
+		<thumbnail>"outfit/tiny fuel cell"</thumbnail>
+		<mass>20</mass>
+		<outfit_space>-20</outfit_space>
+		<energy_generation>1.2</energy_generation>
+		<heat_generation>1.9</heat_generation>
+		<description>"Fuel cells have been the cheapest and most common starship power sources since the dawn of the space era. This model produces only enough power for very small or slow ships."</description>
+	</outfit>
+
+	<outfit>
+		<file>"nGVF-BB Fuel Cell"</file>
+		<category>"Power"</category>
+		<cost>47000</cost>
+		<thumbnail>"outfit/small fuel cell"</thumbnail>
+		<mass>30</mass>
+		<outfit_space>-30</outfit_space>
+		<energy_generation>1.9</energy_generation>
+		<heat_generation>2.9</heat_generation>
+		<description>"This is a step up from the smallest fuel cells, providing enough energy to power a few small guns in addition to your engines."</description>
+	</outfit>
+
+	<outfit>
+		<file>"nGVF-CC Fuel Cell"</file>
+		<category>"Power"</category>
+		<cost>72000</cost>
+		<thumbnail>"outfit/medium fuel cell"</thumbnail>
+		<mass>40</mass>
+		<outfit_space>-40</outfit_space>
+		<energy_generation>2.6</energy_generation>
+		<heat_generation>3.8</heat_generation>
+		<description>"This is a medium-sized fuel cell, designed to be sufficient for larger civilian ships and small warships while still being more affordable than the more sophisticated generator options."</description>
+	</outfit>
+
+	<outfit>
+		<file>"nGVF-DD Fuel Cell"</file>
+		<category>"Power"</category>
+		<cost>118000</cost>
+		<thumbnail>"outfit/large fuel cell"</thumbnail>
+		<mass>60</mass>
+		<outfit_space>-60</outfit_space>
+		<energy_generation>4.1</energy_generation>
+		<heat_generation>5.7</heat_generation>
+		<description>"This is a relatively large fuel cell. Other generators are available that produce more energy and fit into a smaller space, but they are much more expensive. As a result, large civilian ships that will not be frequently in combat often come equipped with these fuel cells."</description>
+	</outfit>
+
+	<outfit>
+		<file>"nGVF-EE Fuel Cell"</file>
+		<category>"Power"</category>
+		<cost>177000</cost>
+		<thumbnail>"outfit/huge fuel cell"</thumbnail>
+		<mass>80</mass>
+		<outfit_space>-80</outfit_space>
+		<energy_generation>5.9</energy_generation>
+		<heat_generation>7.8</heat_generation>
+		<description>"This is the largest fuel cell available, larger than some nuclear reactors but much, much more affordable. Many captains on a tight budget are willing to put up with one of these until they can raise the money for something more efficient."</description>
+	</outfit>
+
+
+	<outfit>
+		<file>"RT-I Radiothermal"</file>
+		<category>"Power"</category>
+		<cost>300000</cost>
+		<thumbnail>"outfit/small radiothermal"</thumbnail>
+		<mass>45</mass>
+		<outfit_space>-45</outfit_space>
+		<energy_generation>4.4</energy_generation>
+		<heat_generation>18</heat_generation>
+		<description>"Radiothermal generators harvest heat from radioactive isotopes and convert it into electricity. They are more powerful than fuel cells, but also produce a relatively high amount of heat."</description>
+	</outfit>
+
+	<outfit>
+		<file>"S3 Thermionic"</file>
+		<category>"Power"</category>
+		<cost>360000</cost>
+		<thumbnail>"outfit/small thermionic"</thumbnail>
+		<mass>55</mass>
+		<outfit_space>-55</outfit_space>
+		<energy_generation>5.0</energy_generation>
+		<heat_generation>12</heat_generation>
+		<description>"Thermionic radioisotopic generators were designed as a cooler-running alternative to radiothermal generators."</description>
+	</outfit>
+
+	<outfit>
+		<file>"NT-200 Nucleovoltaic"</file>
+		<category>"Power"</category>
+		<cost>570000</cost>
+		<thumbnail>"outfit/small nucleovoltaic"</thumbnail>
+		<mass>65</mass>
+		<outfit_space>-65</outfit_space>
+		<energy_generation>7.2</energy_generation>
+		<heat_generation>15</heat_generation>
+		<description>"Nucleovoltaic generators are a relatively recent generator technology that harvests energy from the decay of a radioisotope source and converts it directly into electricity. They are the most powerful generator that relies on nuclear decay instead of an active nuclear chain reaction."</description>
+	</outfit>
+
+
+	<outfit>
+		<file>"Dwarf Core"</file>
+		<category>"Power"</category>
+		<cost>800000</cost>
+		<thumbnail>"outfit/dwarf core"</thumbnail>
+		<mass>36</mass>
+		<outfit_space>-36</outfit_space>
+		<energy_generation>4.8</energy_generation>
+		<heat_generation>14</heat_generation>
+		<description>"A Dwarf Core is a miniaturized nuclear reactor, small enough to be installed in any ship larger than a fighter. It was designed by Deep Sky to be paired with their power-hungry atomic engines."</description>
+	</outfit>
+
+	<outfit>
+		<file>"Fission Reactor"</file>
+		<category>"Power"</category>
+		<cost>1500000</cost>
+		<thumbnail>"outfit/fission"</thumbnail>
+		<mass>65</mass>
+		<outfit_space>-65</outfit_space>
+		<energy_generation>9.4</energy_generation>
+		<heat_generation>25</heat_generation>
+		<description>"Fission reactors have been a mainstay of large military vessels since even before the dawn of the space era. Today's models are very safe and efficient, but some pilots still find them disconcerting."</description>
+	</outfit>
+
+	<outfit>
+		<file>"Breeder Reactor"</file>
+		<category>"Power"</category>
+		<cost>2500000</cost>
+		<thumbnail>"outfit/breeder"</thumbnail>
+		<mass>80</mass>
+		<outfit_space>-80</outfit_space>
+		<energy_generation>12.8</energy_generation>
+		<heat_generation>35</heat_generation>
+		<description>"A breeder reactor is a more efficient fission reactor that captures some of the neutron radiation produced by the reactor and uses it to enrich more fuel. They are also, of course, bigger and more expensive as a result."</description>
+	</outfit>
+
+	<outfit>
+		<file>"Fusion Reactor"</file>
+		<category>"Power"</category>
+		<cost>5000000</cost>
+		<thumbnail>"outfit/fusion"</thumbnail>
+		<mass>100</mass>
+		<outfit_space>-100</outfit_space>
+		<energy_generation>18.2</energy_generation>
+		<heat_generation>40</heat_generation>
+		<description>"The invention of practical fusion power near the end of the twenty-first century spurred a new era of prosperity and plenty. Centuries later, the generators have been reduced in size, but are still generally only used in capital warships."</description>
+	</outfit>
+
+	<outfit>
+		<file>"Armageddon Core"</file>
+		<category>"Power"</category>
+		<cost>9000000</cost>
+		<thumbnail>"outfit/core"</thumbnail>
+		<mass>130</mass>
+		<outfit_space>-130</outfit_space>
+		<energy_generation>24.2</energy_generation>
+		<heat_generation>75</heat_generation>
+		<description>"The Armageddon Core was designed to meet the extreme power needs of the largest warships of the Republic Navy. One of these generators costs more than an entire fleet of smaller ships."</description>
+	</outfit>
+
+	<outfit>
+		<file>"Stack Core"</file>
+		<category>"Power"</category>
+		<cost>4500000</cost>
+		<thumbnail>"outfit/stack core"</thumbnail>
+		<mass>140</mass>
+		<outfit_space>-140</outfit_space>
+		<energy_generation>22.9</energy_generation>
+		<heat_generation>55</heat_generation>
+		<description>"The Stack Core was created by the Free Worlds primarily as a power source for their Dreadnoughts. It is a fission reactor, and therefore less efficient than the Navy's fusion technology, but it is also significantly cheaper to produce."</description>
+	</outfit>
+</outfits>

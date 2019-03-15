@@ -1,0 +1,13 @@
+{
+    "file": "A865 Atomic Steering",
+    "category": "Engines",
+    "cost": 1920000,
+    "thumbnail": "outfit/huge atomic steering",
+    "mass": 92,
+    "outfit_space": -92,
+    "engine_capacity": -92,
+    "turn": 3509,
+    "turning_energy": 6.6,
+    "turning_heat": 17.5,
+    "description": "Atomic engines are considered by many to be Deep Sky's crowning achievement. Although they are so expensive that relatively few of them are in use, there are few captains who do not dream of one day installing a set of them."
+}

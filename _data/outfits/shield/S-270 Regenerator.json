@@ -1,0 +1,13 @@
+{
+  "file": "S-270 Regenerator",
+  "category": "Systems",
+  "cost": 220000,
+  "thumbnail": "outfit/small regenerator",
+  "mass": 12,
+  "outfit_space": -12,
+  "shield_generation": 0.6,
+  "shield_energy": 0.6,
+  "energy_consumption": 0.3,
+  "heat_generation": 2,
+  "description": "A shield regenerator works by subtly modifying the geometry of your shield matrix in order to make your shields more malleable and therefore much easier to recharge. Unfortunately, this causes your shields to also become less efficient, which draws energy away from your other systems, even when not charging shields, and creates heat."
+}

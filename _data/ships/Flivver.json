@@ -1,0 +1,49 @@
+{
+  "file": "Flivver",
+  "sprite": "ship/flivver",
+  "attributes": {
+    "category": "Transport",
+    "cost": 180000,
+    "shields": 1400,
+    "hull": 200,
+    "required_crew": 1,
+    "bunks": 3,
+    "mass": 40,
+    "drag": 1.0,
+    "heat_dissipation": 0.9,
+    "fuel_capacity": 500,
+    "cargo_space": 5,
+    "outfit_space": 130,
+    "weapon_capacity": 25,
+    "engine_capacity": 45,
+    "weapon": {
+      "blast_radius": 16,
+      "shield_damage": 160,
+      "hull_damage": 80,
+      "hit_force": 240
+    }
+  },
+  "outfits": {
+    "Meteor_Missile_Launcher": 2,
+    "Meteor_Missile": 70,
+    "nGVF-BB_Fuel_Cell": 1,
+    "LP036a_Battery_Pack": 1,
+    "D14-RN_Shield_Generator": 1,
+    "A120_Atomic_Thruster": 1,
+    "X1200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-16 27",
+    "16 27"
+  ],
+  "gun": [
+    "-6 -31",
+    "6 -31"
+  ],
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 10"
+  ],
+  "description": "With space for neither cargo nor passengers nor heavy weaponry, the Flivver's only selling point is speed. Flivvers are sold mostly to wealthy individuals who want to be able to travel the stars without needing to share a bunk room on a merchant transport with common people."
+}

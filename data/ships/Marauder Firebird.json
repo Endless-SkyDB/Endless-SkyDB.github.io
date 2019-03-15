@@ -1,0 +1,63 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mfirebirds",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 4100000,
+		"shields": 7000,
+		"hull": 3000,
+		"required_crew": 10,
+		"bunks": 25,
+		"mass": 350,
+		"drag": 4.5,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 20,
+		"outfit_space": 450,
+		"weapon_capacity": 175,
+		"engine_capacity": 110,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 110,
+			"shield_damage": 1100,
+			"hull_damage": 550,
+			"hit_force": 1650
+		}
+	},
+	"outfits": {
+		"Plasma_Cannon": 4,
+		"Heavy_Laser_Turret": 1,
+		"Heavy_Anti-Missile_Turret": 1,
+		"Fusion_Reactor": 1,
+		"Supercapacitor": 1,
+		"S-970_Regenerator": 1,
+		"Liquid_Helium_Cooler": 1,
+		"Outfits_Expansion": 1,
+		"Laser_Rifle": 25,
+		"A250_Atomic_Thruster": 1,
+		"A525_Atomic_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-32 62",
+		"32 62"
+	],
+	"gun": [
+		"-27 -32 Plasma Cannon",
+		"27 -32 Plasma Cannon",
+		"-38 -18 Plasma Cannon",
+		"38 -18 Plasma Cannon"
+	],
+	"turret": [
+		"-5 3 Heavy Laser Turret",
+		"5 3 Heavy Anti-Missile Turret"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion medium",
+	"description": "By the looks of the modification that have taken place, you suspect that this ship contains no original parts. With extra shield emitters, hull plating, and outfit space, this half-millennium young ship is finding new life with its heavy modification."
+}

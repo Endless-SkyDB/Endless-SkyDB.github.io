@@ -1,0 +1,54 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/kimek briar",
+	"attributes": {
+		"category": "Transport",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 1532000,
+		"shields": 3600,
+		"hull": 1700,
+		"required_crew": 3,
+		"bunks": 25,
+		"mass": 180,
+		"drag": 3.8,
+		"heat_dissipation": 0.75,
+		"fuel_capacity": 700,
+		"cargo_space": 21,
+		"outfit_space": 245,
+		"weapon_capacity": 89,
+		"engine_capacity": 60,
+		"weapon": {
+			"blast_radius": 34,
+			"shield_damage": 340,
+			"hull_damage": 170,
+			"hit_force": 510
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 2,
+		"Small_Battery_Module": 2,
+		"Small_Shield_Module": 2,
+		"Large_Thrust_Module": 1,
+		"Large_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-12 85 .5",
+		"0 89 1.2",
+		"12 85 .5"
+	],
+	"gun": [
+		"-10 -52",
+		"10 -52"
+	],
+	"turret": "0 -14",
+	"explode": [
+		"tiny explosion 5",
+		"small explosion 20",
+		"medium explosion 5"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`With more than twice the population of the Saryds and Arachi combined, the Kimek are constantly in need of transport ships to carry individuals from one world to another.`"
+}

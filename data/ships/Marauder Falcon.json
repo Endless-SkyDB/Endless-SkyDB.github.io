@@ -1,0 +1,65 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mfalcons",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 13900000,
+		"shields": 14100,
+		"hull": 4100,
+		"required_crew": 43,
+		"bunks": 80,
+		"mass": 560,
+		"drag": 6.7,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 600,
+		"cargo_space": 60,
+		"outfit_space": 580,
+		"weapon_capacity": 265,
+		"engine_capacity": 165,
+		"self_destruct": 0.15,
+		"weapon": {
+			"blast_radius": 170,
+			"shield_damage": 1750,
+			"hull_damage": 900,
+			"hit_force": 2750
+		}
+	},
+	"outfits": {
+		"Plasma_Cannon": 4,
+		"Modified_Blaster_Turret": 4,
+		"Fusion_Reactor": 1,
+		"LP288a_Battery_Pack": 1,
+		"D67-TM_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"Liquid_Helium_Cooler": 1,
+		"Outfits_Expansion": 3,
+		"Laser_Rifle": 80,
+		"A520_Atomic_Thruster": 1,
+		"A525_Atomic_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-16 143",
+		"16 143"
+	],
+	"gun": [
+		"-16 -89 Plasma Cannon",
+		"16 -89 Plasma Cannon",
+		"-16 -89 Plasma Cannon",
+		"16 -89 Plasma Cannon"
+	],
+	"turret": [
+		"-16 -25 Modified Blaster Turret",
+		"16 -25 Modified Blaster Turret",
+		"-57 32.5 Modified Blaster Turret",
+		"57 32.5 Modified Blaster Turret"
+	],
+	"explode": [
+		"tiny explosion 40",
+		"small explosion 55",
+		"medium explosion 60",
+		"large explosion 40"
+	],
+	"final_explode": "final explosion large",
+	"description": "This Tarazed Falcon has been heavily modified by some very dedicated craftsmen. The hull is riddled with extra shield emitters and expanded equipment bays, adding bulk and definitely voiding the warranty."
+}

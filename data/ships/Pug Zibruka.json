@@ -1,0 +1,54 @@
+{
+	"race": "Pug",
+	"sprite": "ship/pug zibruka",
+	"attributes": {
+		"category": "Light Warship",
+		"cost": 1900000,
+		"shields": 4000,
+		"hull": 1000,
+		"required_crew": 4,
+		"bunks": 6,
+		"mass": 240,
+		"drag": 3.1,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 600,
+		"cargo_space": 20,
+		"outfit_space": 180,
+		"weapon_capacity": 68,
+		"engine_capacity": 76,
+		"energy_generation": 10,
+		"shield_generation": 6,
+		"shield_energy": 6,
+		"heat_generation": 20,
+		"energy_capacity": 1000,
+		"weapon": {
+			"blast_radius": 100,
+			"shield_damage": 400,
+			"hull_damage": 200,
+			"hit_force": 600
+		}
+	},
+	"outfits": {
+		"Pug_Zapper": 2,
+		"Pug_Biodefenses": 4,
+		"Jump_Drive": 1,
+		"Pug_Akfar_Thruster": 1,
+		"Pug_Akfar_Steering": 1
+	},
+	"engine": [
+		"-7 35",
+		"7 35"
+	],
+	"gun": [
+		"-15 -42 Pug Zapper",
+		"15 -42 Pug Zapper"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 15",
+		"medium explosion 20",
+		"large explosion 10"
+	],
+	"final_explode": "final explosion small",
+	"description": "The Zibruka is the smallest Pug ship that you know of."
+}

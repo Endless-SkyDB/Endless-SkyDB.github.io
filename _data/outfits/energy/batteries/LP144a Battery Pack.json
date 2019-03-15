@@ -1,0 +1,10 @@
+{
+	"file": "LP144a Battery Pack",
+	"category": "Power",
+	"cost": 67000,
+	"thumbnail": "outfit/medium battery",
+	"mass": 40,
+	"outfit_space": -40,
+	"energy_capacity": 4800,
+	"description": "This medium-sized battery pack is intended for ships that need to fire the occasional salvo of high-powered weaponry without running out of energy. As with all battery packs, relying on batteries is risky if combat lasts long enough for them to become depleted."
+}

@@ -1,0 +1,37 @@
+{
+	"race": "Coalition",
+	"category": "Turrets",
+	"type": "Turret",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 1845000,
+	"thumbnail": "outfit/bombardment turret",
+	"mass": 43,
+	"outfit_space": -43,
+	"weapon_capacity": -43,
+	"required_crew": 1,
+	"turret_mounts": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/bombardment",
+			"frame_rate": 3.2,
+			"no_repeat": 1
+		},
+		"hardpoint_sprite": "hardpoint/bombardment turret",
+		"hardpoint_offset": 10.0,
+		"sound": "bombardment",
+		"hit_effect": "bombardment impact",
+		"inaccuracy": 4,
+		"turret_turn": 6,
+		"velocity": 6,
+		"random_velocity": 1,
+		"lifetime": 150,
+		"reload": 3,
+		"firing_energy": 17,
+		"firing_heat": 14,
+		"shield_damage": 22,
+		"hull_damage": 25
+	},
+	"description": "`A Bombardment Turret is not one of the most dangerous Heliarch weapons, but it has the advantage that it can hit targets a considerable distance away.`"
+}

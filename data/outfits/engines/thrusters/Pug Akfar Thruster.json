@@ -1,0 +1,19 @@
+{
+	"race": "Pug",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 608000,
+	"thumbnail": "outfit/pug akfar thruster",
+	"mass": 43,
+	"outfit_space": -43,
+	"engine_capacity": -43,
+	"thrust": 28.0,
+	"thrusting_energy": 2.2,
+	"thrusting_heat": 3.1,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/ion flare/medium",
+		"frame_rate": 8
+	},
+	"flare_sound": "ion medium",
+	"description": "This is a small thruster designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines."
+}

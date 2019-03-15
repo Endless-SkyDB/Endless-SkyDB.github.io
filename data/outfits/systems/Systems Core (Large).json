@@ -1,0 +1,17 @@
+{
+	"race": "Korath",
+	"plural": "Systems Cores (Large)",
+	"category": "Systems",
+	"type": "Systems",
+	"cost": 9075000,
+	"thumbnail": "outfit/large systems core",
+	"mass": 91,
+	"outfit_space": -91,
+	"shield_generation": 6.0,
+	"shield_energy": 8.8,
+	"hull_repair_rate": 0.8,
+	"hull_energy": 0.8,
+	"hull_heat": 1.2,
+	"energy_capacity": 5200,
+	"description": "`This massive bank of computers, shield generators, and repair stations holds everything needed to keep the very largest of Korath ships in working condition.`"
+}

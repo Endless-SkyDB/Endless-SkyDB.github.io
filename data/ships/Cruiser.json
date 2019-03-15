@@ -1,0 +1,78 @@
+{
+	"race": "Human",
+	"sprite": "ship/cruiser",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Navy": 1,
+			"Cruiser": 1
+		},
+		"cost": 11200000,
+		"shields": 19600,
+		"hull": 6400,
+		"required_crew": 81,
+		"bunks": 136,
+		"mass": 680,
+		"drag": 10.1,
+		"heat_dissipation": 0.45,
+		"fuel_capacity": 600,
+		"cargo_space": 60,
+		"outfit_space": 760,
+		"weapon_capacity": 320,
+		"engine_capacity": 170,
+		"weapon": {
+			"blast_radius": 260,
+			"shield_damage": 2600,
+			"hull_damage": 1300,
+			"hit_force": 3900
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 4,
+		"Sidewinder_Missile_Launcher": 2,
+		"Sidewinder_Missile": 100,
+		"Heavy_Laser_Turret": 3,
+		"Heavy_Anti-Missile_Turret": 1,
+		"Fusion_Reactor": 1,
+		"LP288a_Battery_Pack": 1,
+		"D67-TM_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"X4700_Ion_Thruster": 1,
+		"X4200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-29 156",
+		"29 156"
+	],
+	"gun": [
+		"-31 -63 Particle Cannon",
+		"31 -63 Particle Cannon",
+		"-41 -52 Particle Cannon",
+		"41 -52 Particle Cannon",
+		"-20 -44 Sidewinder Missile Launcher",
+		"20 -44 Sidewinder Missile Launcher"
+	],
+	"turret": [
+		"0 -40 Heavy Laser Turret",
+		"-33 -19 Heavy Laser Turret",
+		"33 -19 Heavy Laser Turret",
+		"0 0 Heavy Anti-Missile Turret"
+	],
+	"drone": [
+		"-25 18",
+		"25 18",
+		"-25 49",
+		"25 49"
+	],
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 45",
+		"medium explosion 50",
+		"large explosion 40",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
+}

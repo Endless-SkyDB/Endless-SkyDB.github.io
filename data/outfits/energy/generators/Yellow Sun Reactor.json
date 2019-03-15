@@ -1,0 +1,16 @@
+{
+	"race": "Wanderer",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 7500000,
+	"thumbnail": "outfit/yellow sun",
+	"mass": 82,
+	"outfit_space": -82,
+	"energy_generation": 15.2,
+	"heat_generation": 21,
+	"energy_capacity": 2600,
+	"description": "This is a compact nuclear reactor designed by the Wanderers. In addition to generating power, it is able to store a small amount of energy."
+}

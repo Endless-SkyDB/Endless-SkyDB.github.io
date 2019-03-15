@@ -1,0 +1,11 @@
+{
+  "file": "Fragmentation Grenades",
+  "plural": "Fragmentation Grenades",
+  "category": "Hand to Hand",
+  "cost": 17000,
+  "thumbnail": "outfit/fragmentation grenades",
+  "capture_attack": 1.3,
+  "capture_defense": 0.3,
+  "unplunderable": 1,
+  "description": "Fragmentation grenades are an only marginally legal weapon for hand-to-hand combat when boarding a ship, useful for flushing out defenders who are hunkered down in defensible choke points inside their own ship. They are much less useful as a defensive weapon, but still better than nothing."
+}

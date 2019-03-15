@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Endless Sky Database</title>
+    <meta name="viewport" width=device-width, initial-scale=1.0>
+    <style> body {padding: 0; margin: 0;} </style>
+
+
+    <link rel="icon" href="images/siteIcon.png" type="image/png" sizes="64x64">
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu">
+
+    <script src="javascript/map.js"></script>
+    <script src="javascript/main.js"></script>
+    <script src="javascript/mapInfo.js"></script>
+    <script src="javascript/mapMain.js"></script>
+    <script src="javascript/mapDisplay.js"></script>
+    <script src="javascript/search.js"></script>
+
+  </head>
+
+  <body>
+
+    <header style="user-select: none;">
+      <center>
+        <div style="padding: 20px; margin: auto; height: 100%; background-color: transparent; background: url('images/menu/compass.png') no-repeat center; cursor: pointer;" onclick="window.location.href='/'">
+          <p style="font-size: 40px;">E N D L E S S &nbsp; S K Y</p>
+        </div>
+      </center>
+
+      <div id="imgHolder" style="display: none; position: absolute; background-image: url('images/ui/shipyard unselected+.png'); width: 250px; height: 250px; border: 1px solid #444444; pointer-events: none; padding: 5px; z-index: 3;">
+        <img id="imgPreview" style="margin-top: 25px;">
+      </div>
+
+      <div style="display: block; margin: 0 10% 0 10%; border-radius: 8px; padding: 5px; user-select: none; background-color: #000;">
+        <center>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/ships.html'">S H I P S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/outfits.html'">O U T F I T S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/missions.html'">M I S S I O N S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/map.html'">M A P</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; float: right; vertical-align: top;">
+            <input type="text" spellcheck="false" placeholder="Search" style="width: 280px" oninput="findString(this.value);" onkeyup="startSearch();">
+            <div id="search" style="width: 296px; display: block; background-color: #000000; margin: 0; position: absolute;"></div>
+          </div>
+
+        </center>
+
+      </div>
+    </header>
+
+    <img id="bgImage" src="images/ui/galaxy.jpg" style="display: none;">
+
+    <div style="display: block; width: 70%; height: 100%; background-color: rgba(32, 32, 32, 0.5); border-radius: 8px; padding: 0 5% 0 5%; margin: 10px 10% 0 10%;">
+
+      <div id="mainDiv" style="display: grid; grid-template-columns: min-content auto;">
+        <div>
+          <canvas id="mapCanvas" width=700 height=500 style="display: inline-block; border: 1px solid #000000; margin: 20px; background-color: #000000;" onwheel="return zoom(event);"></canvas>
+          <script>var canvas = document.getElementById("mapCanvas").getContext("2d");</script>
+        </div>
+        <div id="info" style="display: inline-grid; vertical-align: top; margin-top: 25px; grid-template-columns: 60% 40%; grid-auto-rows: max-content;">
+          <span id="infoName" style="grid-column: 1 / 3; border-bottom: 1px solid #444444; margin-bottom: 4px;">Choose a system</span>
+
+          <p id="govLabel" style="display: none; margin: 0 0 5px 0;">Government</p>
+          <p id="govValue" style="margin: 0 0 5px 0;"></p>
+
+          <span id="secondBar" style="display: none; border-bottom: 1px solid #444444; grid-column: 1 / 3; margin-bottom: 4px;"></span>
+
+          <canvas id="miniMapCanvas" width=200 height=200 style="display: none; border: 1px solid #444444; margin: 10px; background-color: #000000; grid-column: 1 / 3;"></canvas>
+          <script>var miniCanvas = document.getElementById("miniMapCanvas").getContext("2d");</script>
+        </div>
+      </div>
+    </div>
+
+    <footer style="width: 100%; height: 40px; background-color: #000; margin-top: 3%;">
+    </footer>
+
+
+
+  </body>
+</html>

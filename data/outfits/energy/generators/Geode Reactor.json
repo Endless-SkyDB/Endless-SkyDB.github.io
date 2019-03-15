@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 1750000,
+	"thumbnail": "outfit/fission hai",
+	"mass": 58,
+	"outfit_space": -58,
+	"energy_generation": 8.9,
+	"heat_generation": 21.2,
+	"description": "Fission reactors are considered a rudimentary technology among interstellar species. Nonetheless, it remains a proven and safe technology that even the Hai use fairly regularly."
+}

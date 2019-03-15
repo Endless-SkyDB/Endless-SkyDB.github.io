@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 360000,
+	"thumbnail": "outfit/small thermionic",
+	"mass": 55,
+	"outfit_space": -55,
+	"energy_generation": 5.0,
+	"heat_generation": 12,
+	"description": "Thermionic radioisotopic generators were designed as a cooler-running alternative to radiothermal generators."
+}

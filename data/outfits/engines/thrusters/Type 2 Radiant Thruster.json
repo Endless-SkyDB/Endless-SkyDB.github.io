@@ -1,0 +1,23 @@
+{
+	"race": "Wanderer",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 390000,
+	"thumbnail": "outfit/small radiant thruster",
+	"mass": 27,
+	"outfit_space": -27,
+	"engine_capacity": -27,
+	"thrust": 17.6,
+	"thrusting_energy": 1.4,
+	"thrusting_heat": 2.5,
+	"cooling": 3.6,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/plasma flare/small",
+		"frame_rate": 14
+	},
+	"flare_sound": "plasma small",
+	"description": "Wanderer engines work by transferring excess heat from the ship into the exhaust plasma. When not providing thrust, the engines still serve as a cooling system."
+}

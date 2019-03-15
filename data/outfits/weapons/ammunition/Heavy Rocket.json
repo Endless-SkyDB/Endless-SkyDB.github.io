@@ -1,0 +1,10 @@
+{
+	"race": "Human",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 2000,
+	"thumbnail": "outfit/rocket",
+	"mass": 0.5,
+	"rocket_capacity": -1,
+	"description": "Heavy Rockets are ammunition for the Heavy Rocket Launcher. You cannot install one unless you have first installed a launcher to fire it from. Each launcher holds up to 20 rockets."
+}

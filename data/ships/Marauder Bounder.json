@@ -1,0 +1,58 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mbounders",
+	"attributes": {
+		"category": "Interceptor",
+		"cost": 1250000,
+		"shields": 2500,
+		"hull": 700,
+		"required_crew": 2,
+		"bunks": 18,
+		"mass": 145,
+		"drag": 3.7,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 900,
+		"cargo_space": 20,
+		"outfit_space": 240,
+		"weapon_capacity": 80,
+		"engine_capacity": 115,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 35,
+			"shield_damage": 350,
+			"hull_damage": 175,
+			"hit_force": 500
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 1,
+		"Quad_Blaster_Turret": 2,
+		"Dwarf_Core": 1,
+		"LP072a_Battery_Pack": 1,
+		"S-270_Regenerator": 1,
+		"Outfits_Expansion": 1,
+		"Water_Coolant_System": 1,
+		"Security_Station": 1,
+		"Laser_Rifle": 18,
+		"A250_Atomic_Thruster": 1,
+		"A255_Atomic_Steering": 1,
+		"Afterburner": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-12 44",
+		"12 44"
+	],
+	"gun": "0 -85 Particle Cannon",
+	"turret": [
+		"-38 7 Quad Blaster Turret",
+		"38 7 Quad Blaster Turret"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 20",
+		"medium explosion 15"
+	],
+	"final_explode": "final explosion small",
+	"description": "This Megaparsec Bounder has been modified from a courier-scout into a heavy escort Interceptor - currently the largest in the class. A little extra outfit space, reinforced turret mounts, a new gun port in front of the pilot, and additional shield emitters bring this former Transport into combat with fearsome speed and armament."
+}

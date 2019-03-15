@@ -1,0 +1,88 @@
+{
+	"race": "Human",
+	"sprite": "ship/carrier",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Navy": 1,
+			"Carrier": 1
+		},
+		"cost": 15200000,
+		"shields": 21400,
+		"hull": 8300,
+		"required_crew": 111,
+		"bunks": 184,
+		"mass": 910,
+		"drag": 17.7,
+		"heat_dissipation": 0.45,
+		"fuel_capacity": 700,
+		"cargo_space": 100,
+		"outfit_space": 820,
+		"weapon_capacity": 370,
+		"engine_capacity": 210,
+		"weapon": {
+			"blast_radius": 300,
+			"shield_damage": 3000,
+			"hull_damage": 1500,
+			"hit_force": 4500
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 4,
+		"Meteor_Missile_Launcher": 4,
+		"Meteor_Missile": 140,
+		"Heavy_Laser_Turret": 3,
+		"Heavy_Anti-Missile_Turret": 1,
+		"Fusion_Reactor": 1,
+		"LP288a_Battery_Pack": 1,
+		"D94-YV_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"Water_Coolant_System": 1,
+		"X5700_Ion_Thruster": 1,
+		"X4200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-35 200",
+		"35 200"
+	],
+	"gun": [
+		"-16 -176 Particle Cannon",
+		"16 -176 Particle Cannon",
+		"-16 -176 Meteor Missile Launcher",
+		"16 -176 Meteor Missile Launcher",
+		"-25 -166 Particle Cannon",
+		"25 -166 Particle Cannon",
+		"-25 -166 Meteor Missile Launcher",
+		"25 -166 Meteor Missile Launcher"
+	],
+	"turret": [
+		"0 -114 Heavy Laser Turret",
+		"0 15 Heavy Laser Turret",
+		"0 103 Heavy Anti-Missile Turret",
+		"0 157 Heavy Laser Turret"
+	],
+	"fighter": [
+		"-37 -65",
+		"37 -65",
+		"-46 40",
+		"46 40"
+	],
+	"drone": [
+		"-72 -46",
+		"72 -46",
+		"-101 57",
+		"101 57",
+		"-74 57",
+		"74 57"
+	],
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 45",
+		"medium explosion 50",
+		"large explosion 40",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Carrier is more than just a warship: it is practically a mobile space station, with docking bays for an entire squadron of drones and fighters and enough crew to fill a small village. Although designed primarily for engaging enemies from a distance, a Carrier can also do significant damage in close combat."
+}

@@ -1,0 +1,39 @@
+{
+	"race": "Human",
+	"sprite": "ship/combat drone",
+	"attributes": {
+		"category": "Drone",
+		"licenses": {
+			"Navy": 1
+		},
+		"cost": 83000,
+		"hull": 700,
+		"mass": 20,
+		"drag": 0.59,
+		"heat_dissipation": 0.9,
+		"outfit_space": 58,
+		"weapon_capacity": 8,
+		"engine_capacity": 28,
+		"automaton": 1,
+		"weapon": {
+			"blast_radius": 5,
+			"shield_damage": 50,
+			"hull_damage": 25,
+			"hit_force": 75
+		}
+	},
+	"outfits": {
+		"Beam_Laser": 1,
+		"nGVF-AA_Fuel_Cell": 1,
+		"Supercapacitor": 1,
+		"X1700_Ion_Thruster": 1,
+		"X1200_Ion_Steering": 1
+	},
+	"engine": [
+		"-9 29",
+		"9 29"
+	],
+	"gun": "0 -29 Beam Laser",
+	"explode": "tiny explosion 15",
+	"description": "Combat drones are pilotless attack ships used primarily by the Republic Navy. Although very weak and easy to destroy, they can be very effective in large numbers. Because drones do not need a cockpit, they can be filled entirely with equipment and solid metal, which makes their hulls stronger than other small ships."
+}

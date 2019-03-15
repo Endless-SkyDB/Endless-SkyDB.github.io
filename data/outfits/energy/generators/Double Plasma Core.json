@@ -1,0 +1,12 @@
+{
+	"race": "Korath",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 9321000,
+	"thumbnail": "outfit/double plasma core",
+	"mass": 93,
+	"outfit_space": -93,
+	"energy_generation": 22.0,
+	"heat_generation": 72.0,
+	"description": "This reactor core combines a pair of the ancient and robust Korath plasma cores into a single package."
+}

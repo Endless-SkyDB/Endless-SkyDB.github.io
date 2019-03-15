@@ -1,0 +1,21 @@
+{
+	"race": "Pug",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 12000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 67,
+	"outfit_space": -67,
+	"weapon_capacity": -67,
+	"turret_mounts": -1,
+	"weapon": {
+		"fire_effect": "tier 3 anti-missile fire",
+		"die_effect": "tier 3 anti-missile die 2",
+		"anti-missile": 100,
+		"velocity": 570,
+		"lifetime": 1,
+		"reload": 6,
+		"firing_energy": 80,
+		"firing_heat": 10
+	}
+}

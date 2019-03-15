@@ -1,0 +1,15 @@
+{
+	"race": "Coalition",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 60000,
+	"thumbnail": "outfit/small collector module",
+	"mass": 8,
+	"outfit_space": -8,
+	"solar_collection": 0.8,
+	"heat_generation": 0.4,
+	"description": "Solar power is the mainstay of the Coalition's merchant marine. The design of these panels has been refined over the millennia, growing ever more efficient."
+}

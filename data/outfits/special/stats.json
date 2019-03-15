@@ -1,0 +1,14 @@
+{
+	"cost_min": 1000,
+	"cost": "bad",
+	"cost_max": 50000,
+
+	"map_min": 12,
+	"map": "good",
+	"map_max": 12,
+
+	"group": [
+		["cost"],
+		["map"]
+	]
+}

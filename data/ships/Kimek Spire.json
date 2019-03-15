@@ -1,0 +1,64 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/kimek spire",
+	"attributes": {
+		"category": "Transport",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 9375000,
+		"shields": 14200,
+		"hull": 4900,
+		"required_crew": 19,
+		"bunks": 197,
+		"mass": 570,
+		"drag": 8.4,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 800,
+		"cargo_space": 64,
+		"outfit_space": 489,
+		"weapon_capacity": 256,
+		"engine_capacity": 129,
+		"weapon": {
+			"blast_radius": 140,
+			"shield_damage": 1400,
+			"hull_damage": 700,
+			"hit_force": 2100
+		}
+	},
+	"outfits": {
+		"Large_Collector_Module": 1,
+		"Small_Collector_Module": 1,
+		"Large_Battery_Module": 1,
+		"Large_Shield_Module": 1,
+		"Small_Shield_Module": 1,
+		"Large_Thrust_Module": 2,
+		"Large_Steering_Module": 2,
+		"Small_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-22 221 .6",
+		"-10 219 .8",
+		"10 219 .8",
+		"22 221 .6"
+	],
+	"gun": [
+		"-14 -183",
+		"14 -183"
+	],
+	"turret": [
+		"0 -153",
+		"0 -43",
+		"-42 131",
+		"42 131"
+	],
+	"explode": [
+		"small explosion 10",
+		"medium explosion 30",
+		"large explosion 20",
+		"huge explosion 5"
+	],
+	"final_explode": "final explosion large",
+	"description": "`The Spire is the largest passenger transport in Coalition space, able to carry nearly two hundred individuals... as long as they're comfortable staying in the tiny bunk rooms that are primarily designed to meet the needs of a Kimek. Most of the ceilings are too short for a Saryd to stand up straight, and the beds are too small for an Arach to stretch their legs out comfortably.`"
+}

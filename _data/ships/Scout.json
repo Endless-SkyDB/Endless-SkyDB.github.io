@@ -1,0 +1,54 @@
+{
+  "file": "Scout",
+  "sprite": "ship/scout",
+  "attributes": {
+    "category": "Transport",
+    "cost": 850000,
+    "shields": 1200,
+    "hull": 400,
+    "required_crew": 2,
+    "bunks": 12,
+    "mass": 110,
+    "drag": 3.4,
+    "heat_dissipation": 0.7,
+    "fuel_capacity": 800,
+    "cargo_space": 55,
+    "outfit_space": 220,
+    "weapon_capacity": 40,
+    "engine_capacity": 100,
+    "weapon": {
+      "blast_radius": 16,
+      "shield_damage": 160,
+      "hull_damage": 80,
+      "hit_force": 240
+    }
+  },
+  "outfits": {
+    "Energy_Blaster": 2,
+    "Anti-Missile_Turret": 1,
+    "nGVF-CC_Fuel_Cell": 1,
+    "LP036a_Battery_Pack": 1,
+    "D14-RN_Shield_Generator": 1,
+    "Small_Radar_Jammer": 1,
+    "Ramscoop": 1,
+    "X3700_Ion_Thruster": 1,
+    "X3200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-8 46",
+    "8 46"
+  ],
+  "gun": [
+    "-20 -7 Energy Blaster",
+    "20 -7 Energy Blaster"
+  ],
+  "turret": "0 -7 Anti-Missile Turret",
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 20",
+    "medium explosion 15"
+  ],
+  "final_explode": "final explosion small",
+  "description": "The Lionheart Scoutship was designed back in the days when the galaxy was more sparsely populated, and ships prospecting for habitable worlds or worlds rich in resources would often travel far away from any habitable ports where they would be able to refuel. Although the galaxy has now been much more thoroughly explored, the Scout remains a popular ship for long-distance travel."
+}

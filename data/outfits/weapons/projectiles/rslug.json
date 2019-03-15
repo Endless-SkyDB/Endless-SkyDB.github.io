@@ -1,0 +1,23 @@
+{
+	"race": "Hai",
+	"type": "Projectile",
+	"weapon": {
+		"acceleration": 0.022,
+		"drag": 0.001,
+		"lifetime": 99,
+		"sprite": {
+			"sprite_name": "projectile/rail slug",
+			"frame_rate": 30
+		},
+		"live_effect": "rail sparks 5",
+		"hit_effect": "bullet impact",
+		"shield_damage": 65,
+		"hull_damage": 95,
+		"homing": 1,
+		"optical_tracking": 0.4,
+		"turn": 0.3,
+		"hit_force": 44,
+		"missile_strength": 14,
+		"piercing": 0.1
+	}
+}

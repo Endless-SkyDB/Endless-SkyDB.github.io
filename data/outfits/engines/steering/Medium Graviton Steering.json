@@ -1,0 +1,13 @@
+{
+	"race": "Quarg",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 16000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 50,
+	"outfit_space": -50,
+	"engine_capacity": -50,
+	"turn": 1600,
+	"turning_energy": 10,
+	"turning_heat": 5
+}

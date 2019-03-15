@@ -1,0 +1,65 @@
+{
+	"race": "Human",
+	"sprite": "ship/nest",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 2500000,
+		"shields": 2500,
+		"hull": 3700,
+		"required_crew": 5,
+		"bunks": 14,
+		"mass": 250,
+		"drag": 10.5,
+		"heat_dissipation": 0.67,
+		"fuel_capacity": 500,
+		"cargo_space": 40,
+		"outfit_space": 400,
+		"weapon_capacity": 140,
+		"engine_capacity": 80,
+		"weapon": {
+			"blast_radius": 60,
+			"shield_damage": 600,
+			"hull_damage": 300,
+			"hit_force": 900
+		}
+	},
+	"outfits": {
+		"Meteor_Missile_Launcher": 2,
+		"Meteor_Missile": 70,
+		"Quad_Blaster_Turret": 2,
+		"Heavy_Anti-Missile_Turret": 2,
+		"S3_Thermionic": 1,
+		"LP072a_Battery_Pack": 1,
+		"D41-HY_Shield_Generator": 2,
+		"Large_Radar_Jammer": 1,
+		"Greyhound_Plasma_Thruster": 1,
+		"Impala_Plasma_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-45 122",
+		"45 122"
+	],
+	"gun": [
+		"-15 -91",
+		"15 -91"
+	],
+	"turret": [
+		"-26 -50 Quad Blaster Turret",
+		"26 -50 Heavy Anti-Missile Turret",
+		"-18 75 Heavy Anti-Missile Turret",
+		"18 75 Quad Blaster Turret"
+	],
+	"fighter": [
+		"-47 12 under",
+		"47 12 under"
+	],
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 35",
+		"medium explosion 20",
+		"large explosion 5"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`Southbound Shipyards quickly answered the Free Worlds' call for a carrier by building modified cargo containers for Haulers - adding a pair of Fighter docking arms, some additional outfit space, and even a couple of bunks. Access to the fighters from within the ship is so inconvenient that most pilots opt to just stay aboard their fighters when in flight. While the technical name for this ship is Hauler I: Type F, Southbound assembly workers started calling the single container variant the Nest due to its complement of Finch Fighters, and the name stuck.`"
+}

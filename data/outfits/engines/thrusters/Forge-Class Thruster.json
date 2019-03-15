@@ -1,0 +1,22 @@
+{
+	"race": "Remnant",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 441000,
+	"thumbnail": "outfit/medium remnant thruster",
+	"mass": 39,
+	"outfit_space": -39,
+	"engine_capacity": -39,
+	"thrust": 37.0,
+	"thrusting_energy": 5.15,
+	"thrusting_heat": 5.0,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/remnant medium flare",
+		"frame_rate": 4
+	},
+	"flare_sound": "plasma small",
+	"description": "The Remnant has taken the basic ion thruster design that has been used by humanity since the dawn of spaceflight and made it significantly more powerful... but also more power-hungry."
+}

@@ -1,0 +1,38 @@
+{
+	"race": "Coalition",
+	"category": "Turrets",
+	"type": "Turret",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 2187000,
+	"thumbnail": "outfit/heliarch attractor",
+	"mass": 49,
+	"outfit_space": -49,
+	"weapon_capacity": -49,
+	"required_crew": 1,
+	"turret_mounts": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/attractor",
+			"frame_rate": 5.2,
+			"random_start_frame": 1
+		},
+		"hardpoint_sprite": "hardpoint/heliarch attractor",
+		"hardpoint_offset": 9.0,
+		"sound": "heliarch attractor",
+		"hit_effect": "attractor impact",
+		"inaccuracy": 2,
+		"turret_turn": 3.5,
+		"velocity": 640,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 4.8,
+		"firing_heat": 4.5,
+		"shield_damage": 5.4,
+		"hull_damage": 4.2,
+		"firing_force": -30,
+		"hit_force": -30
+	},
+	"description": "When battling the Quarg, the Heliarchs learned that the Quarg would not engage in a battle that their ships might be unable to escape. In response, they focused on building weapons that would keep a ship from being able to come to a stop and activate its jump drive."
+}

@@ -1,0 +1,10 @@
+{
+	"race": "Hai",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 60,
+	"thumbnail": "outfit/railslug",
+	"mass": 0.02,
+	"railgun_slug_capacity": -1,
+	"description": "These railgun slugs incorporate energy-discharging capacitors that deal a small amount of hull damage even when the target's shields are functioning, and they can punch crippling holes in the hull of a ship whose shields are down."
+}

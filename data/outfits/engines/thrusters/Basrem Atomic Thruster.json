@@ -1,0 +1,19 @@
+{
+	"race": "Hai",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 150000,
+	"thumbnail": "outfit/tiny atomic thruster hai",
+	"mass": 18,
+	"outfit_space": -18,
+	"engine_capacity": -18,
+	"thrust": 13.2,
+	"thrusting_energy": 1.5,
+	"thrusting_heat": 2.9,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/atomic flare/tiny",
+		"frame_rate": 14
+	},
+	"flare_sound": "atomic tiny",
+	"description": "Unbeknownst to the scientists of the Deep, the Hai have been using atomic engine technology for many millennia. Hai atomic engines are still much more energy hungry than other engines, but exhibit greater efficiency than their human counterparts."
+}

@@ -1,0 +1,72 @@
+{
+	"race": "Korath",
+	"sprite": "ship/kar ik vot 349",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 41280000,
+		"shields": 57200,
+		"hull": 65400,
+		"automaton": 1,
+		"mass": 1350,
+		"drag": 16.8,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 400,
+		"cargo_space": 87,
+		"outfit_space": 1054,
+		"weapon_capacity": 447,
+		"engine_capacity": 173,
+		"self_destruct": 0.8,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 450,
+			"shield_damage": 6400,
+			"hull_damage": 3200,
+			"hit_force": 9600
+		}
+	},
+	"outfits": {
+		"Korath_Detainer": 2,
+		"Korath_Piercer_Launcher": 2,
+		"Korath_Piercer": 62,
+		"Korath_Warder": 2,
+		"Korath_Repeater_Turret": 6,
+		"Triple_Plasma_Core": 1,
+		"Plasma_Core": 1,
+		"Systems_Core_(Large)": 1,
+		"Large_Heat_Shunt": 4,
+		"Small_Heat_Shunt": 2,
+		"Control_Transceiver": 1,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Stellar_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-24 237",
+		"24 237"
+	],
+	"gun": [
+		"-8 -212 Korath Detainer",
+		"8 -212 Korath Detainer",
+		"-16 -158 Korath Piercer Launcher",
+		"16 -158 Korath Piercer Launcher"
+	],
+	"turret": [
+		"-37 -150 Korath Repeater Turret",
+		"37 -150 Korath Repeater Turret",
+		"-38 -132 Korath Repeater Turret",
+		"38 -132 Korath Repeater Turret",
+		"-40 -111 Korath Repeater Turret",
+		"40 -111 Korath Repeater Turret",
+		"-102 188 Korath Warder",
+		"102 188 Korath Warder"
+	],
+	"explode": [
+		"tiny explosion 120",
+		"small explosion 60",
+		"medium explosion 70",
+		"large explosion 50",
+		"huge explosion 15"
+	],
+	"final_explode": "final explosion large",
+	"description": "The largest and deadliest of the Kor Sestor robotic warships, a single one of these battlecruisers can hold its own against an entire fleet of lesser ships."
+}

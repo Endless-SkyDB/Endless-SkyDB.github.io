@@ -1,0 +1,44 @@
+{
+	"race": "Wanderer",
+	"category": "Secondary Weapons",
+	"type": "Secondary Weapon",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 450000,
+	"thumbnail": "outfit/thunderhead launcher",
+	"mass": 14,
+	"outfit_space": -26,
+	"weapon_capacity": -26,
+	"gun_ports": -1,
+	"thunderhead_capacity": 40,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/thunderhead",
+			"no_repeat": 1,
+			"frame_rate": 0.1
+		},
+		"sound": "thunderhead",
+		"ammo": "Thunderhead Missile",
+		"icon": "icon/thunderhead",
+		"submunition": "Thunderhead 5",
+		"split_range": 600,
+		"fire_effect": "meteor fire",
+		"die_effect": "missile death",
+		"hit_effect": "medium explosion",
+		"inaccuracy": 10,
+		"velocity": 4,
+		"lifetime": 400,
+		"reload": 75,
+		"firing_energy": 18,
+		"firing_heat": 36,
+		"acceleration": 1.1,
+		"drag": 0.1,
+		"turn": 2,
+		"homing": 4,
+		"infrared_tracking": 0.9,
+		"radar_tracking": 0.6,
+		"missile_strength": 12
+	},
+	"description": "A prime example of Wanderer ingenuity, Thunderhead missiles each carry five submunitions that are capable of independent tracking. Even if the target is able to shoot down or evade a few of them, the remaining missile fragments will still find their mark."
+}

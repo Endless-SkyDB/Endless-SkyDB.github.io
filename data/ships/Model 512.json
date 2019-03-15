@@ -1,0 +1,67 @@
+{
+	"race": "Korath",
+	"sprite": "ship/model 512",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 40375000,
+		"shields": 86400,
+		"hull": 34200,
+		"automaton": 1,
+		"mass": 1150,
+		"drag": 17.4,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 400,
+		"cargo_space": 107,
+		"outfit_space": 994,
+		"weapon_capacity": 440,
+		"engine_capacity": 161,
+		"self_destruct": 0.8,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 380,
+			"shield_damage": 5600,
+			"hull_damage": 2800,
+			"hit_force": 8400
+		}
+	},
+	"outfits": {
+		"Korath_Minelayer": 2,
+		"Korath_Mine": 34,
+		"Korath_Disruptor": 3,
+		"Korath_Slicer_Turret": 4,
+		"Triple_Plasma_Core": 1,
+		"Plasma_Core": 1,
+		"Systems_Core_(Large)": 1,
+		"Large_Heat_Shunt": 1,
+		"Small_Heat_Shunt": 2,
+		"Reasoning_Node": 3,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Stellar_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-145 97",
+		"145 97"
+	],
+	"gun": [
+		"-22 -143 Korath Minelayer",
+		"22 -143 Korath Minelayer"
+	],
+	"turret": [
+		"-23 -134 Korath Slicer Turret",
+		"91 -102 Korath Disruptor",
+		"124 -57 Korath Slicer Turret",
+		"-130 -33 Korath Disruptor",
+		"138 20 Korath Slicer Turret",
+		"-121 86 Korath Slicer Turret",
+		"54 138 Korath Disruptor"
+	],
+	"explode": [
+		"tiny explosion 160",
+		"small explosion 115",
+		"medium explosion 80",
+		"large explosion 35"
+	],
+	"final_explode": "final explosion large",
+	"description":"This is the final state in the evolution of a Kor Mereti war drone: a perfect ring, with incredibly powerful shields and turrets firing in every direction."
+}

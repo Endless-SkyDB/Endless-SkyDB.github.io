@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Ammunition",
+	"type": "Ammunition Storage",
+	"cost": 21000,
+	"thumbnail": "outfit/torpedo storage",
+	"mass": 3,
+	"outfit_space": -9,
+	"torpedo_capacity": 15,
+	"ammo": "Torpedo",
+	"description": "The Torpedo Storage Rack is used to store extra ammunition for Torpedo Launchers."
+}

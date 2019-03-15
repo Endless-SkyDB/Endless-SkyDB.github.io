@@ -1,0 +1,51 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/saryd runabout",
+	"attributes": {
+		"category": "Light Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 942000,
+		"shields": 2000,
+		"hull": 1400,
+		"required_crew": 2,
+		"bunks": 13,
+		"mass": 140,
+		"drag": 2.8,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 400,
+		"cargo_space": 42,
+		"outfit_space": 172,
+		"weapon_capacity": 44,
+		"engine_capacity": 42,
+		"weapon": {
+			"blast_radius": 22,
+			"shield_damage": 220,
+			"hull_damage": 110,
+			"hit_force": 330
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 2,
+		"Small_Battery_Module": 1,
+		"Small_Shield_Module": 1,
+		"Small_Thrust_Module": 2,
+		"Small_Steering_Module": 3,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-14 52 1",
+		"14 52 1"
+	],
+	"gun": [
+		"-21 -4",
+		"21 -4"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 10"
+	],
+	"final_explode": "final explosion small",
+	"description": "Saryds place high value both on solitude, but also on community and collaboration. So, it is not surprising that their smallest spacefaring vessel requires a team of at least two individuals to operate it. It is quite common for a lone Saryd to take on a Kimek or Arach copilot as a way of building cross-species friendships."
+}

@@ -1,0 +1,12 @@
+{
+	"race": "Korath",
+	"category": "Ammunition",
+	"type": "Ammunition Storage",
+	"cost": 56000,
+	"thumbnail": "outfit/korath piercer storage",
+	"mass": 2.2,
+	"outfit_space": -7,
+	"piercer_capacity": 16,
+	"ammo": "Korath Piercer",
+	"description": "The Korath Piercer Rack is used to store extra ammunition for Korath Piercer Launchers."
+}

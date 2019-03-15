@@ -1,0 +1,59 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/kimek thistle",
+	"attributes": {
+		"category": "Transport",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 2904000,
+		"shields": 7500,
+		"hull": 2800,
+		"required_crew": 7,
+		"bunks": 52,
+		"mass": 270,
+		"drag": 5.8,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 700,
+		"cargo_space": 29,
+		"outfit_space": 321,
+		"weapon_capacity": 118,
+		"engine_capacity": 87,
+		"weapon": {
+			"blast_radius": 60,
+			"shield_damage": 600,
+			"hull_damage": 300,
+			"hit_force": 900
+		}
+	},
+	"outfits": {
+		"Large_Collector_Module": 1,
+		"Small_Battery_Module": 1,
+		"Small_Shield_Module": 3,
+		"Large_Thrust_Module": 1,
+		"Small_Thrust_Module": 2,
+		"Large_Steering_Module": 1,
+		"Small_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-13 120 .7",
+		"0 123 1",
+		"13 120 .7"
+	],
+	"gun": [
+		"-11 -92",
+		"11 -92"
+	],
+	"turret": [
+		"-13 3",
+		"13 3"
+	],
+	"explode": [
+		"small explosion 10",
+		"medium explosion 30",
+		"large explosion 10"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`The Kimek love traveling so much that some of them will happily spend months at a time in a transport this size, and the passengers often grow into a tight-knit community by the end of their journeys together.`"
+}

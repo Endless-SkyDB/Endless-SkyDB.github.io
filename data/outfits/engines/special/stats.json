@@ -1,0 +1,65 @@
+{
+	"cost_min": 20000,
+	"cost": "bad",
+	"cost_max": 340000,
+
+	"mass_min": 15,
+	"mass": "bad",
+	"mass_max": 24,
+
+	"outfit_space_min": -24,
+	"outfit_space": "bad",
+	"outfit_space_max": -15,
+	"outfit_space_operation": "flip",
+
+	"engine_capacity_min": -24,
+	"engine_capacity": "bad",
+	"engine_capacity_max": -15,
+	"engine_capacity_operation": "flip",
+
+	"afterburner_thrust_min": 25,
+	"afterburner_thrust": "good",
+	"afterburner_thrust_max": 29,
+
+	"afterburner_fuel_min": 0.1,
+	"afterburner_fuel": "bad",
+	"afterburner_fuel_max": 0.5,
+
+	"afterburner_heat_min": 10,
+	"afterburner_heat": "bad",
+	"afterburner_heat_max": 12,
+
+	"turn_min": 110,
+	"turn": "good",
+	"turn_max": 250,
+
+	"turning_energy_min": 0.25,
+	"turning_energy": "bad",
+	"turning_energy_max": 0.6,
+
+	"turning_heat_min": 0.5,
+	"turning_heat": "bad",
+	"turning_heat_max": 1.3,
+
+	"thrust_min": 4,
+	"thrust": "good",
+	"thrust_max": 10.1,
+
+	"thrusting_energy_min": 0.4,
+	"thrusting_energy": "bad",
+	"thrusting_energy_max": 1.2,
+
+	"thrusting_heat_min": 0.6,
+	"thrusting_heat": "bad",
+	"thrusting_heat_max": 2.4,
+
+	"afterburner_energy_min": 5.1,
+	"afterburner_energy": "bad",
+	"afterburner_energy_max": 5.1,
+
+	"group": [
+		["cost", "mass"],
+		["afterburner_thrust", "turn", "thrust"],
+		["afterburner_fuel", "afterburner_heat", "afterburner_energy", "turning_energy", "turning_heat", "thrusting_energy", "thrusting_heat"]
+	]
+}

@@ -1,0 +1,13 @@
+{
+    "file": "X3200 Ion Steering",
+    "category": "Engines",
+    "cost": 46000,
+    "thumbnail": "outfit/medium ion steering",
+    "mass": 35,
+    "outfit_space": -35,
+    "engine_capacity": -35,
+    "turn": 590,
+    "turning_energy": 1.1,
+    "turning_heat": 2.0,
+    "description": "The X3200 steering system is intended for small warships and freighters. It produces enough turning force to lend agility to all but the largest of human ships, and it is considerably more energy-efficient than the plasma-drive alternatives. Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+}

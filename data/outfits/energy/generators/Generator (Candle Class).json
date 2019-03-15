@@ -1,0 +1,13 @@
+{
+	"race": "Korath",
+	"plural": "Generators (Candle Class)",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 493000,
+	"thumbnail": "outfit/small korath generator",
+	"mass": 23,
+	"outfit_space": -23,
+	"energy_generation": 3.1,
+	"heat_generation": 7.0,
+	"description": "This tiny generator produces a significant amount of energy using the heat produced by the radioactive decay of some particularly unstable nuclear isotopes."
+}

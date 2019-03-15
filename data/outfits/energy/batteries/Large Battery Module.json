@@ -1,0 +1,14 @@
+{
+	"race": "Coalition",
+	"category": "Power",
+	"type": "Battery",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 340000,
+	"thumbnail": "outfit/large battery module",
+	"mass": 18,
+	"outfit_space": -18,
+	"energy_capacity": 4500,
+	"description": "This battery pack stores enough power to allow a Coalition ship to continue maneuvering even when its solar panels are only producing a fraction of their peak output."
+}

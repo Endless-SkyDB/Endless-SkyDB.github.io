@@ -1,0 +1,32 @@
+{
+	"cost_min": 12000,
+	"cost": "bad",
+	"cost_max": 3000000,
+
+	"mass_min": 2,
+	"mass": "bad",
+	"mass_max": 160,
+
+	"outfit_space_min": -160,
+	"outfit_space": "bad",
+	"outfit_space_max": -2,
+	"outfit_space_operation": "flip",
+
+	"energy_capacity_min": 150,
+	"energy_capacity": "good",
+	"energy_capacity_max": 30000,
+
+	"energy_consumption_min": 0.4,
+	"energy_consumption": "bad",
+	"energy_consumption_max": 0.4,
+
+	"heat_generation_min": 0.4,
+	"heat_generation": "bad",
+	"heat_generation_max": 0.4,
+
+	"group": [
+		["cost", "mass"],
+		["energy_capacity"],
+		["energy_consumption", "heat_generation"]
+	]
+}

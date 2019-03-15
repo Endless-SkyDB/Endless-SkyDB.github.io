@@ -1,0 +1,55 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/marrows",
+	"attributes": {
+		"category": "Interceptor",
+		"cost": 1320000,
+		"shields": 2300,
+		"hull": 500,
+		"required_crew": 2,
+		"bunks": 5,
+		"mass": 145,
+		"drag": 2.7,
+		"heat_dissipation": 0.85,
+		"fuel_capacity": 400,
+		"cargo_space": 5,
+		"outfit_space": 210,
+		"weapon_capacity": 55,
+		"engine_capacity": 80,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 27,
+			"shield_damage": 265,
+			"hull_damage": 135,
+			"hit_force": 400
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 2,
+		"Quad_Blaster_Turret": 1,
+		"Dwarf_Core": 1,
+		"LP072a_Battery_Pack": 1,
+		"D14-RN_Shield_Generator": 1,
+		"Cooling_Ducts": 1,
+		"Laser_Rifle": 5,
+		"A250_Atomic_Thruster": 1,
+		"A255_Atomic_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-8 57",
+		"8 57"
+	],
+	"gun": [
+		"-6 -36 Heavy Laser",
+		"6 -36 Heavy Laser"
+	],
+	"turret": "0 15 Quad Blaster Turret",
+	"explode": [
+		"tiny explosion 12",
+		"small explosion 18",
+		"medium explosion 6"
+	],
+	"final_explode": "final explosion small",
+	"description": "This Arrow has had numerous modifications to its hull and internal systems to make more room for outfits - mostly with combat in mind. More shields, weapons, engines, outfit space, and a turret mount nearly push this ship into the Light Warship category, and definitely make it one of the heaviest Interceptors you're likely to find."
+}

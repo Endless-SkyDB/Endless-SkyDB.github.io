@@ -1,0 +1,62 @@
+{
+	"race": "Hai",
+	"sprite": "ship/hai water bug",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"cost": 6500000,
+		"shields": 7900,
+		"hull": 4500,
+		"required_crew": 5,
+		"bunks": 29,
+		"mass": 270,
+		"drag": 5.9,
+		"heat_dissipation": 0.75,
+		"fuel_capacity": 600,
+		"cargo_space": 197,
+		"outfit_space": 368,
+		"weapon_capacity": 145,
+		"engine_capacity": 64,
+		"weapon": {
+			"blast_radius": 124,
+			"shield_damage": 1240,
+			"hull_damage": 620,
+			"hit_force": 1860
+		}
+	},
+	"outfits": {
+		"Hai_Tracker_Pod": 2,
+		"Hai_Tracker": 112,
+		"Pulse_Turret": 1,
+		"Chameleon_Anti-Missile": 2,
+		"Geode_Reactor": 1,
+		"Hai_Gorge_Batteries": 1,
+		"Hai_Chasm_Batteries": 1,
+		"Hai_Diamond_Regenerator": 1,
+		"Hai_Williwaw_Cooling": 1,
+		"Quantum_Keystone": 1,
+		"Benga Atomic Thruster": 1,
+		"Benga Atomic Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-50 33",
+		"50 33"
+	],
+	"gun": [
+		"-24 -53 Hai Tracker Pod",
+		"24 -53 Hai Tracker Pod"
+	],
+	"turret": [
+		"0 -10 Pulse Turret",
+		"-17 17 Chameleon Anti-Missile",
+		"17 17 Chameleon Anti-Missile"
+	],
+	"explode": [
+		"small explosion 15",
+		"medium explosion 30",
+		"large explosion 20",
+		"huge explosion 5"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Water Bug is the primary freight ship used by the Hai."
+}

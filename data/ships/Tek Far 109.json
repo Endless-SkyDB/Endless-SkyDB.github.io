@@ -1,0 +1,82 @@
+{
+	"race": "Korath",
+	"sprite": "ship/tek far 109",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 18290000,
+		"shields": 17900,
+		"hull": 15800,
+		"automaton": 1,
+		"mass": 540,
+		"drag": 9.1,
+		"heat_dissipation": 0.65,
+		"fuel_capacity": 400,
+		"cargo_space": 31,
+		"outfit_space": 491,
+		"weapon_capacity": 217,
+		"engine_capacity": 98,
+		"self_destruct": 0.7,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 280,
+			"shield_damage": 3200,
+			"hull_damage": 1600,
+			"hit_force": 4800
+		}
+	},
+	"outfits": {
+		"Korath_Detainer": 1,
+		"Korath_Piercer_Launcher": 2,
+		"Korath_Piercer": 62,
+		"Korath_Banisher": 2,
+		"Double_Plasma_Core": 1,
+		"Systems_Core_(Medium)": 1,
+		"Small_Heat_Shunt": 2,
+		"Control_Transceiver": 1,
+		"Thruster_(Lunar_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-9 205",
+		"9 205"
+	],
+	"gun": [
+		"0 -214 Korath Detainer",
+		"-14 -206 Korath Piercer Launcher",
+		"14 -206 Korath Piercer Launcher"
+	],
+	"turret": [
+		"-89 32",
+		"89 32"
+	],
+	"drone": [
+		"38.5 -115.5 over",
+		"25 -50.5 over",
+		"59 28 over",
+		"28 79 over",
+		"19.5 145.5 over",
+		"57.5 -56.5 under",
+		"40 19 under",
+		"60 58.5 under",
+		"45.5 135 under"
+	],
+	"fighter": [
+		"-36.5 -130.5 over",
+		"-61.5 -68 over",
+		"-29.5 -17 over",
+		"-54.5 55 over",
+		"-62 24 under",
+		"-35 136.5 under",
+		"-22 -82 under"
+	],
+	"explode": [
+		"tiny explosion 70",
+		"small explosion 40",
+		"medium explosion 45",
+		"large explosion 30",
+		"huge explosion 8"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The TF109 is designed almost solely for the purpose of carrying a fleet of Kor Sestor fighters and drones. Without them to serve as a protective screen, the ship itself is relatively helpless."
+}

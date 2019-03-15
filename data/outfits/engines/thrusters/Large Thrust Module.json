@@ -1,0 +1,22 @@
+{
+	"race": "Coalition",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 292000,
+	"thumbnail": "outfit/large thrust module",
+	"mass": 32,
+	"outfit_space": -32,
+	"engine_capacity": -32,
+	"thrust": 26.2,
+	"thrusting_energy": 1.7,
+	"thrusting_heat": 12.5,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/coalition large flare",
+		"frame_rate": 3.5
+	},
+	"flare_sound": "atomic small",
+	"description": "Coalition engineers prefer to focus on perfecting a few versatile designs rather than producing a wide range of them. This thruster is quite efficient, but large ships will need several of them stacked together to produce sufficient thrust."
+}

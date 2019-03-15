@@ -1,0 +1,17 @@
+{
+	"race": "Coalition",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 60000,
+	"thumbnail": "outfit/small steering module",
+	"mass": 7,
+	"outfit_space": -7,
+	"engine_capacity": -7,
+	"turn": 178.8,
+	"turning_energy": 0.26,
+	"turning_heat": 2.3,
+	"description": "Despite its high efficiency, this module is not sufficient for any but the tiniest of ships. Instead, the modules are designed with the expectation that ships may use two or three of them in tandem."
+}

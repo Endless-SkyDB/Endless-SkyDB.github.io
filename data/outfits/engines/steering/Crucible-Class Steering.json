@@ -1,0 +1,17 @@
+{
+	"race": "Remnant",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 172000,
+	"thumbnail": "outfit/small remnant steering",
+	"mass": 14,
+	"outfit_space": -14,
+	"engine_capacity": -14,
+	"turn": 448.0,
+	"turning_energy": 1.32,
+	"turning_heat": 1.4,
+	"description": "This steering system is tiny enough to fit in even an interceptor, but the Remnant mostly use them to provide an extra bit of maneuverability for their larger ships."
+}

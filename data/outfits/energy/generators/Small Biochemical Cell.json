@@ -1,0 +1,16 @@
+{
+	"race": "Wanderer",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 230000,
+	"thumbnail": "outfit/small biochemical",
+	"mass": 17,
+	"outfit_space": -17,
+	"energy_generation": 1.6,
+	"heat_generation": 1.4,
+	"energy_capacity": 300,
+	"description": "This tiny generator draws energy from the metabolic byproducts of a collection of microorganisms that have been engineered by the Wanderers specifically for this purpose."
+}

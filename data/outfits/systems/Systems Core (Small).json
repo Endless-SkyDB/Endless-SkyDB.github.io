@@ -1,0 +1,17 @@
+{
+	"race": "Korath",
+	"plural": "Systems Cores (Small)",
+	"category": "Systems",
+	"type": "Systems",
+	"cost": 1452000,
+	"thumbnail": "outfit/small systems core",
+	"mass": 31,
+	"outfit_space": -31,
+	"shield_generation": 1.6,
+	"shield_energy": 2.4,
+	"hull_repair_rate": 0.2,
+	"hull_energy": 0.2,
+	"hull_heat": 0.3,
+	"energy_capacity": 1300,
+	"description": "`The heart of any Korath ship is the Systems Core, which houses the ship's central computer, shield generators, and a small number of hull-walking welding robots that can make minor repairs to the ship's outer armor while in flight.`"
+}

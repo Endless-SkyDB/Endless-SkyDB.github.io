@@ -1,0 +1,33 @@
+{
+	"race": "Korath",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 943000,
+	"thumbnail": "outfit/banisher",
+	"mass": 41,
+	"outfit_space": -41,
+	"weapon_capacity": -41,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/banisher",
+			"frame_rate": 60
+		},
+		"hardpoint_sprite": "hardpoint/banisher",
+		"hardpoint_offset": 5.0,
+		"sound": "banisher",
+		"hit_effect": "banisher impact",
+		"inaccuracy": 0.4,
+		"turret_turn": 6,
+		"velocity": 590,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 3.3,
+		"firing_heat": 4.9,
+		"shield_damage": 2.8,
+		"hull_damage": 0.9,
+		"hit_force": 40
+	},
+	"description": "The Korath like to keep their enemies close... but not too close."
+}

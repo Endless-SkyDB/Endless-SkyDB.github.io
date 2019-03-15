@@ -1,0 +1,59 @@
+{
+	"race": "Human",
+	"sprite": "ship/vanguard",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 7200000,
+		"shields": 9800,
+		"hull": 6000,
+		"required_crew": 23,
+		"bunks": 45,
+		"mass": 500,
+		"drag": 8,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 50,
+		"outfit_space": 560,
+		"weapon_capacity": 220,
+		"engine_capacity": 120,
+		"weapon": {
+			"blast_radius": 160,
+			"shield_damage": 1600,
+			"hull_damage": 800,
+			"hit_force": 2400
+		}
+	},
+	"outfits": {
+		"Proton_Gun": 7,
+		"Anti-Missile_Turret": 1,
+		"Fusion_Reactor": 1,
+		"LP072a_Battery_Pack": 1,
+		"D67-TM_Shield_Generator": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"X3700_Ion_Thruster": 1,
+		"X4200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-15 130",
+		"15 130"
+	],
+	"gun": [
+		"0 -132 Proton Gun",
+		"-22 -122 Proton Gun",
+		"22 -122 Proton Gun",
+		"-21 -45 Proton Gun",
+		"21 -45 Proton Gun",
+		"-31 -45 Proton Gun",
+		"31 -45 Proton Gun"
+	],
+	"turret": "0 42 Anti-Missile Turret",
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`The Vanguard is Syndicated Systems' newest warship intended for the heavy anti-pirate defense market. Vanguards offer an unusual feature set, focusing on powerful fixed guns and featuring Syndicated Systems' latest automation technologies, resulting in an atypically low crew complement for a ship its size. Few capital ships will endure for long under the withering fusillade of gunfire that it can unleash against those in front of it.`"
+}

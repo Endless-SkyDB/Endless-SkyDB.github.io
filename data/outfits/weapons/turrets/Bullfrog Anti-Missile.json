@@ -1,0 +1,24 @@
+{
+	"race": "Hai",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 55000,
+	"thumbnail": "outfit/anti-missile hai",
+	"mass": 10,
+	"outfit_space": -10,
+	"weapon_capacity": -10,
+	"turret_mounts": -1,
+	"weapon": {
+		"hardpoint_sprite": "hardpoint/anti-missile hai",
+		"hardpoint_offset": 3.0,
+		"hit_effect": "small anti-missile",
+		"anti-missile": 12,
+		"velocity": 150,
+		"lifetime": 1,
+		"reload": 20,
+		"firing_energy": 12,
+		"firing_heat": 5,
+		"stream": 1
+	},
+	"description": "Centuries ago, the Hai fought with more rudimentary versions of the Tracker, and this was the primary defense against them. In spite of the dated design, it is still effective against small numbers of their latest missile weapons."
+}

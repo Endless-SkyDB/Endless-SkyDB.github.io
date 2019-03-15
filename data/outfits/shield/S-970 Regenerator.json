@@ -1,0 +1,14 @@
+{
+	"race": "Human",
+	"category": "Systems",
+	"type": "Shield",
+	"cost": 800000,
+	"thumbnail": "outfit/large regenerator",
+	"mass": 37,
+	"outfit_space": -37,
+	"shield_generation": 2.3,
+	"shield_energy": 2.3,
+	"energy_consumption": 0.9,
+	"heat_generation": 6,
+	"description": "The S-970 Shield Regenerator is an advanced type of shield recharging technology. Unfortunately, its power needs are rather high, and the shifts it makes in your shield configuration also result in some feedback that causes heat to build up in the regenerator, even when your shields are at full strength."
+}

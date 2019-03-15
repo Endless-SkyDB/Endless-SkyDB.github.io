@@ -1,0 +1,63 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mmantas",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 3740000,
+		"shields": 6500,
+		"hull": 1750,
+		"required_crew": 7,
+		"bunks": 11,
+		"mass": 195,
+		"drag": 4.7,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 400,
+		"cargo_space": 10,
+		"outfit_space": 390,
+		"weapon_capacity": 155,
+		"engine_capacity": 110,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 90,
+			"shield_damage": 900,
+			"hull_damage": 450,
+			"hit_force": 1350
+		}
+	},
+	"outfits": {
+		"Plasma_Cannon": 2,
+		"Particle_Cannon": 2,
+		"Meteor_Missile_Launcher": 2,
+		"Meteor_Missile": 70,
+		"Quad_Blaster_Turret": 1,
+		"Dwarf_Core": 1,
+		"LP144a_Battery_Pack": 1,
+		"D14-RN_Shield_Generator": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"Security_Station": 3,
+		"Laser_Rifle": 8,
+		"A250_Atomic_Thruster": 1,
+		"A525_Atomic_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-33 38",
+		"33 38"
+	],
+	"gun": [
+		"-66 -30 Meteor Missile Launcher",
+		"66 -30 Meteor Missile Launcher",
+		"-27 -30 Particle Cannon",
+		"27 -30 Particle Cannon",
+		"-20 -30 Particle Cannon",
+		"20 -30 Particle Cannon"
+	],
+	"turret": "0 -29 Quad Blaster Turret",
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 20",
+		"medium explosion 15"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`After the Syndicate released their Vanguard Heavy Warship, the Manta fell somewhat out of favor, lacking the ability to mount any anti-missile systems. The owner of this Manta rectified that, added some extra armor plating and shield emitters, and rearranged some of the internals to yield a little more outfit space. Dry tonnage alone keeps it in the Medium Warship category.`"
+}

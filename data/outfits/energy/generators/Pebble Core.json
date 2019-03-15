@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 1050000,
+	"thumbnail": "outfit/dwarf core hai",
+	"mass": 32,
+	"outfit_space": -32,
+	"energy_generation": 4.5,
+	"heat_generation": 11.9,
+	"description": "A Pebble Core is a miniaturized nuclear reactor, small enough to be installed in any ship larger than a fighter. The Hai developed this model for their smaller ships."
+}

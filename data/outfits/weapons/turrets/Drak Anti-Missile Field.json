@@ -1,0 +1,20 @@
+{
+	"race": "Drak",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 1000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 66,
+	"outfit_space": -66,
+	"weapon_capacity": -66,
+	"turret_mounts": -1,
+	"weapon": {
+		"velocity": 400,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 10,
+		"firing_heat": 1,
+		"anti-missile": 100
+	},
+	"description": "This device produces a field that destroys any missiles that come within it."
+}

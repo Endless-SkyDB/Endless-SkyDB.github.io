@@ -1,0 +1,10 @@
+{
+	"race": "Human",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 500,
+	"thumbnail": "outfit/meteor",
+	"mass": 0.2,
+	"meteor_capacity": -1,
+	"description": "A Meteor Missile serves as ammunition for the Meteor Missile Launcher. Each missile launcher has the capacity for 35 missiles; you cannot install missiles if you have not first purchased a launcher to store them in."
+}

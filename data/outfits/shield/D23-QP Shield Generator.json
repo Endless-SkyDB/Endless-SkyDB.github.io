@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Systems",
+	"type": "Shield",
+	"cost": 35000,
+	"thumbnail": "outfit/small shield",
+	"mass": 22,
+	"outfit_space": -22,
+	"shield_generation": 0.32,
+	"shield_energy": 0.32,
+	"description": "This is a slightly more powerful shield generator than the standard model installed in most small ships. If combat lasts long enough, the increased recharge rate is enough to give you an edge, but recharging your shields completely will still take a long time."
+}

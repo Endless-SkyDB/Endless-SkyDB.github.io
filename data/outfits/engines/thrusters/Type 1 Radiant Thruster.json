@@ -1,0 +1,23 @@
+{
+	"race": "Wanderer",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 135000,
+	"thumbnail": "outfit/tiny radiant thruster",
+	"mass": 12,
+	"outfit_space": -12,
+	"engine_capacity": -12,
+	"thrust": 6.6,
+	"thrusting_energy": 0.5,
+	"thrusting_heat": 0.9,
+	"cooling": 1.5,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/plasma flare/tiny",
+		"frame_rate": 12
+	},
+	"flare_sound": "plasma tiny",
+	"description": "This is the tiniest Wanderer engine. Like all their engines, it works in part by radiating excess heat, and as a result it doubles as a cooler for your ship."
+}

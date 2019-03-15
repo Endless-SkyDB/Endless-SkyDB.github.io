@@ -1,0 +1,14 @@
+{
+	"race": "Quarg",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 20000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 70,
+	"outfit_space": -70,
+	"engine_capacity": -70,
+	"thrust": 80,
+	"thrusting_energy": 20,
+	"thrusting_heat": 10,
+	"flare_sprite": "effect/medium graviton flare"
+}

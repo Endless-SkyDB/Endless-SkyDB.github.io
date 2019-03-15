@@ -1,0 +1,41 @@
+{
+	"race": "Korath",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 821000,
+	"thumbnail": "outfit/grab-strike",
+	"mass": 52,
+	"outfit_space": -52,
+	"weapon_capacity": -52,
+	"energy_capacity": 100,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/grab-strike",
+			"frame_rate": 25,
+			"random_start_frame": 1
+		},
+		"hardpoint_sprite": "hardpoint/grab-strike",
+		"hardpoint_offset": 7.0,
+		"sound": "grab-strike",
+		"hit_effect": "grab-strike impact",
+		"die_effect": "grab-strike impact",
+		"inaccuracy": 1,
+		"turret_turn": 4,
+		"velocity": 10,
+		"lifetime": 100,
+		"reload": 20,
+		"firing_energy": 60,
+		"firing_heat": 150,
+		"acceleration": 1,
+		"drag": 0.1,
+		"turn": 0.2,
+		"homing": 4,
+		"tracking": 0.7,
+		"shield_damage": 108,
+		"hull_damage": 32,
+		"hit_force": -160
+	},
+	"description": "Korath Grab-Strike projectiles are designed to pull a target closer to the Korath ship, to keep it from escaping."
+}

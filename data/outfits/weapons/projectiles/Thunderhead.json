@@ -1,0 +1,26 @@
+{
+	"race": "Wanderer",
+	"type": "Projectile",
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/thunderhead fragment",
+			"no_repeat": 1,
+			"frame_rate": 0.1
+		},
+		"die_effect": "missile death",
+		"hit_effect": "small explosion",
+		"inaccuracy": 90,
+		"velocity": 2,
+		"lifetime": 400,
+		"acceleration": 1.4,
+		"drag": 0.1,
+		"turn": 3,
+		"homing": 4,
+		"optical_tracking": 0.9,
+		"radar_tracking": 0.6,
+		"shield_damage": 110,
+		"hull_damage": 80,
+		"hit_force": 20,
+		"missile_strength": 3
+	}
+}

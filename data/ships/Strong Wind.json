@@ -1,0 +1,59 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/strong wind",
+	"attributes": {
+		"category": "Medium Warship",
+		"licenses": {
+			"Wanderer_Military": 1
+		},
+		"cost": 16100000,
+		"shields": 28500,
+		"hull": 19600,
+		"required_crew": 17,
+		"bunks": 39,
+		"mass": 260,
+		"drag": 4.7,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 400,
+		"cargo_space": 68,
+		"outfit_space": 493,
+		"weapon_capacity": 198,
+		"engine_capacity": 114,
+		"weapon": {
+			"blast_radius": 200,
+			"shield_damage": 2000,
+			"hull_damage": 1000,
+			"hit_force": 3000
+		}
+	},
+	"outfits": {
+		"Sunbeam": 4,
+		"Thunderhead_Launcher": 2,
+		"Thunderhead_Missile": 80,
+		"White_Sun_Reactor": 1,
+		"Dark_Storm_Shielding": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_3_Radiant_Thruster": 1,
+		"Type_4_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-30 127",
+		"30 127"
+	],
+	"gun": [
+		"-64 13 Sunbeam",
+		"64 13 Sunbeam",
+		"-57 21 Sunbeam",
+		"57 21 Sunbeam",
+		"-32 57 Thunderhead Launcher",
+		"32 57 Thunderhead Launcher"
+	],
+	"explode": [
+		"small explosion 60",
+		"medium explosion 40",
+		"large explosion 20"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Strong Wind was originally designed for science and exploration, but recently the Wanderers have modified the design to allow it to be used as a warship."
+}

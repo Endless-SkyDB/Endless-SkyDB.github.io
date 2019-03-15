@@ -1,0 +1,23 @@
+{
+	"race": "Human",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 60000,
+	"thumbnail": "outfit/anti-missile",
+	"mass": 16,
+	"outfit_space": -16,
+	"weapon_capacity": -16,
+	"turret_mounts": -1,
+	"weapon": {
+		"hardpoint_sprite": "hardpoint/anti-missile",
+		"hardpoint_offset": 4.0,
+		"hit_effect": "small anti-missile",
+		"anti-missile": 5,
+		"velocity": 150,
+		"lifetime": 1,
+		"reload": 8,
+		"firing_energy": 5,
+		"firing_heat": 3
+	},
+	"description": "Centuries ago, space battles were fought mostly with missiles, with the outcome dependent only on which ship had more shielding or ammunition. Lovelace Labs was originally founded to remedy that situation by developing a protective system that could shoot missiles out of the air, defending freighter convoys from pirates who could otherwise simply bombard them into submission without ever venturing within range of their guns."
+}

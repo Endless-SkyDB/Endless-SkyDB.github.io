@@ -1,0 +1,29 @@
+{
+  "file": "Plasma Cannon",
+  "category": "Guns",
+  "cost": 190000,
+  "thumbnail": "outfit/plasma cannon",
+  "mass": 25,
+  "outfit_space": -25,
+  "weapon_capacity": -25,
+  "gun_ports": -1,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/plasma",
+      "frame_rate": 3
+    },
+    "sound": "plasma",
+    "hit_effect": "plasma explosion",
+    "inaccuracy": 2,
+    "velocity": 12,
+    "lifetime": 40,
+    "reload": 18,
+    "firing_energy": 30,
+    "firing_heat": 180,
+    "hit_force": 30,
+    "shield_damage": 63,
+    "hull_damage": 25,
+    "heat_damage": 340
+  },
+  "description": "The Plasma Cannon fires bursts of superheated plasma. In addition to damaging your target, these plasma bursts impart a significant amount of heat, especially to a target whose shields are down."
+}

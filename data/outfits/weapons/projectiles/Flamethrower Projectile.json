@@ -1,0 +1,18 @@
+{
+	"race": "Human",
+	"type": "Projectile",
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/flamethrower",
+			"frame_rate": 17,
+			"random_start_frame": 1
+		},
+		"hit_effect": "flamethrower hit",
+		"die_effect": "flamethrower die",
+		"inaccuracy": 20,
+		"lifetime": 22,
+		"shield_damage": 0.8,
+		"hull_damage": 0.7,
+		"heat_damage": 200
+	}
+}

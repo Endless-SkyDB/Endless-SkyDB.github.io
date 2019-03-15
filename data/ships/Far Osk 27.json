@@ -1,0 +1,45 @@
+{
+	"race": "Korath",
+	"sprite": "ship/far osk 27",
+	"attributes": {
+		"category": "Fighter",
+		"cost": 761000,
+		"shields": 1500,
+		"hull": 2400,
+		"automaton": 1,
+		"mass": 34,
+		"drag": 1.1,
+		"heat_dissipation": 1.0,
+		"outfit_space": 99,
+		"weapon_capacity": 22,
+		"engine_capacity": 24,
+		"self_destruct": 0.6,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 12,
+			"shield_damage": 120,
+			"hull_damage": 60,
+			"hit_force": 180
+		}
+	},
+	"outfits": {
+		"Korath_Repeater": 2,
+		"Generator_(Furnace_Class)": 1,
+		"Small_Heat_Shunt": 2,
+		"Thruster_(Asteroid_Class)": 1,
+		"Steering_(Asteroid_Class)": 1
+	},
+	"engine": [
+		"-4 37",
+		"4 37"
+	],
+	"gun": [
+		"7 -15",
+		"13 -8"
+	],
+	"explode": [
+		"tiny explosion 25",
+		"small explosion 15"
+	],
+	"description": "Because it is piloted by a computer and has no need for a cockpit or life support systems, the FS27 fighter is able to carry far more weaponry than any comparable human ship."
+}

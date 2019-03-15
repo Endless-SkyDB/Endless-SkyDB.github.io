@@ -1,0 +1,40 @@
+{
+  "file": "Sidewinder Missile Launcher",
+  "category": "Secondary Weapons",
+  "cost": 60000,
+  "thumbnail": "outfit/sidewinder launcher",
+  "mass": 4,
+  "outfit_space": -14,
+  "weapon_capacity": -14,
+  "gun_ports": -1,
+  "sidewinder_capacity": 50,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/sidewinder",
+      "no_repeat": "true",
+      "frame_rate": 0.25
+    },
+    "sound": "sidewinder",
+    "ammo": "Sidewinder Missile",
+    "icon": "icon/sidewinder",
+    "fire_effect": "sidewinder fire",
+    "die_effect": "missile death",
+    "hit_effect": "medium explosion",
+    "inaccuracy": 4,
+    "velocity": 11,
+    "lifetime": 600,
+    "reload": 40,
+    "firing_energy": 1,
+    "firing_heat": 15,
+    "acceleration": 1.1,
+    "drag": 0.1,
+    "turn": 3,
+    "homing": 4,
+    "radar_tracking": 0.9,
+    "shield_damage": 100,
+    "hull_damage": 70,
+    "hit_force": 25,
+    "missile_strength": 12
+  },
+  "description": "The Sidewinder Missile is designed by Lovelace Labs, which is ironically also the designer of the Anti-Missile Turret. Rumors say that the two engineering teams at Lovelace who make the missiles and the anti-missiles are locked in furious competition with each other: the result has been generation after generation of smarter missiles and then smarter turrets to fend them off. Although not as powerful or cheap as the popular Meteor missiles, Sidewinders have several advantages, including their better tracking systems and protective casings that make them much harder for anti-missile systems to destroy."
+}

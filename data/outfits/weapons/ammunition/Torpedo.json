@@ -1,0 +1,11 @@
+{
+	"race": "Human",
+	"plural": "Torpedoes",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 1400,
+	"thumbnail": "outfit/torpedo",
+	"mass": 0.4,
+	"torpedo_capacity": -1,
+	"description": "Torpedoes are ammunition for the Torpedo Launcher. Each Torpedo Launcher can hold 30 of them. You cannot install torpedoes unless you have also installed a launcher to fire them from."
+}

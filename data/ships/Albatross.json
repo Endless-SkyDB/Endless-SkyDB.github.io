@@ -1,0 +1,75 @@
+{
+	"race": "Remnant",
+	"sprite": "ship/albatross",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Remnant": 1
+		},
+		"cost": 20000000,
+		"shields": 34200,
+		"hull": 12600,
+		"required_crew": 44,
+		"bunks": 75,
+		"cargo_space": 124,
+		"mass": 610,
+		"drag": 8.6,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 600,
+		"engine_capacity": 142,
+		"outfit_space": 658,
+		"weapon_capacity": 236,
+		"shield_generation": 5.2,
+		"shield_energy": 4.6,
+		"hull_repair_rate": 1.5,
+		"hull_energy": 1.2,
+		"weapon": {
+			"blast_radius": 360,
+			"shield_damage": 3600,
+			"hull_damage": 1800,
+			"hit_force": 5400
+		}
+	},
+	"outfits": {
+		"Inhibitor_Cannon": 6,
+		"Thrasher_Turret": 2,
+		"Point_Defense_Turret": 1,
+		"Aeon_Cell": 1,
+		"Epoch_Cell": 1,
+		"Crystal_Capacitor": 1,
+		"Thermoelectric_Cooler": 2,
+		"Quantum_Key_Stone": 1,
+		"Smelter-Class_Thruster": 1,
+		"Smelter-Class_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-28 155 .8",
+		"28 155 .9",
+		"0 184 .8"
+	],
+	"gun": [
+		"0 -190",
+		"-9 -177 Inhibitor Cannon",
+		"9 -177 Inhibitor Cannon",
+		"-14 -162 Inhibitor Cannon",
+		"14 -162 Inhibitor Cannon",
+		"-18 -144 Inhibitor Cannon",
+		"18 -144 Inhibitor Cannon"
+	],
+	"turret": [
+		"-23 -34 Thrasher Turret",
+		"23 -34 Thrasher Turret",
+		"-74 62",
+		"74 62",
+		"0 77 Point Defense Turret"
+	],
+	"explode": [
+		"small explosion 30",
+		"medium explosion 60",
+		"large explosion 40",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large 1",
+	"description": "Once they left human space, it became apparent to the Remnant that they would need to build their own shipyards in order to defend themselves if they were discovered by the Alphas or any other unfriendly faction. Using new composite materials that they discovered, they built ships very different from anything seen in human space."
+}

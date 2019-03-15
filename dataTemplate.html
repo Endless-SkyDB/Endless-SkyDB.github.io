@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Endless Sky Database</title>
+    <meta name="viewport" width=device-width, initial-scale=1.0>
+    <style> body {padding: 0; margin: 0;} </style>
+
+
+    <link rel="icon" href="images/siteIcon.png" type="image/png" sizes="64x64">
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu">
+
+    <script src="javascript/map.js"></script>
+    <script src="javascript/main.js"></script>
+
+  </head>
+
+  <body style="background: url('images/_menu/haze+.jpg') no-repeat center; background-size: 200%;">
+
+    <header style="user-select: none;">
+      <center>
+        <!--<div style="padding: 20px; margin: auto; height: 100%; background-color: transparent; background: url('images/_menu/compass.png') center">
+          <p style="font-size: 40px;">E N D L E S S &nbsp; S K Y</p>
+        </div>-->
+        <div style="padding: 20px; margin: auto; height: 100%; background-color: transparent; background: url('images/_menu/compass.png') no-repeat center;">
+          <p style="font-size: 40px;">E N D L E S S &nbsp; S K Y</p>
+        </div>
+      </center>
+
+      <div style="display: block; margin: 0 10% 0 10%; border-radius: 8px; padding: 5px; user-select: none; background-color: #000;">
+        <center>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;">S H I P S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;">O U T F I T S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;">M I S S I O N S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;">M A P</p>
+          </div>
+        </center>
+
+      </div>
+    </header>
+
+    <div style="width: 70%; height: 100%; background-color: rgba(32, 32, 32, 0.5); border-radius: 8px; padding: 0 5% 0 5%; margin: 10px 10% 0 10%;">
+
+      <div style="text-align: center; display: block; background: transparent;">
+        <p id="itemName" style="display: inline-block; border-bottom: 1px solid #444; padding: 0 10% 0 10%; font-size: 33px">Unknown item.</p>
+      </div>
+
+      <div id="itemDisplay">
+        <div style="width: 180px; height: 180px; border: 1px solid #444; background-image: url('images/ui/outfitter unselected+.png');">
+          <img id="itemPic" src="images/outfit/unknown.png" style="width: 80%; height: auto;">
+        </div>
+
+        <div style="vertical-align: top; width: 360px;">
+          <p id="itemDesc">Unknown item.</p>
+        </div>
+
+        <div style="display: block; margin: 0; width: 100%;">
+          <div id="barContainer1" style="display: inline-block; margin: 0; width: calc(50% - 2px);">
+          </div>
+          <div id="barContainer2" style="display: inline-block; margin: 0; width: calc(50% - 2px); vertical-align: top;">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+
+
+  </body>

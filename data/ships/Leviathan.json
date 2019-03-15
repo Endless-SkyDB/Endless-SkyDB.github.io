@@ -1,0 +1,61 @@
+{
+	"race": "Human",
+	"sprite": "ship/leviathan",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 9800000,
+		"shields": 14400,
+		"hull": 5000,
+		"required_crew": 43,
+		"bunks": 64,
+		"mass": 480,
+		"drag": 7.6,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 500,
+		"cargo_space": 80,
+		"outfit_space": 620,
+		"weapon_capacity": 240,
+		"engine_capacity": 120,
+		"weapon": {
+			"blast_radius": 80,
+			"shield_damage": 800,
+			"hull_damage": 400,
+			"hit_force": 1200
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 4,
+		"Quad_Blaster_Turret": 4,
+		"Fusion_Reactor": 1,
+		"LP144a_Battery_Pack": 1,
+		"D67-TM_Shield_Generator": 1,
+		"Liquid_Helium_Cooler": 1,
+		"X3700_Ion_Thruster": 1,
+		"X4200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-25 125",
+		"25 125"
+	],
+	"gun": [
+		"-39 -33 Particle Cannon",
+		"39 -33 Particle Cannon",
+		"-51 -21 Particle Cannon",
+		"51 -21 Particle Cannon"
+	],
+	"turret": [
+		"-15 -50 Quad Blaster Turret",
+		"15 -50 Quad Blaster Turret",
+		"-25 10 Quad Blaster Turret",
+		"25 10 Quad Blaster Turret"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Betelgeuse Shipyards Leviathan has been in service since long before the Republic existed. Although considered today to be an outdated and clunky model, it is still a force to be reckoned with."
+}

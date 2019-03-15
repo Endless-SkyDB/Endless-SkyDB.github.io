@@ -1,0 +1,51 @@
+{
+	"race": "Korath",
+	"sprite": "ship/model 8",
+	"attributes": {
+		"category": "Interceptor",
+		"cost": 3725000,
+		"shields": 5450,
+		"hull": 3320,
+		"automaton": 1,
+		"mass": 110,
+		"drag": 3.2,
+		"heat_dissipation": 1.5,
+		"fuel_capacity": 200,
+		"cargo_space": 29,
+		"outfit_space": 220,
+		"weapon_capacity": 49,
+		"engine_capacity": 60,
+		"self_destruct": 0.6,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 100,
+			"shield_damage": 1200,
+			"hull_damage": 600,
+			"hit_force": 1800
+		}
+	},
+	"outfits": {
+		"Korath_Slicer": 1,
+		"Generator_(Furnace_Class)": 1,
+		"Generator_(Candle_Class)": 1,
+		"Systems_Core_(Small)": 1,
+		"Reasoning_Node": 1,
+		"Thruster_(Comet_Class)": 1,
+		"Steering_(Lunar_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-11 49",
+		"11 49"
+	],
+	"gun": [
+		"9 -36 Korath Slicer",
+		"-11 -15"
+	],
+	"explode": [
+		"tiny explosion 30",
+		"small explosion 10"
+	],
+	"final_explode": "final explosion small",
+	"description": "The primary role of the smallest Kor Mereti drones is asteroid mining, but their lasers can also be employed as offensive weapons when necessary."
+}

@@ -1,0 +1,71 @@
+{
+	"cost_min": 2,
+	"cost": "bad",
+	"cost_max": 56000,
+
+	"mass_min": 0.002,
+	"mass": "bad",
+	"mass_max": 4.4,
+
+	"outfit_space_min": -10,
+	"outfit_space": "bad",
+	"outfit_space_max": -5,
+	"outfit_space_operation": "flip",
+
+	"gatling_round_capacity_min": -1,
+	"gatling_round_capacity": "good",
+	"gatling_round_capacity_max": 1500,
+
+	"finisher_capacity_min": -1,
+	"finisher_capacity": "good",
+	"finisher_capacity_max": -1,
+
+	"tracker_capacity_min": -1,
+	"tracker_capacity": "good",
+	"tracker_capacity_max": 28,
+
+	"rocket_capacity_min": -1,
+	"rocket_capacity": "good",
+	"rocket_capacity_max": 10,
+
+	"javelin_capacity_min": -1,
+	"javelin_capacity": "good",
+	"javelin_capacity_max": 100,
+
+	"minelayer_capacity_min": -1,
+	"minelayer_capacity": "good",
+	"minelayer_capacity_max": 9,
+
+	"piercer_capacity_min": -1,
+	"piercer_capacity": "good",
+	"piercer_capacity_max": 16,
+
+	"meteor_capacity_min": -1,
+	"meteor_capacity": "good",
+	"meteor_capacity_max": 18,
+
+	"railgun_slug_capacity_min": -1,
+	"railgun_slug_capacity": "good",
+	"railgun_slug_capacity_max": -1,
+
+	"sidewinder_capacity_min": -1,
+	"sidewinder_capacity": "good",
+	"sidewinder_capacity_max": 25,
+
+	"thunderhead_capacity_min": -1,
+	"thunderhead_capacity": "good",
+	"thunderhead_capacity_max": 20,
+
+	"torpedo_capacity_min": -1,
+	"torpedo_capacity": "good",
+	"torpedo_capacity_max": 15,
+
+	"typhoon_capacity_min": -1,
+	"typhoon_capacity": "good",
+	"typhoon_capacity_max": 15,
+
+	"group": [
+		["cost", "mass"],
+		["gatling_round_capacity", "finisher_capacity", "tracker_capacity", "rocket_capacity", "javelin_capacity", "minelayer_capacity", "piercer_capacity", "meteor_capacity", "railgun_slug_capacity", "sidewinder_capacity", "thunderhead_capacity", "torpedo_capacity", "typhoon_capacity"]
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"race": "Korath",
+	"plural": "Systems Cores (Medium)",
+	"category": "Systems",
+	"type": "Systems",
+	"cost": 3630000,
+	"thumbnail": "outfit/medium systems core",
+	"mass": 53,
+	"outfit_space": -53,
+	"shield_generation": 3.1,
+	"shield_energy": 4.6,
+	"hull_repair_rate": 0.4,
+	"hull_energy": 0.4,
+	"hull_heat": 0.6,
+	"energy_capacity": 2600,
+	"description": "`This systems core houses a powerful computer, shield generators, and a control center for small repair robots that can walk across a ship's exterior on magnetic feet and slowly repair damage to the hull.`"
+}

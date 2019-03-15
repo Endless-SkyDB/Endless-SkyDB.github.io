@@ -1,0 +1,19 @@
+{
+	"race": "Hai",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 300000,
+	"thumbnail": "outfit/small atomic thruster hai",
+	"mass": 28,
+	"outfit_space": -28,
+	"engine_capacity": -28,
+	"thrust": 23.6,
+	"thrusting_energy": 2.6,
+	"thrusting_heat": 5.0,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/atomic flare/tiny",
+		"frame_rate": 14
+	},
+	"flare_sound": "atomic tiny",
+	"description": "Unlike human space where atomic engines are a rare sight to see and a luxury to have, many years of being confined to a relatively small pocket of the Galaxy has allowed all Hai ships to be outfitted with atomic engines."
+}

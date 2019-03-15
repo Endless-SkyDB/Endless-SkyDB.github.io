@@ -1,0 +1,16 @@
+{
+	"race": "Coalition",
+	"category": "Systems",
+	"type": "Shield",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 84000,
+	"thumbnail": "outfit/small shield module",
+	"mass": 11,
+	"outfit_space": -11,
+	"shield_generation": 0.28,
+	"shield_energy": 0.28,
+	"shield_heat": 0.1,
+	"description": "Although combat is almost unheard of in Coalition space, almost all of their ships are able to recharge their shields when necessary."
+}

@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 118000,
+	"thumbnail": "outfit/large fuel cell",
+	"mass": 60,
+	"outfit_space": -60,
+	"energy_generation": 4.1,
+	"heat_generation": 5.7,
+	"description": "This is a relatively large fuel cell. Other generators are available that produce more energy and fit into a smaller space, but they are much more expensive. As a result, large civilian ships that will not be frequently in combat often come equipped with these fuel cells."
+}

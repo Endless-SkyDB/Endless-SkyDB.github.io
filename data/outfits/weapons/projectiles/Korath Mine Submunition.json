@@ -1,0 +1,24 @@
+{
+	"race": "Korath",
+	"type": "Projectile",
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/korath mine",
+			"frame_rate": 1,
+			"no_repeat": 1
+		},
+		"hit_effect": "large explosion",
+		"die_effect": "tiny explosion",
+		"inaccuracy": 360,
+		"lifetime": 1000,
+		"random_lifetime": 60,
+		"acceleration": 1e-05,
+		"velocity": 2,
+		"random_velocity": 5,
+		"drag": 0.05,
+		"shield_damage": 350,
+		"hull_damage": 280,
+		"hit_force": 50,
+		"missile_strength": 22
+	}
+}

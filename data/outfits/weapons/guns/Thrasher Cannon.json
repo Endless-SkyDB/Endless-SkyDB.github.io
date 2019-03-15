@@ -1,0 +1,33 @@
+{
+	"race": "Remnant",
+	"category": "Guns",
+	"type": "Gun",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 218000,
+	"thumbnail": "outfit/thrasher cannon",
+	"mass": 10,
+	"outfit_space": -10,
+	"weapon_capacity": -10,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/thrasher",
+			"frame_rate": 10,
+			"random_start_frame": 1,
+			"no_repeat": 1
+		},
+		"sound": "particle",
+		"hit_effect": "thrasher impact",
+		"inaccuracy": 9,
+		"velocity": 10,
+		"lifetime": 36,
+		"reload": 20,
+		"firing_energy": 36,
+		"firing_heat": 27,
+		"shield_damage": 38,
+		"hull_damage": 46
+	},
+	"description": "This weapon was originally developed in an attempt to reverse engineer a long-range energy projectile favored by an alien species that the Remnant encountered nearby. In the process they discovered that by adding more energy to the projectiles they could do a lot more damage in exchange for shorter range, and the Thrasher Cannon was born."
+}

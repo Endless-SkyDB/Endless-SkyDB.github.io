@@ -1,0 +1,15 @@
+{
+	"race": "Remnant",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 3060000,
+	"thumbnail": "outfit/epoch cell",
+	"mass": 98,
+	"outfit_space": -98,
+	"energy_generation": 12.7,
+	"heat_generation": 19.8,
+	"description": "Efficient Remnant technology ensures that nearly all the heat produced by this generator's radioisotopes is converted into electricity instead of becoming waste heat."
+}

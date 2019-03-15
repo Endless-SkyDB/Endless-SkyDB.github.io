@@ -1,0 +1,23 @@
+{
+	"race": "Wanderer",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 1370000,
+	"thumbnail": "outfit/large radiant thruster",
+	"mass": 65,
+	"outfit_space": -65,
+	"engine_capacity": -65,
+	"thrust": 55.2,
+	"thrusting_energy": 3.7,
+	"thrusting_heat": 7.6,
+	"cooling": 11.7,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/plasma flare/large",
+		"frame_rate": 18
+	},
+	"flare_sound": "plasma large",
+	"description": "This is the largest engine that the Wanderers have developed. Its incredibly efficient design allows it to cool your ship even while it is firing."
+}

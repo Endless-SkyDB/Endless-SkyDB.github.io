@@ -1,0 +1,65 @@
+{
+	"race": "Korath",
+	"sprite": "ship/raider",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 16570000,
+		"shields": 27000,
+		"hull": 9000,
+		"required_crew": 145,
+		"bunks": 250,
+		"mass": 720,
+		"drag": 12,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 600,
+		"cargo_space": 175,
+		"outfit_space": 721,
+		"weapon_capacity": 284,
+		"engine_capacity": 159,
+		"weapon": {
+			"blast_radius": 250,
+			"shield_damage": 3600,
+			"hull_damage": 1800,
+			"hit_force": 5400
+		}
+	},
+	"outfits": {
+		"Korath_Grab-Strike": 4,
+		"Korath_Banisher": 1,
+		"Korath_Warder": 1,
+		"Triple_Plasma_Core": 1,
+		"Systems_Core_(Medium)": 1,
+		"Large_Heat_Shunt": 2,
+		"Small_Heat_Shunt": 1,
+		"Ramscoop": 1,
+		"Intrusion_Countermeasures": 4,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Jump_Drive": 1
+	},
+	"engine": [
+		"-20 130",
+		"20 130"
+	],
+	"turret": [
+		"-34 -143 Korath Grab-Strike",
+		"34 -143 Korath Grab-Strike",
+		"-8 -145 Korath Grab-Strike",
+		"8 -145 Korath Grab-Strike",
+		"0 35 Korath Banisher",
+		"0 90 Korath Warder"
+	],
+	"fighter": [
+		"-75 100",
+		"75 100"
+	],
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 45",
+		"medium explosion 50",
+		"large explosion 40",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Korath Raider is their warship of choice for plundering neighboring species."
+}

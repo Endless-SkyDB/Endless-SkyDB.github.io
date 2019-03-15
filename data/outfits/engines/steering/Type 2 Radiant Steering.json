@@ -1,0 +1,18 @@
+{
+	"race": "Wanderer",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 325000,
+	"thumbnail": "outfit/small radiant steering",
+	"mass": 20,
+	"outfit_space": -20,
+	"engine_capacity": -20,
+	"turn": 454.0,
+	"turning_energy": 0.7,
+	"turning_heat": 1.5,
+	"cooling": 2.1,
+	"description": "This small Wanderer steering system vents excess heat from your ship even when it is not in use, allowing it to double as a cooling system."
+}

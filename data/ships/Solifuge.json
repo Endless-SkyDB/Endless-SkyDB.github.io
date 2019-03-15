@@ -1,0 +1,83 @@
+{
+	"race": "Hai",
+	"sprite": "ship/hai solifuge",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Unfettered_Militia": 1
+		},
+		"cost": 22800000,
+		"shields": 37800,
+		"hull": 11000,
+		"required_crew": 62,
+		"bunks": 118,
+		"mass": 925,
+		"drag": 15.4,
+		"heat_dissipation": 0.42,
+		"fuel_capacity": 600,
+		"cargo_space": 142,
+		"outfit_space": 828,
+		"weapon_capacity": 342,
+		"engine_capacity": 166,
+		"weapon": {
+			"blast_radius": 450,
+			"shield_damage": 4500,
+			"hull_damage": 2250,
+			"hit_force": 3500
+		}
+	},
+	"outfits": {
+		"Hai_Tracker_Pod": 1,
+		"Hai_Tracker": 56,
+		"Ion_Cannon": 4,
+		"Pulse_Turret": 2,
+		"Chameleon_Anti-Missile": 1,
+		"Bullfrog_Anti-Missile": 4,
+		"Boulder_Reactor": 2,
+		"Hai_Gorge_Batteries": 1,
+		"Hai_Diamond_Regenerator": 1,
+		"Hai_Williwaw_Cooling": 6,
+		"Quantum_Keystone": 1,
+		"Benga Atomic Steering": 1,
+		"Bufaer Atomic Steering": 1,
+		"Bondir Atomic Thruster": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-28 135.5",
+		"28 135,5"
+	],
+	"gun": [
+		"0 -140 Hai Tracker Pod",
+		"-11.5 -138.5 Ion Cannon",
+		"11.5 -138.5 Ion Cannon",
+		"-9.5 -101 Ion Cannon",
+		"9.5 -101 Ion Cannon"
+	],
+	"turret": [
+		"0 -109.5 Chameleon Anti-Missile",
+		"54.5 -48.5 Bullfrog Anti-Missile",
+		"-54.5 -48.5 Bullfrog Anti-Missile",
+		"55 1 Pulse Turret",
+		"-55 1 Pulse Turret",
+		"54.5 50.5 Bullfrog Anti-Missile",
+		"-54.5 50.5 Bullfrog Anti-Missile"
+	],
+	"fighter": [
+		"-51.5 -71 under",
+		"51.5 -71 under",
+		"-58.5 2 under",
+		"58.5 2 under",
+		"-51.5 76 under",
+		"51.5 76 under"
+	],
+	"explode": [
+		"tiny explosion 50",
+		"small explosion 50",
+		"medium explosion 50",
+		"large explosion 50",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large",
+	"description": "Impressed by the Alpha's Giftbringer, the Unfettered endeavoured to build their own fighter carrier to take more advantage of their supply of Jump Drives."
+}

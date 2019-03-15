@@ -1,0 +1,16 @@
+{
+	"race": "Coalition",
+	"category": "Systems",
+	"type": "Systems",
+	"licenses": {
+		"Coalition": 1
+	},
+	"cost": 553000,
+	"thumbnail": "outfit/large repair module",
+	"mass": 21,
+	"outfit_space": -21,
+	"hull_repair_rate": 0.57,
+	"hull_energy": 0.57,
+	"hull_heat": 0.5,
+	"description": "This hub houses a small fleet of repair robots that can climb around on a ship's hull and repair damage to it, even in the middle of combat."
+}

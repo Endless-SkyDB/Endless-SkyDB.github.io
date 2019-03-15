@@ -1,0 +1,138 @@
+{
+	"cost_min": 55000,
+	"cost": "bad",
+	"cost_max": 24000000,
+
+	"mass_min": 10,
+	"mass": "bad",
+	"mass_max": 84,
+
+	"outfit_space_min": -84,
+	"outfit_space": "bad",
+	"outfit_space_max": -10,
+	"outfit_space_operation": "flip",
+
+	"weapon_capacity_min": -84,
+	"weapon_capacity": "bad",
+	"weapon_capacity_max": -10,
+	"weapon_capacity_operation": "flip",
+
+	"turret_mounts_min": -1,
+	"turret_mounts": "bad",
+	"turret_mounts_max": -1,
+	"turret_mounts_operation": "flip",
+
+	"anti-missile_min": 5,
+	"anti-missile": "good",
+	"anti-missile_max": 100,
+
+	"velocity_min": 6,
+	"velocity": "good",
+	"velocity_max": 2000,
+
+	"lifetime_min": 1,
+	"lifetime": "good",
+	"lifetime_max": 150,
+
+	"reload_min": 1,
+	"reload": "bad",
+	"reload_max": 20,
+
+	"firing_energy_min": 1,
+	"firing_energy": "bad",
+	"firing_energy_max": 800,
+
+	"firing_heat_min": 1,
+	"firing_heat": "bad",
+	"firing_heat_max": 400,
+
+	"required_crew_min": 1,
+	"required_crew": "bad",
+	"required_crew_max": 2,
+
+	"inaccuracy_min": 0,
+	"inaccuracy": "bad",
+	"inaccuracy_max": 6,
+
+	"turret_turn_min": 2,
+	"turret_turn": "good",
+	"turret_turn_max": 20,
+
+	"shield_damage_min": 2,
+	"shield_damage": "good",
+	"shield_damage_max": 600,
+
+	"hull_damage_min": 0.5,
+	"hull_damage": "good",
+	"hull_damage_max": 600,
+
+	"firing_force_min": -30,
+	"firing_force": "bad",
+	"firing_force_max": 60,
+
+	"hit_force_min": -160,
+	"hit_force": "good",
+	"hit_force_max": 120,
+
+	"ion_damage_min": 0.1,
+	"ion_damage": "good",
+	"ion_damage_max": 0.5,
+
+	"heat_damage_min": 12.1,
+	"heat_damage": "good",
+	"heat_damage_max": 340,
+
+	"slowing_damage_min": 0.1,
+	"slowing_damage": "good",
+	"slowing_damage_max": 0.1,
+
+	"disruption_damage_min": 0.24,
+	"disruption_damage": "good",
+	"disruption_damage_max": 0.24,
+
+	"energy_capacity_min": 50,
+	"energy_capacity": "good",
+	"energy_capacity_max": 200,
+
+	"acceleration_min": 1,
+	"acceleration": "good",
+	"acceleration_max": 1,
+
+	"drag_min": 0.1,
+	"drag": "bad",
+	"drag_max": 0.1,
+
+	"turn_min": 0.2,
+	"turn": "good",
+	"turn_max": 0.2,
+
+	"homing_min": 4,
+	"homing": "good",
+	"homing_max": 4,
+
+	"tracking_min": 0.7,
+	"tracking": "good",
+	"tracking_max": 0.7,
+
+	"burst_reload_min": 1,
+	"burst_reload": "bad",
+	"burst_reload_max": 2,
+
+	"burst_count_min": 6,
+	"burst_count": "good",
+	"burst_count_max": 17,
+
+	"blast_radius_min": 40,
+	"blast_radius": "good",
+	"blast_radius_max": 40,
+	
+	"piercing_min": 0.3,
+	"piercing": "good",
+	"piercing_max": 0.3,
+
+	"group": [
+		["cost", "mass"],
+		["anti-missile", "velocity", "lifetime", "turret_turn", "shield_damage", "hull_damage", "hit_force", "ion_damage", "heat_damage", "slowing_damage", "disruption_damage", "energy_capacity", "acceleration", "turn", "homing", "tracking", "burst_count", "blast_radius", "piercing"],
+		["turret_mounts", "turning_heat", "reload", "firing_energy", "firing_heat", "required_crew", "inaccuracy", "firing_force", "drag", "burst_reload"]
+	]
+}

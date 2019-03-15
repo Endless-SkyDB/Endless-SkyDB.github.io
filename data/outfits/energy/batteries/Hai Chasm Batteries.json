@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"plural": "Hai Chasm Batteries",
+	"category": "Power",
+	"type": "Battery",
+	"cost": 18000,
+	"thumbnail": "outfit/tiny battery hai",
+	"mass": 5,
+	"outfit_space": -5,
+	"energy_capacity": 491,
+	"description": "Hai power storage technology is thousands of years old, but remarkably simple and robust. This is the smallest Hai battery pack."
+}

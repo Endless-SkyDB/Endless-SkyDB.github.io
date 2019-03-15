@@ -1,0 +1,15 @@
+{
+	"race": "Remnant",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 6600000,
+	"thumbnail": "outfit/aeon cell",
+	"mass": 160,
+	"outfit_space": -160,
+	"energy_generation": 21.9,
+	"heat_generation": 31.5,
+	"description": "The early Remnant engineers did not trust the finicky and unpredictable nuclear reactors that were then in use in human space, so they instead focused on perfecting the art of radioisotope thermoelectric power."
+}

@@ -1,0 +1,12 @@
+{
+	"race": "Korath",
+	"category": "Ammunition",
+	"type": "Ammunition Storage",
+	"cost": 31500,
+	"thumbnail": "outfit/korath mine storage",
+	"mass": 2.7,
+	"outfit_space": -9,
+	"minelayer_capacity": 9,
+	"ammo": "Korath Mine",
+	"description": "The Korath Mine Rack is used to store extra ammunition for Korath Minelayers."
+}

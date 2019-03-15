@@ -1,0 +1,72 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/heliarch punisher",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Heliarch": 1
+		},
+		"cost": 58487000,
+		"shields": 108000,
+		"hull": 85000,
+		"required_crew": 96,
+		"bunks": 145,
+		"mass": 780,
+		"drag": 12.2,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 600,
+		"cargo_space": 94,
+		"outfit_space": 885,
+		"weapon_capacity": 324,
+		"engine_capacity": 187,
+		"weapon": {
+			"blast_radius": 400,
+			"shield_damage": 4800,
+			"hull_damage": 2400,
+			"hit_force": 6000
+		}
+	},
+	"outfits": {
+		"Ion_Rain_Gun": 4,
+		"Finisher_Pod": 2,
+		"Finisher_Torpedo": 80,
+		"Bombardment_Turret": 4,
+		"Large_Reactor_Module": 2,
+		"Large_Battery_Module": 1,
+		"Large_Shield_Module": 3,
+		"Large_Repair_Module": 2,
+		"Cooling_Module": 3,
+		"Large_Thrust_Module": 2,
+		"Small_Thrust_Module": 2,
+		"Large_Steering_Module": 2,
+		"Small_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-24 184 .6",
+		"0 187 1.1",
+		"24 184 .6"
+	],
+	"gun": [
+		"-21 -121 Ion Rain Gun",
+		"21 -121 Ion Rain Gun",
+		"-27 -118 Ion Rain Gun",
+		"27 -118 Ion Rain Gun",
+		"-43 -43 Finisher Pod",
+		"43 -43 Finisher Pod"
+	],
+	"turret": [
+		"-13 -42 Bombardment Turret",
+		"13 -42 Bombardment Turret",
+		"0 -35 Bombardment Turret",
+		"0 164 Bombardment Turret"
+	],
+	"explode": [
+		"small explosion 20",
+		"medium explosion 60",
+		"large explosion 40",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large 1",
+	"description": "Although not quite as strong or powerful as the Quarg ships that they are designed to oppose, Heliarch Punishers are versatile and durable ships. Rumors say that the Heliarchs have a small stash of stolen Quarg Skylances that they can outfit the Punishers with in times of war."
+}

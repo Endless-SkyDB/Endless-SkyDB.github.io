@@ -1,0 +1,52 @@
+{
+	"race": "Human",
+	"sprite": "ship/headhunter",
+	"attributes": {
+		"category": "Light Warship",
+		"cost": 1850000,
+		"shields": 3800,
+		"hull": 700,
+		"required_crew": 2,
+		"bunks": 4,
+		"mass": 120,
+		"drag": 2.6,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 400,
+		"cargo_space": 50,
+		"outfit_space": 250,
+		"weapon_capacity": 60,
+		"engine_capacity": 80,
+		"weapon": {
+			"blast_radius": 44,
+			"shield_damage": 440,
+			"hull_damage": 220,
+			"hit_force": 660
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 2,
+		"Heavy_Anti-Missile_Turret": 1,
+		"RT-I_Radiothermal": 1,
+		"LP072a_Battery_Pack": 1,
+		"D23-QP_Shield_Generator": 1,
+		"Greyhound_Plasma_Thruster": 1,
+		"Greyhound_Plasma_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-16 47",
+		"16 47"
+	],
+	"gun": [
+		"-13 -27 Heavy Laser",
+		"13 -27 Heavy Laser"
+	],
+	"turret": "0 9 Heavy Anti-Missile Turret",
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 25",
+		"medium explosion 15"
+	],
+	"final_explode": "final explosion small",
+	"description": "The Headhunter is one of the newest ships designed by Lionheart: a versatile ship that can serve equally well for carrying cargo or for bounty hunting. As with many of Lionheart's designs, the hull is mostly composite fiber rather than metal, sacrificing armor strength for the sake of lighter weight and faster movement."
+}

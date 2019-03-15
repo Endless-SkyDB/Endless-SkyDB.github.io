@@ -1,0 +1,19 @@
+{
+	"race": "Quarg",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 6000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 40,
+	"outfit_space": -40,
+	"weapon_capacity": -40,
+	"turret_mounts": -1,
+	"weapon": {
+		"hit_effect": "quarg anti-missile",
+		"anti-missile": 25,
+		"velocity": 500,
+		"lifetime": 1,
+		"reload": 10,
+		"firing_energy": 50
+	}
+}

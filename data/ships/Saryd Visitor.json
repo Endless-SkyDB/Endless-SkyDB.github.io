@@ -1,0 +1,56 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/saryd visitor",
+	"attributes": {
+		"category": "Light Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 1982000,
+		"shields": 4000,
+		"hull": 2400,
+		"required_crew": 5,
+		"bunks": 29,
+		"mass": 270,
+		"drag": 4.4,
+		"heat_dissipation": 0.65,
+		"fuel_capacity": 400,
+		"cargo_space": 98,
+		"outfit_space": 320,
+		"weapon_capacity": 90,
+		"engine_capacity": 57,
+		"weapon": {
+			"blast_radius": 42,
+			"shield_damage": 420,
+			"hull_damage": 210,
+			"hit_force": 630
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 2,
+		"Small_Battery_Module": 2,
+		"Small_Shield_Module": 1,
+		"Small_Repair_Module": 1,
+		"Small_Thrust_Module": 3,
+		"Large_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-23 75 .6",
+		"-11 78 .8",
+		"11 78 .8",
+		"23 75 .6"
+	],
+	"gun": [
+		"-15 -51",
+		"15 -51"
+	],
+	"turret": "0 26",
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 30",
+		"medium explosion 5"
+	],
+	"final_explode": "final explosion medium",
+	"description": "Rather than specializing in carrying passengers or carrying cargo, Saryds seek to make their ships as well-balanced and versatile as possible. As a result, the crew of a typical Visitor can count on performing a different sort of job every week."
+}

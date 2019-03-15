@@ -1,0 +1,66 @@
+{
+	"lifetime_min": 20,
+	"lifetime": "good",
+	"lifetime_max": 1000,
+
+	"acceleration_min": 0.00001,
+	"acceleration": "good",
+	"acceleration_max": 1.4,
+
+	"drag_min": 0.001,
+	"drag": "bad",
+	"drag_max": 0.1,
+
+	"turn_min": 0.3,
+	"turn": "good",
+	"turn_max": 3,
+
+	"homing_min": 1,
+	"homing": "good",
+	"homing_max": 4,
+
+	"radar_tracking_min": 0.6,
+	"radar_tracking": "good",
+	"radar_tracking_max": 0.8,
+
+	"optical_tracking_min": 0.4,
+	"optical_tracking": "good",
+	"optical_tracking_max": 0.9,
+
+	"missile_strength_min": 3,
+	"missile_strength": "good",
+	"missile_strength_max": 50,
+
+	"shield_damage_min": 0.8,
+	"shield_damage": "good",
+	"shield_damage_max": 5610,
+
+	"hull_damage_min": 0.7,
+	"hull_damage": "good",
+	"hull_damage_max": 5610,
+
+	"hit_force_min": 0.15,
+	"hit_force": "good",
+	"hit_force_max": 1000,
+
+	"inaccuracy_min": 1,
+	"inaccuracy": "bad",
+	"inaccuracy_max": 360,
+
+	"blast_radius_min": 100,
+	"blast_radius": "good",
+	"blast_radius_max": 100,
+
+	"heat_damage_min": 200,
+	"heat_damage": "good",
+	"heat_damage_max": 200,
+
+	"piercing_min": 0.1,
+	"piercing": "good",
+	"piercing_max": 0.1,
+
+	"group": [
+		["lifetime", "acceleration", "turn", "homing", "radar_tracking", "optical_tracking", "missile_strength", "shield_damage", "hull_damage", "hit_force", "blast_radius", "heat_damage", "piercing"],
+		["drag", "turning_heat", "inaccuracy"]
+	]
+}

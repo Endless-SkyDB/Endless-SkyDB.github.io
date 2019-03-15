@@ -1,0 +1,18 @@
+{
+  "file": "gbullet",
+  "weapon": {
+    "sprite": {
+      "file": "projectile/bullet",
+      "delay": 5,
+      "random_start_frame": "true",
+      "frame_rate": 0
+    },
+    "random_velocity": 8,
+    "lifetime": 20,
+    "random_lifetime": 5,
+    "shield_damage": 3,
+    "hull_damage": 6,
+    "hit_force": 0.15,
+    "hit_effect": "bullet impact"
+  }
+}

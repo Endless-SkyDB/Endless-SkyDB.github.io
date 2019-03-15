@@ -1,0 +1,16 @@
+{
+	"race": "Wanderer",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 13900000,
+	"thumbnail": "outfit/white sun",
+	"mass": 127,
+	"outfit_space": -127,
+	"energy_generation": 24.8,
+	"heat_generation": 32,
+	"energy_capacity": 6700,
+	"description": "The White Sun is a large nuclear reactor that the Wanderers use for powering their Strong Wind warships."
+}

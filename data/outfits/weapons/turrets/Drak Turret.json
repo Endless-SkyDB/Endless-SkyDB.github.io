@@ -1,0 +1,29 @@
+{
+	"race": "Drak",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 1000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 48,
+	"outfit_space": -48,
+	"weapon_capacity": -48,
+	"turret_mounts": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/drak bolt",
+			"frame_rate": 13.318,
+			"random_start_frame": 1
+		},
+		"hit_effect": "drak bolt impact",
+		"inaccuracy": 1,
+		"velocity": 36,
+		"lifetime": 30,
+		"reload": 16,
+		"firing_energy": 160,
+		"firing_heat": 160,
+		"shield_damage": 256,
+		"hull_damage": 256,
+		"hit_force": 120
+	},
+	"description": "This is a turret based cannon with significant range and accuracy."
+}

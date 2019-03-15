@@ -1,0 +1,15 @@
+{
+	"race": "Remnant",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 767000,
+	"thumbnail": "outfit/millennium cell",
+	"mass": 29,
+	"outfit_space": -29,
+	"energy_generation": 3.6,
+	"heat_generation": 6.0,
+	"description": "This quite compact radiothermal generator uses isotopes so radioactive, and so tightly packed together, that it could almost be classified as a nuclear reactor."
+}

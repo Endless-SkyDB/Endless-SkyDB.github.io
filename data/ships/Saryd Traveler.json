@@ -1,0 +1,63 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/saryd traveler",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 3385000,
+		"shields": 6500,
+		"hull": 4000,
+		"required_crew": 10,
+		"bunks": 45,
+		"mass": 350,
+		"drag": 5.5,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 600,
+		"cargo_space": 137,
+		"outfit_space": 466,
+		"weapon_capacity": 177,
+		"engine_capacity": 79,
+		"weapon": {
+			"blast_radius": 72,
+			"shield_damage": 720,
+			"hull_damage": 360,
+			"hit_force": 1080
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 3,
+		"Small_Battery_Module": 2,
+		"Small_Shield_Module": 2,
+		"Small_Repair_Module": 1,
+		"Large_Thrust_Module": 1,
+		"Small_Thrust_Module": 1,
+		"Large_Steering_Module": 1,
+		"Small_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-30 87 .7",
+		"-21 86 .7",
+		"21 86 .7",
+		"30 87 .7"
+	],
+	"gun": [
+		"-32 -18",
+		"32 -18",
+		"-22 -18",
+		"22 -18"
+	],
+	"turret": [
+		"-41 9",
+		"41 9"
+	],
+	"explode": [
+		"small explosion 30",
+		"medium explosion 20",
+		"large explosion 10"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`Travelers were originally designed as science vessels, thousands of years ago before the Saryds had catalogued all the life forms and physical phenomena of every world in Coalition space. Today, many Saryd communities still choose to live in a Traveler and journey together from system to system rather than putting down roots on a planet.`"
+}

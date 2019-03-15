@@ -1,0 +1,60 @@
+{
+	"race": "Korath",
+	"sprite": "ship/model 64",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 19552000,
+		"shields": 41700,
+		"hull": 18000,
+		"automaton": 1,
+		"mass": 580,
+		"drag": 11.1,
+		"heat_dissipation": 1.1,
+		"fuel_capacity": 400,
+		"cargo_space": 34,
+		"outfit_space": 567,
+		"weapon_capacity": 263,
+		"engine_capacity": 114,
+		"self_destruct": 0.74,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 280,
+			"shield_damage": 4000,
+			"hull_damage": 2000,
+			"hit_force": 6000
+		}
+	},
+	"outfits": {
+		"Korath_Minelayer": 1,
+		"Korath_Mine": 17,
+		"Korath_Disruptor": 2,
+		"Korath_Slicer_Turret": 2,
+		"Double_Plasma_Core": 1,
+		"Generator_(Furnace_Class)": 1,
+		"Systems_Core_(Medium)": 1,
+		"Reasoning_Node": 2,
+		"Thruster_(Lunar_Class)": 1,
+		"Thruster_(Asteroid_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-19 159",
+		"19 159"
+	],
+	"gun": "0 -159 Korath Minelayer",
+	"turret": [
+		"20 -74 Korath Slicer Turret",
+		"-35 -69 Korath Disruptor",
+		"-29 71 Korath Slicer Turret",
+		"34 77 Korath Disruptor"
+	],
+	"explode": [
+		"tiny explosion 100",
+		"small explosion 70",
+		"medium explosion 50",
+		"large explosion 20"
+	],
+	"final_explode": "final explosion medium",
+	"description": "This medium-sized drone serves the Kor Mereti fleets in much the same way as a human Frigate, but in terms of total firepower it is far beyond anything humans have constructed."
+}

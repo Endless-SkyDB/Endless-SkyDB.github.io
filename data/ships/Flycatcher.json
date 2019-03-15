@@ -1,0 +1,41 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/flycatcher",
+	"attributes": {
+		"category": "Drone",
+		"licenses": {
+			"Wanderer": 1
+		},
+		"cost": 830000,
+		"hull": 4700,
+		"mass": 40,
+		"drag": 0.6,
+		"heat_dissipation": 0.9,
+		"outfit_space": 86,
+		"weapon_capacity": 28,
+		"engine_capacity": 26,
+		"automaton": 1,
+		"weapon": {
+			"blast_radius": 10,
+			"shield_damage": 100,
+			"hull_damage": 150,
+			"hit_force": 250
+		}
+	},
+	"outfits": {
+		"Wanderer_Anti-Missile": 1,
+		"Small_Biochemical_Cell": 2,
+		"Type_1_Radiant_Thruster": 1,
+		"Type_1_Radiant_Steering": 1
+	},
+	"engine": [
+		"-9 28",
+		"9 28"
+	],
+	"turret": "0 4",
+	"explode": [
+		"tiny explosion 30",
+		"small explosion 20"
+	],
+	"description": "Flycatcher drones are used by the Wanderers to keep their star systems safe. Rather than carrying weapons of its own, a stock Flycatcher just carries an anti-missile turret for defending other ships."
+}

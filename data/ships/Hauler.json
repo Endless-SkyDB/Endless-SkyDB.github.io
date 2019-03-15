@@ -1,0 +1,61 @@
+{
+	"race": "Human",
+	"sprite": "ship/hauler i",
+	"attributes": {
+		"category": "Light Freighter",
+		"cost": 1430000,
+		"shields": 2500,
+		"hull": 3700,
+		"required_crew": 3,
+		"bunks": 12,
+		"mass": 250,
+		"drag": 10.5,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 130,
+		"outfit_space": 350,
+		"weapon_capacity": 140,
+		"engine_capacity": 80,
+		"weapon": {
+			"blast_radius": 60,
+			"shield_damage": 600,
+			"hull_damage": 300,
+			"hit_force": 900
+		}
+	},
+	"outfits": {
+		"Meteor_Missile_Launcher": 2,
+		"Meteor_Missile": 70,
+		"Quad_Blaster_Turret": 2,
+		"Heavy_Anti-Missile_Turret": 2,
+		"S3_Thermionic": 1,
+		"LP072a_Battery_Pack": 1,
+		"D23-QP_Shield_Generator": 1,
+		"Small_Radar_Jammer": 1,
+		"Greyhound_Plasma_Thruster": 1,
+		"Impala_Plasma_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-45 122",
+		"45 122"
+	],
+	"gun": [
+		"-15 -91",
+		"15 -91"
+	],
+	"turret": [
+		"-26 -49 Quad Blaster Turret",
+		"26 -49 Heavy Anti-Missile Turret",
+		"-19 77 Heavy Anti-Missile Turret",
+		"19 77 Quad Blaster Turret"
+	],
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 35",
+		"medium explosion 20",
+		"large explosion 5"
+	],
+	"final_explode": "final explosion medium",
+	"description": "Several centuries ago, in the early days of the Republic, the sudden increase in commerce and space travel led to high demand for cargo ships. Haulers were first created simply by bolting a cockpit and engine block onto a cargo container, and the basic design has not changed much since then."
+}

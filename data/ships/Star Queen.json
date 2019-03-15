@@ -1,0 +1,59 @@
+{
+	"race": "Human",
+	"sprite": "ship/star queen",
+	"attributes": {
+		"category": "Transport",
+		"cost": 5500000,
+		"shields": 4100,
+		"hull": 2200,
+		"required_crew": 43,
+		"bunks": 112,
+		"mass": 230,
+		"drag": 5.5,
+		"heat_dissipation": 0.65,
+		"fuel_capacity": 500,
+		"cargo_space": 60,
+		"outfit_space": 360,
+		"weapon_capacity": 120,
+		"engine_capacity": 100,
+		"weapon": {
+			"blast_radius": 60,
+			"shield_damage": 600,
+			"hull_damage": 300,
+			"hit_force": 900
+		}
+	},
+	"outfits": {
+		"Sidewinder_Missile_Launcher": 3,
+		"Sidewinder_Missile": 150,
+		"Heavy_Anti-Missile_Turret": 2,
+		"NT-200_Nucleovoltaic": 1,
+		"LP072a_Battery_Pack": 1,
+		"D94-YV_Shield_Generator": 1,
+		"Small_Radar_Jammer": 3,
+		"X3700_Ion_Thruster": 1,
+		"X3200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-18 116",
+		"18 116"
+	],
+	"gun": [
+		"0 -116 Sidewinder Missile Launcher",
+		"-22 -80 Sidewinder Missile Launcher",
+		"22 -80 Sidewinder Missile Launcher"
+	],
+	"turret": [
+		"-28 -9 Heavy Anti-Missile Turret",
+		"28 -9 Heavy Anti-Missile Turret"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 25",
+		"medium explosion 25",
+		"large explosion 10"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Star Queen is a relic of a more peaceful period of galactic history: a luxury liner for high-end tourists. Every cabin has its own mini-bar, and the bathrooms have marble tile and showers that use actual hot water instead of chemicals or sonic vibrations."
+}

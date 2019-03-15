@@ -1,0 +1,33 @@
+{
+	"race": "Korath",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 983000,
+	"thumbnail": "outfit/disruptor",
+	"mass": 35,
+	"outfit_space": -35,
+	"weapon_capacity": -35,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/disruptor",
+			"frame_rate": 15
+		},
+		"hardpoint_sprite": "hardpoint/disruptor",
+		"hardpoint_offset": 15.0,
+		"sound": "disruptor",
+		"hit_effect": "disruptor impact",
+		"inaccuracy": 1,
+		"turret_turn": 4,
+		"velocity": 480,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 8.0,
+		"firing_heat": 2.7,
+		"shield_damage": 3.8,
+		"hull_damage": 0.5,
+		"disruption_damage": 0.24
+	},
+	"description": "Korath Disruptors interfere with a ship's shields, allowing a ship's hull to be damaged even when shields are up. However, they do very little hull damage by themselves."
+}

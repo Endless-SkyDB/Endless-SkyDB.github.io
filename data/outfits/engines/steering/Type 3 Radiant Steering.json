@@ -1,0 +1,18 @@
+{
+	"race": "Wanderer",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 590000,
+	"thumbnail": "outfit/medium radiant steering",
+	"mass": 30,
+	"outfit_space": -30,
+	"engine_capacity": -30,
+	"turn": 786.0,
+	"turning_energy": 1.2,
+	"turning_heat": 2.6,
+	"cooling": 3.9,
+	"description": "This steering system is used by the Wanderers in their mid-sized ships. In addition to turning your ship, it is able to vent a considerable amount of heat."
+}

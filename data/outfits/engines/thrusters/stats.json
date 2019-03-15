@@ -1,0 +1,58 @@
+{
+	"cost_min": 12000,
+	"cost": "bad",
+	"cost_max": 20000000,
+
+	"mass_min": 9,
+	"mass": "bad",
+	"mass_max": 167,
+
+	"outfit_space_min": -167,
+	"outfit_space": "bad",
+	"outfit_space_max": -9,
+	"outfit_space_operation": "flip",
+
+	"engine_capacity_min": -167,
+	"engine_capacity": "bad",
+	"engine_capacity_max": -9,
+	"engine_capacity_operation": "flip",
+
+	"thrust_min": 6,
+	"thrust": "good",
+	"thrust_max": 153.4,
+
+	"thrusting_energy_min": 0.46,
+	"thrusting_energy": "bad",
+	"thrusting_energy_max": 20,
+
+	"thrusting_heat_min": 0.9,
+	"thrusting_heat": "bad",
+	"thrusting_heat_max": 42.6,
+
+	"weapon_capacity_min": -22,
+	"weapon_capacity": "bad",
+	"weapon_capacity_max": -22,
+	"weapon_capacity_operation": "flip",
+
+	"reverse_thrust_min": 15.4,
+	"reverse_thrust": "good",
+	"reverse_thrust_max": 15.4,
+
+	"reverse_thrusting_energy_min": 1.8,
+	"reverse_thrusting_energy": "bad",
+	"reverse_thrusting_energy_max": 1.8,
+
+	"reverse_thrusting_heat_min": 3.5,
+	"reverse_thrusting_heat": "bad",
+	"reverse_thrusting_heat_max": 3.5,
+
+	"cooling_min": 1.5,
+	"cooling": "good",
+	"cooling_max": 11.7,
+
+	"group": [
+		["cost", "mass"],
+		["thrust", "cooling", "reverse_thrust"],
+		["thrusting_energy", "thrusting_heat", "reverse_thrusting_energy", "reverse_thrusting_heat"]
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"race": "Korath",
+	"sprite": "ship/model 256",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 34920000,
+		"shields": 71700,
+		"hull": 28700,
+		"automaton": 1,
+		"mass": 970,
+		"drag": 15.3,
+		"heat_dissipation": 0.9,
+		"fuel_capacity": 400,
+		"cargo_space": 78,
+		"outfit_space": 857,
+		"weapon_capacity": 393,
+		"engine_capacity": 145,
+		"self_destruct": 0.79,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 340,
+			"shield_damage": 5200,
+			"hull_damage": 2600,
+			"hit_force": 7800
+		}
+	},
+	"outfits": {
+		"Korath_Minelayer": 2,
+		"Korath_Mine": 34,
+		"Korath_Disruptor": 3,
+		"Korath_Slicer_Turret": 3,
+		"Triple_Plasma_Core": 1,
+		"Systems_Core_(Large)": 1,
+		"Large_Heat_Shunt": 1,
+		"Reasoning_Node": 3,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Steering_(Comet_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-60 147",
+		"60 147"
+	],
+	"gun": [
+		"-22 -148 Korath Minelayer",
+		"22 -148 Korath Minelayer"
+	],
+	"turret": [
+		"36 -85 Korath Disruptor",
+		"-56 -45 Korath Slicer Turret",
+		"69 3 Korath Disruptor",
+		"-73 38 Korath Slicer Turret",
+		"66 64 Korath Slicer Turret",
+		"-56 101 Korath Disruptor"
+	],
+	"explode": [
+		"tiny explosion 140",
+		"small explosion 100",
+		"medium explosion 70",
+		"large explosion 30"
+	],
+	"final_explode": "final explosion large",
+	"description": "There is a saying among the Quarg that every species which insists on studying war will eventually construct a weapon that outlives its creators. For the Korath, their war drones have very nearly done so."
+}

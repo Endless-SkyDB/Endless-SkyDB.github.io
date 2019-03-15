@@ -1,0 +1,64 @@
+{
+	"race": "Human",
+	"sprite": "ship/falcon",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 10900000,
+		"shields": 12800,
+		"hull": 3700,
+		"required_crew": 52,
+		"bunks": 75,
+		"mass": 510,
+		"drag": 6.7,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 600,
+		"cargo_space": 90,
+		"outfit_space": 540,
+		"weapon_capacity": 240,
+		"engine_capacity": 150,
+		"weapon": {
+			"blast_radius": 160,
+			"shield_damage": 1600,
+			"hull_damage": 800,
+			"hit_force": 2400
+		}
+	},
+	"outfits": {
+		"Plasma_Cannon": 2,
+		"Torpedo_Launcher": 2,
+		"Torpedo": 60,
+		"Quad_Blaster_Turret": 4,
+		"Breeder_Reactor": 1,
+		"LP144a_Battery_Pack": 1,
+		"D41-HY_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"Impala_Plasma_Thruster": 1,
+		"Impala_Plasma_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-17 143",
+		"17 143"
+	],
+	"gun": [
+		"-17 -88 Plasma Cannon",
+		"17 -88 Plasma Cannon",
+		"-17 -88 Torpedo Launcher",
+		"17 -88 Torpedo Launcher"
+	],
+	"turret": [
+		"-16 -24 Quad Blaster Turret",
+		"16 -24 Quad Blaster Turret",
+		"-57 40 Quad Blaster Turret",
+		"57 40 Quad Blaster Turret"
+	],
+	"explode": [
+		"tiny explosion 40",
+		"small explosion 55",
+		"medium explosion 60",
+		"large explosion 40"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Tarazed Falcon is one of the most powerful warships that civilians can buy, a sleeker and more maneuverable alternative to the venerable and somewhat outdated Leviathan."
+}

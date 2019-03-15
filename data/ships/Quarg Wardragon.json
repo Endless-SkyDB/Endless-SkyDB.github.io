@@ -1,0 +1,57 @@
+{
+	"race": "Quarg",
+	"sprite": "ship/wardragon",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 5900000,
+		"shields": 160000,
+		"hull": 50000,
+		"required_crew": 160,
+		"bunks": 185,
+		"mass": 360,
+		"drag": 9.3,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 800,
+		"ramscoop": 10,
+		"cargo_space": 50,
+		"outfit_space": 600,
+		"weapon_capacity": 200,
+		"engine_capacity": 120,
+		"energy_generation": 80,
+		"weapon": {
+			"blast_radius": 250,
+			"shield_damage": 1000,
+			"hull_damage": 500,
+			"hit_force": 1500
+		}
+	},
+	"outfits": {
+		"Quarg_Skylance": 2,
+		"Quarg_Anti-Missile": 2,
+		"Nanotech_Battery": 1,
+		"Quantum_Shield_Generator": 1,
+		"Intrusion_Countermeasures": 160,
+		"Medium_Graviton_Thruster": 1,
+		"Medium_Graviton_Steering": 1,
+		"Jump_Drive": 1
+	},
+	"engine": [
+		"-14 47",
+		"14 47"
+	],
+	"turret": [
+		"-29 6 Quarg Skylance",
+		"29 6 Quarg Skylance",
+		"-29 6 Quarg Anti-Missile",
+		"29 6 Quarg Anti-Missile"
+	],
+	"explode": [
+		"tiny explosion 12",
+		"small explosion 16",
+		"medium explosion 30",
+		"large explosion 40",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Wardragon is used by the Quarg as a light warship."
+}

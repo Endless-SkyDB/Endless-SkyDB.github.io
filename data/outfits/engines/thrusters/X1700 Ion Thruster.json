@@ -1,0 +1,22 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 12000,
+	"thumbnail": "outfit/tiny ion thruster",
+	"mass": 16,
+	"outfit_space": -16,
+	"engine_capacity": -16,
+	"thrust": 6.0,
+	"thrusting_energy": 0.6,
+	"thrusting_heat": 0.9,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/ion flare/tiny",
+		"frame_rate": 1.2
+	},
+	"flare_sound": "ion tiny",
+	"description": [
+		"This is the smallest thruster that you can buy, so weak that anything larger than a drone will accelerate quite slowly when using this engine. On the other hand, it is also very energy-efficient.",
+		"Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+	]
+}

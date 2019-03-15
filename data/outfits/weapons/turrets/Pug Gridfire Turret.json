@@ -1,0 +1,29 @@
+{
+	"race": "Pug",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 24000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 83,
+	"outfit_space": -83,
+	"weapon_capacity": -83,
+	"turret_mounts": -1,
+	"weapon": {
+		"fire_effect": "gridfire fire",
+		"hit_effect": [
+			"gridfire hit 2",
+			"gridfire cloud"
+		],
+		"phasing": 1,
+		"velocity": 1440,
+		"lifetime": 1,
+		"reload": 20,
+		"turret_turn": 20,
+		"firing_energy": 800,
+		"firing_heat": 400,
+		"shield_damage": 600,
+		"hull_damage": 600,
+		"blast_radius": 40,
+		"piercing": 0.3
+	}
+}

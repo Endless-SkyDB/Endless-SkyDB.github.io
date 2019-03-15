@@ -1,0 +1,54 @@
+{
+  "file": "Clipper",
+  "sprite": "ship/clipper",
+  "attributes": {
+    "category": "Light Freighter",
+    "cost": 900000,
+    "shields": 2700,
+    "hull": 800,
+    "required_crew": 3,
+    "bunks": 9,
+    "mass": 150,
+    "drag": 3.7,
+    "heat_dissipation": 0.8,
+    "fuel_capacity": 500,
+    "cargo_space": 70,
+    "outfit_space": 260,
+    "weapon_capacity": 60,
+    "engine_capacity": 80,
+    "weapon": {
+      "blast_radius": 36,
+      "shield_damage": 360,
+      "hull_damage": 180,
+      "hit_force": 540
+    }
+  },
+  "outfits": {
+    "Beam_Laser": 2,
+    "Javelin_Pod": 2,
+    "Javelin": 400,
+    "nGVF-DD_Fuel_Cell": 1,
+    "LP072a_Battery_Pack": 1,
+    "D23-QP_Shield_Generator": 1,
+    "Greyhound_Plasma_Thruster": 1,
+    "Greyhound_Plasma_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-20 45",
+    "20 45"
+  ],
+  "gun": [
+    "-23 -19 Javelin Pod",
+    "23 -19 Javelin Pod",
+    "-12 -7 Beam Laser",
+    "12 -7 Beam Laser"
+  ],
+  "explode": [
+    "tiny explosion 15",
+    "small explosion 20",
+    "medium explosion 10"
+  ],
+  "final_explode": "final explosion small",
+  "description": "The Clipper is the smaller sister ship to the popular Southbound Shipyards Argosy. Although not able to carry as much cargo, Clippers are versatile ships that can be used as passenger transports, couriers, or even warships in a pinch, and they come with enough free space to be customized based on an individual captain's needs."
+}

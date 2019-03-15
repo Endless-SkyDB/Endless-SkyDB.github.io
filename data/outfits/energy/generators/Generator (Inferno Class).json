@@ -1,0 +1,13 @@
+{
+	"race": "Korath",
+	"plural": "Generators (Inferno Class)",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 1877000,
+	"thumbnail": "outfit/large korath generator",
+	"mass": 71,
+	"outfit_space": -71,
+	"energy_generation": 10.4,
+	"heat_generation": 27.0,
+	"description": "With their typical disregard for the environmental impacts of their technology, the Korath put some rather alarming isotopes into this radiothermal generator. Its considerable energy output is offset by the heat it produces."
+}

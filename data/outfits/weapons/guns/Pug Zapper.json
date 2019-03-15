@@ -1,0 +1,30 @@
+{
+	"race": "Pug",
+	"category": "Guns",
+	"type": "Gun",
+	"cost": 290000,
+	"thumbnail": "outfit/pug zapper",
+	"mass": 25,
+	"outfit_space": -25,
+	"weapon_capacity": -25,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/lightning",
+			"frame_rate": 60,
+			"random_start_frame": 1,
+			"delay": 6
+		},
+		"sound": "zapper",
+		"hit_effect": "skylance impact",
+		"inaccuracy": 0.3,
+		"velocity": 320,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 2.7,
+		"firing_heat": 1.4,
+		"shield_damage": 3.7,
+		"hull_damage": 2.9
+	},
+	"description": "This is a formidable beam weapon, more damaging than even the most advanced energy beams that humanity has developed. Pug ships have integrated power plants that produce the considerable amount of energy that is needed to drive weapons like this one."
+}

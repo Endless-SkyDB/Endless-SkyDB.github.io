@@ -1,0 +1,17 @@
+{
+	"race": "Remnant",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 393000,
+	"thumbnail": "outfit/medium remnant steering",
+	"mass": 28,
+	"outfit_space": -28,
+	"engine_capacity": -28,
+	"turn": 952.0,
+	"turning_energy": 2.64,
+	"turning_heat": 3.0,
+	"description": "This unusually power-hungry steering system packs a lot of power into a relatively small space. It seems that engine technology has progressed more rapidly for the Remnant than it has for the rest of humanity."
+}

@@ -1,0 +1,68 @@
+{
+	"race": "Human",
+	"sprite": "ship/bulk freighter",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 11400000,
+		"shields": 13500,
+		"hull": 7600,
+		"required_crew": 18,
+		"bunks": 43,
+		"mass": 810,
+		"drag": 16.4,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 600,
+		"cargo_space": 20,
+		"outfit_space": 400,
+		"weapon_capacity": 140,
+		"engine_capacity": 85,
+		"weapon": {
+			"blast_radius": 200,
+			"shield_damage": 2000,
+			"hull_damage": 1000,
+			"hit_force": 3000
+		}
+	},
+	"outfits": {
+		"Heavy_Laser_Turret": 2,
+		"Heavy_Anti-Missile_Turret": 2,
+		"Fission_Reactor": 1,
+		"LP072a_Battery_Pack": 1,
+		"D94-YV_Shield_Generator": 1,
+		"X3700_Ion_Thruster": 1,
+		"X3200_Ion_Steering": 1,
+		"Scram_Drive": 1
+	},
+	"engine": [
+		"-22 198",
+		"22 198"
+	],
+	"turret": [
+		"-12 -155 Heavy Laser Turret",
+		"12 -155 Heavy Anti-Missile Turret",
+		"30 175 Heavy Laser Turret",
+		"-30 175 Heavy Anti-Missile Turret"
+	],
+	"drone": [
+		"-66 -115 left",
+		"-66 -65 left",
+		"-66 -15 left",
+		"-66 35 left",
+		"-66 85 left",
+		"-66 135 left",
+		"66 -115 right",
+		"66 -65 right",
+		"66 -15 right",
+		"66 35 right",
+		"66 85 right",
+		"66 135 right"
+	],
+	"explode": [
+		"small explosion 15",
+		"medium explosion 25",
+		"large explosion 35",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large",
+	"description": "`The Class C Freighter is a stealth warship designed by the Syndicate for baiting pirates with the offer of a seemingly helpless, ordinary bulk freighter. Inside, its cargo space has all been converted into drone bays, allowing it to carry a dozen combat drones.`"
+}

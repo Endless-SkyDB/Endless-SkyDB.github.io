@@ -1,0 +1,19 @@
+{
+	"race": "Pug",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 1740000,
+	"thumbnail": "outfit/pug lohmar thruster",
+	"mass": 84,
+	"outfit_space": -84,
+	"engine_capacity": -84,
+	"thrust": 66.0,
+	"thrusting_energy": 4.9,
+	"thrusting_heat": 6.9,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/ion flare/huge",
+		"frame_rate": 9
+	},
+	"flare_sound": "ion huge",
+	"description": "This is a large thruster designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines."
+}

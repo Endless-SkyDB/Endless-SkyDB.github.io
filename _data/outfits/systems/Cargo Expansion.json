@@ -1,0 +1,11 @@
+{
+  "file": "Cargo Expansion",
+  "category": "Systems",
+  "cost": 30000,
+  "thumbnail": "outfit/red screwdriver",
+  "mass": 5,
+  "cargo_space": 15,
+  "outfit_space": -20,
+  "unplunderable": 1,
+  "description": "If being able to carry more cargo is more important to you than having advanced weapons or other systems, a cargo expansion will significantly increase the size of your cargo hold."
+}

@@ -1,0 +1,64 @@
+{
+	"race": "Korath",
+	"sprite": "ship/model 128",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 24073000,
+		"shields": 57000,
+		"hull": 23100,
+		"automaton": 1,
+		"mass": 780,
+		"drag": 13.2,
+		"heat_dissipation": 1.0,
+		"fuel_capacity": 400,
+		"cargo_space": 53,
+		"outfit_space": 713,
+		"weapon_capacity": 344,
+		"engine_capacity": 132,
+		"self_destruct": 0.77,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 320,
+			"shield_damage": 4600,
+			"hull_damage": 2300,
+			"hit_force": 6900
+		}
+	},
+	"outfits": {
+		"Korath_Minelayer": 2,
+		"Korath_Mine": 34,
+		"Korath_Disruptor": 2,
+		"Korath_Slicer_Turret": 3,
+		"Double_Plasma_Core": 1,
+		"Generator_(Inferno_Class)": 1,
+		"Systems_Core_(Medium)": 1,
+		"Reasoning_Node": 2,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Steering_(Asteroid_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-14 178",
+		"14 178"
+	],
+	"gun": [
+		"-11 -166 Korath Minelayer",
+		"11 -166 Korath Minelayer"
+	],
+	"turret": [
+		"29 -83 Korath Slicer Turret",
+		"-26 -53 Korath Disruptor",
+		"56 35 Korath Slicer Turret",
+		"50 84 Korath Disruptor",
+		"-24 115 Korath Slicer Turret"
+	],
+	"explode": [
+		"tiny explosion 120",
+		"small explosion 85",
+		"medium explosion 60",
+		"large explosion 25"
+	],
+	"final_explode": "final explosion large",
+	"description": "As Kor Mereti drones continue to grow and develop into their final form, they split down the middle. At the same time, their shielding and weaponry continue to become stronger."
+}

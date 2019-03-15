@@ -1,0 +1,61 @@
+{
+  "file": "Argosy",
+  "plural": "Argosies",
+  "sprite": "ship/argosy",
+  "attributes": {
+    "category": "Light Freighter",
+    "cost": 1960000,
+    "shields": 4200,
+    "hull": 2600,
+    "required_crew": 4,
+    "bunks": 14,
+    "mass": 330,
+    "drag": 5.9,
+    "heat_dissipation": 0.7,
+    "fuel_capacity": 400,
+    "cargo_space": 120,
+    "outfit_space": 270,
+    "weapon_capacity": 90,
+    "engine_capacity": 80,
+    "weapon": {
+      "blast_radius": 60,
+      "shield_damage": 600,
+      "hull_damage": 300,
+      "hit_force": 900
+    }
+  },
+  "outfits": {
+    "Energy_Blaster": 2,
+    "Meteor_Missile_Launcher": 2,
+    "Meteor_Missile": 70,
+    "Blaster_Turret": 2,
+    "RT-I_Radiothermal": 1,
+    "LP072a_Battery_Pack": 1,
+    "D23-QP_Shield_Generator": 1,
+    "Greyhound_Plasma_Thruster": 1,
+    "Greyhound_Plasma_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-20 91",
+    "20 91"
+  ],
+  "gun": [
+    "-22 -37 Energy Blaster",
+    "22 -37 Energy Blaster",
+    "-23 -37 Meteor Missile Launcher",
+    "23 -37 Meteor Missile Launcher"
+  ],
+  "turret": [
+    "0 -12 Blaster Turret",
+    "0 8 Blaster Turret"
+  ],
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 25",
+    "medium explosion 25",
+    "large explosion 10"
+  ],
+  "final_explode": "final explosion medium",
+  "description": "The Argosy from Southbound Shipyards is very popular with merchants not because of its capacity, which is actually slightly smaller than the Syndicate Freighter, but because it can hold its own in combat even against a small pirate fleet. The Argosy is also a very easy ship to upgrade with faster engines or more powerful weapons as needed, so many privately owned Argosies have very different capabilities than the stock model."
+}

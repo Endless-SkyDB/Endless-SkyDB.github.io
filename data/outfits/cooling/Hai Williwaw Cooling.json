@@ -1,0 +1,11 @@
+{
+	"race": "Hai",
+	"category": "Systems",
+	"type": "Cooling",
+	"cost": 15000,
+	"thumbnail": "outfit/cooling ducts hai",
+	"mass": 8,
+	"outfit_space": -8,
+	"cooling": 9.5,
+	"description": "While Hai technology is fairly heat efficient, occasionally they outfit their ships such that they sporadically overheat and shut down. When that happens, they install these."
+}

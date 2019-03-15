@@ -1,0 +1,29 @@
+{
+	"race": "Remnant",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 1120000,
+	"thumbnail": "outfit/point defense",
+	"mass": 33,
+	"outfit_space": -33,
+	"weapon_capacity": -33,
+	"turret_mounts": -1,
+	"weapon": {
+		"hardpoint_sprite": "hardpoint/point defense",
+		"fire_effect": "point defense fire",
+		"die_effect": [
+			"point defense hit",
+			"point defense die"
+		],
+		"anti-missile": 42,
+		"velocity": 270,
+		"lifetime": 1,
+		"reload": 10,
+		"firing_energy": 62,
+		"firing_heat": 18
+	},
+	"description": "Not long after the Remnant settled on Aventine, they began to discover caches of alien technology in vaults deep under the mountains, guarded by ancient but still-functioning point-defense systems. The Remnant learned how to duplicate those defense systems, and they are now considered to be much more useful than most of the items that they were guarding."
+}

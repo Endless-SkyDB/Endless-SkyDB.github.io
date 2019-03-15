@@ -1,0 +1,37 @@
+{
+	"race": "Remnant",
+	"category": "Turrets",
+	"type": "Turret",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 980000,
+	"thumbnail": "outfit/thrasher turret",
+	"mass": 49,
+	"outfit_space": -49,
+	"weapon_capacity": -49,
+	"required_crew": 1,
+	"turret_mounts": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/thrasher",
+			"frame_rate": 10,
+			"random_start_frame": 1,
+			"no_repeat": 1
+		},
+		"hardpoint_sprite": "hardpoint/thrasher turret",
+		"hardpoint_offset": 6.0,
+		"sound": "particle",
+		"hit_effect": "thrasher impact",
+		"inaccuracy": 6,
+		"turret_turn": 3,
+		"velocity": 10,
+		"lifetime": 36,
+		"reload": 5,
+		"firing_energy": 36,
+		"firing_heat": 27,
+		"shield_damage": 38,
+		"hull_damage": 46
+	},
+	"description": "This turret mounts four Thrasher Cannons on a single rotating base. The resulting weapon deals a very satisfying amount of damage when fired from close range, especially against a slow-moving target."
+}

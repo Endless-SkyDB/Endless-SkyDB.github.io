@@ -1,0 +1,14 @@
+{
+	"race": "Hai",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 120000,
+	"thumbnail": "outfit/tiny atomic steering hai",
+	"mass": 12,
+	"outfit_space": -12,
+	"engine_capacity": -12,
+	"turn": 309,
+	"turning_energy": 0.7,
+	"turning_heat": 1.6,
+	"description": "Hai atomic engines are too expensive to buy for most humans. All but the smallest of the engines are worth more than many of the most common ships flown in human space."
+}

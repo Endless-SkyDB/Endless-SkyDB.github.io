@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"plural": "Hai Fissure Batteries",
+	"category": "Power",
+	"type": "Battery",
+	"cost": 22000,
+	"thumbnail": "outfit/small battery hai",
+	"mass": 15,
+	"outfit_space": -15,
+	"energy_capacity": 1709,
+	"description": "This battery pack has more than three times the energy capacity of the the Hai Chasm Batteries, allowing their ships to engage in combat for longer periods of time before running out of energy."
+}

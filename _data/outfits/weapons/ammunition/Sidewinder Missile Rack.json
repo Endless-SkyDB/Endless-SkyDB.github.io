@@ -1,0 +1,11 @@
+{
+  "file": "Sidewinder Missile Rack",
+  "category": "Ammunition",
+  "cost": 20000,
+  "thumbnail": "outfit/sidewinder storage",
+  "mass": 2,
+  "outfit_space": -7,
+  "sidewinder_capacity": 25,
+  "ammo": "Sidewinder Missile",
+  "description": "The Sidewinder Missile Rack is used to store extra ammunition for Sidewinder Missile Launchers."
+}

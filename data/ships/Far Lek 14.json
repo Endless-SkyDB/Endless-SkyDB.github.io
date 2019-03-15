@@ -1,0 +1,42 @@
+{
+	"race": "Korath",
+	"sprite": "ship/far lek 14",
+	"attributes": {
+		"category": "Drone",
+		"cost": 573000,
+		"shields": 900,
+		"hull": 1600,
+		"automaton": 1,
+		"mass": 26,
+		"drag": 0.8,
+		"heat_dissipation": 1.1,
+		"outfit_space": 65,
+		"weapon_capacity": 11,
+		"engine_capacity": 24,
+		"self_destruct": 0.6,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 5,
+			"shield_damage": 50,
+			"hull_damage": 25,
+			"hit_force": 75
+		}
+	},
+	"outfits": {
+		"Korath_Repeater": 1,
+		"Generator_(Candle_Class)": 1,
+		"Small_Heat_Shunt": 1,
+		"Thruster_(Asteroid_Class)": 1,
+		"Steering_(Asteroid_Class)": 1
+	},
+	"engine": [
+		"-2 28",
+		"8 28"
+	],
+	"gun": "0 -30",
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 10"
+	],
+	"description": "At the peak of their recent civil war, the Kor Sestor faction developed these automated attack drones, easy to manufacture and encased in an ultra-dense hull that can absorb a significant amount of damage."
+}

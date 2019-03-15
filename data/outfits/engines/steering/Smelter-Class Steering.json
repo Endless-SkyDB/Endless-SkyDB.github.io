@@ -1,0 +1,17 @@
+{
+	"race": "Remnant",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 880000,
+	"thumbnail": "outfit/large remnant steering",
+	"mass": 55,
+	"outfit_space": -55,
+	"engine_capacity": -55,
+	"turn": 1980.0,
+	"turning_energy": 5.21,
+	"turning_heat": 6.2,
+	"description": "It's unclear whether the Remnant's powerful engine systems are purely their own invention, or whether they are partly inspired by alien technology."
+}

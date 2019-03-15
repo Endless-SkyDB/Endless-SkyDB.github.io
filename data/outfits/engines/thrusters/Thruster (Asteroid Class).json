@@ -1,0 +1,20 @@
+{
+	"race": "Korath",
+	"plural": "Thrusters (Asteroid Class)",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 113000,
+	"thumbnail": "outfit/tiny korath thruster",
+	"mass": 14,
+	"outfit_space": -14,
+	"engine_capacity": -14,
+	"thrust": 11.2,
+	"thrusting_energy": 1.5,
+	"thrusting_heat": 3.4,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/korath flare/tiny",
+		"frame_rate": 8
+	},
+	"flare_sound": "plasma tiny",
+	"description": "Given its size, this tiny Korath thruster produces quite a kick. But, it also draws a considerable amount of power."
+}

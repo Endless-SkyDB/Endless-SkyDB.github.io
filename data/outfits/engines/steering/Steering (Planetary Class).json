@@ -1,0 +1,15 @@
+{
+	"race": "Korath",
+	"plural": "Steerings (Planetary Class)",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 1077000,
+	"thumbnail": "outfit/large korath steering",
+	"mass": 52,
+	"outfit_space": -52,
+	"engine_capacity": -52,
+	"turn": 2069.6,
+	"turning_energy": 4.6,
+	"turning_heat": 14.2,
+	"description": "Where other species might focus on converting energy into thrust as efficiently as possible, the Korath instead strive to pack as much power as possible into the smallest area. This steering system is a classic example of their work."
+}

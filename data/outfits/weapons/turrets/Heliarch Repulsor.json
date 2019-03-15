@@ -1,0 +1,39 @@
+{
+	"race": "Coalition",
+	"category": "Turrets",
+	"type": "Turret",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 2549000,
+	"thumbnail": "outfit/heliarch repulsor",
+	"mass": 56,
+	"outfit_space": -56,
+	"weapon_capacity": -56,
+	"required_crew": 1,
+	"turret_mounts": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/repulsor",
+			"frame_rate": 3.2,
+			"random_start_frame": 1
+		},
+		"hardpoint_sprite": "hardpoint/heliarch repulsor",
+		"hardpoint_offset": 9.0,
+		"sound": "heliarch repulsor",
+		"hit_effect": "repulsor impact",
+		"inaccuracy": 3,
+		"turret_turn": 2.5,
+		"velocity": 560,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 5.9,
+		"firing_heat": 1.2,
+		"shield_damage": 3.6,
+		"hull_damage": 5.8,
+		"firing_force": 60,
+		"hit_force": 60,
+		"slowing_damage": 0.1
+	},
+	"description": "This beam turret allows a Heliarch ship to hold its enemies far enough away that they cannot make use of their short-range weapons."
+}

@@ -1,0 +1,39 @@
+{
+	"race": "Korath",
+	"category": "Guns",
+	"type": "Gun",
+	"cost": 1340000,
+	"thumbnail": "outfit/detainer",
+	"mass": 76,
+	"outfit_space": -76,
+	"weapon_capacity": -76,
+	"energy_capacity": 1600,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/detainer",
+			"frame_rate": 2.5
+		},
+		"sound": "detainer",
+		"hit_effect": [
+			"detainer impact 3",
+			"detainer smoke 5"
+		],
+		"live_effect": "detainer sparks 50",
+		"inaccuracy": 0.5,
+		"velocity": 14,
+		"lifetime": 140,
+		"reload": 60,
+		"burst_reload": 10,
+		"burst_count": 2,
+		"firing_energy": 756,
+		"firing_force": 40,
+		"firing_heat": 400,
+		"hit_force": 80,
+		"shield_damage": 320,
+		"hull_damage": 240,
+		"slowing_damage": 40,
+		"blast_radius": 20
+	},
+	"description": "Although not the most damaging weapon of its size, the Korath Detainer is feared for two reasons: its exceptionally long range, and its ability to interfere with the propulsion systems of any ship it strikes."
+}

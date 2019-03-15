@@ -1,0 +1,59 @@
+{
+  "file": "Corvette",
+  "sprite": "ship/corvette",
+  "attributes": {
+    "category": "Medium Warship",
+    "cost": 4400000,
+    "shields": 6100,
+    "hull": 1200,
+    "required_crew": 8,
+    "bunks": 32,
+    "mass": 150,
+    "drag": 3.5,
+    "heat_dissipation": 0.7,
+    "fuel_capacity": 500,
+    "cargo_space": 40,
+    "outfit_space": 420,
+    "weapon_capacity": 150,
+    "engine_capacity": 100,
+    "weapon": {
+      "blast_radius": 80,
+      "shield_damage": 800,
+      "hull_damage": 400,
+      "hit_force": 1200
+    }
+  },
+  "outfits": {
+    "Heavy_Laser": 4,
+    "Heavy_Laser_Turret": 2,
+    "NT-200_Nucleovoltaic": 1,
+    "LP072a_Battery_Pack": 1,
+    "D67-TM_Shield_Generator": 1,
+    "Large_Radar_Jammer": 1,
+    "X3700_Ion_Thruster": 1,
+    "X3200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-11 118",
+    "11 118"
+  ],
+  "gun": [
+    "-12 -68 Heavy Laser",
+    "12 -68 Heavy Laser",
+    "-14 -60 Heavy Laser",
+    "14 -60 Heavy Laser"
+  ],
+  "turret": [
+    "0 -11 Heavy Laser Turret",
+    "0 74 Heavy Laser Turret"
+  ],
+  "explode": [
+    "tiny explosion 18",
+    "small explosion 36",
+    "medium explosion 24",
+    "large explosion 8"
+  ],
+  "final_explode": "final explosion medium",
+  "description": "Incorporating new, experimental lightweight materials, the Lionheart Corvette combines the speed and agility of a fighter with the armament of a heavy warship. Its weak hull is more than compensated for by its advanced shielding matrix."
+}

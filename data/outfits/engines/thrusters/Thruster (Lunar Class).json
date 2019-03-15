@@ -1,0 +1,20 @@
+{
+	"race": "Korath",
+	"plural": "Thrusters (Lunar Class)",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 539000,
+	"thumbnail": "outfit/medium korath thruster",
+	"mass": 40,
+	"outfit_space": -40,
+	"engine_capacity": -40,
+	"thrust": 41.2,
+	"thrusting_energy": 4.9,
+	"thrusting_heat": 11.9,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/korath flare/medium",
+		"frame_rate": 7
+	},
+	"flare_sound": "plasma medium",
+	"description": "The Korath have the dubious distinction of relying on propulsion systems that produce more waste heat than the weapon systems of most other species."
+}

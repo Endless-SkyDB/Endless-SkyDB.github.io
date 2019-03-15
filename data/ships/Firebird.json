@@ -1,0 +1,59 @@
+{
+	"race": "Human",
+	"sprite": "ship/firebird",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 3700000,
+		"shields": 6400,
+		"hull": 2800,
+		"required_crew": 7,
+		"bunks": 22,
+		"mass": 290,
+		"drag": 4.5,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 50,
+		"outfit_space": 400,
+		"weapon_capacity": 160,
+		"engine_capacity": 100,
+		"weapon": {
+			"blast_radius": 100,
+			"shield_damage": 1000,
+			"hull_damage": 500,
+			"hit_force": 1500
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 4,
+		"Heavy_Laser_Turret": 2,
+		"RT-I_Radiothermal": 1,
+		"nGVF-AA_Fuel_Cell": 1,
+		"LP144a_Battery_Pack": 1,
+		"D41-HY_Shield_Generator": 1,
+		"X3700_Ion_Thruster": 1,
+		"X3200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-33 65",
+		"33 65"
+	],
+	"gun": [
+		"-28 -27 Heavy Laser",
+		"28 -27 Heavy Laser",
+		"-39 -13 Heavy Laser",
+		"39 -13 Heavy Laser"
+	],
+	"turret": [
+		"-5 3 Heavy Laser Turret",
+		"5 3 Heavy Laser Turret"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Betelgeuse Shipyards Firebird is a warship with a long and storied past; Firebirds fought on both sides of the Alpha Wars over half a millennium ago, and although the equipment and systems have been upgraded continuously since then, the basic design remains almost the same. The Firebird is also a very rugged ship and easy to repair; supposedly a few of the Firebirds that fought in those wars are still in service today."
+}

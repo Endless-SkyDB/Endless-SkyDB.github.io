@@ -1,0 +1,15 @@
+{
+	"race": "Korath",
+	"plural": "Steerings (Asteroid Class)",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 95000,
+	"thumbnail": "outfit/tiny korath steering",
+	"mass": 10,
+	"outfit_space": -10,
+	"engine_capacity": -10,
+	"turn": 280.0,
+	"turning_energy": 0.7,
+	"turning_heat": 2.1,
+	"description": "The Korath use these steering systems only in the very smallest of their ships."
+}

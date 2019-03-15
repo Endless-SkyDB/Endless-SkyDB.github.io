@@ -1,0 +1,65 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/saryd sojourner",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 11075000,
+		"shields": 13000,
+		"hull": 7700,
+		"required_crew": 17,
+		"bunks": 84,
+		"mass": 640,
+		"drag": 12.9,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 800,
+		"cargo_space": 260,
+		"outfit_space": 568,
+		"weapon_capacity": 202,
+		"engine_capacity": 156,
+		"weapon": {
+			"blast_radius": 200,
+			"shield_damage": 2000,
+			"hull_damage": 1000,
+			"hit_force": 3000
+		}
+	},
+	"outfits": {
+		"Large_Collector_Module": 1,
+		"Small_Collector_Module": 3,
+		"Large_Battery_Module": 1,
+		"Large_Shield_Module": 1,
+		"Small_Repair_Module": 2,
+		"Large_Thrust_Module": 2,
+		"Small_Thrust_Module": 3,
+		"Large_Steering_Module": 2,
+		"Small_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-24 176 .6",
+		"-11 181 .8",
+		"11 181 .8",
+		"24 176 .6"
+	],
+	"gun": [
+		"-23 -104",
+		"23 -104"
+	],
+	"turret": [
+		"-17 -104",
+		"17 -104",
+		"0 -96",
+		"0 157"
+	],
+	"explode": [
+		"small explosion 20",
+		"medium explosion 30",
+		"large explosion 10",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "`When the first wars were fought against the Quarg, the Saryds had been spacefaring for more than ten thousand Earth years, and their starship technology was considerably more advanced than the Kimek or the Arachi. At that time, ships similar to the modern Sojourner were the most powerful capital ships in the Coalition fleet.`"
+}

@@ -1,0 +1,15 @@
+{
+	"race": "Wanderer",
+	"category": "Ammunition",
+	"type": "Ammunition Storage",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 36000,
+	"thumbnail": "outfit/thunderhead storage",
+	"mass": 2,
+	"outfit_space": -8,
+	"thunderhead_capacity": 20,
+	"ammo": "Thunderhead Missile",
+	"description": "The Thunderhead Storage Array is used to store extra ammunition for Thunderhead Launchers."
+}

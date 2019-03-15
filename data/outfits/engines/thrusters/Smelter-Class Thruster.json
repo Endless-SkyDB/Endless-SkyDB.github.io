@@ -1,0 +1,22 @@
+{
+	"race": "Remnant",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 984000,
+	"thumbnail": "outfit/large remnant thruster",
+	"mass": 76,
+	"outfit_space": -76,
+	"engine_capacity": -76,
+	"thrust": 76.8,
+	"thrusting_energy": 10.1,
+	"thrusting_heat": 10.2,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/remnant large flare",
+		"frame_rate": 3
+	},
+	"flare_sound": "plasma medium",
+	"description": "It is not unheard of for a Remnant ship's engines to draw even more power than its weapon systems: an indication, perhaps, of their preference for avoiding battle when possible."
+}

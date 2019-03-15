@@ -1,0 +1,53 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/summer leaf",
+	"attributes": {
+		"category": "Light Warship",
+		"licenses": {
+			"Wanderer": 1
+		},
+		"cost": 9500000,
+		"shields": 14400,
+		"hull": 6700,
+		"required_crew": 6,
+		"bunks": 15,
+		"mass": 110,
+		"drag": 2.6,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 800,
+		"cargo_space": 41,
+		"outfit_space": 320,
+		"weapon_capacity": 84,
+		"engine_capacity": 103,
+		"weapon": {
+			"blast_radius": 70,
+			"shield_damage": 700,
+			"hull_damage": 350,
+			"hit_force": 1050
+		}
+	},
+	"outfits": {
+		"Sunbeam": 2,
+		"Yellow_Sun_Reactor": 1,
+		"Bright_Cloud_Shielding": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_3_Radiant_Thruster": 1,
+		"Type_3_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-18 64",
+		"18 64"
+	],
+	"gun": [
+		"-29 -9",
+		"29 -9"
+	],
+	"explode": [
+		"tiny explosion 40",
+		"small explosion 20",
+		"medium explosion 10"
+	],
+	"final_explode": "final explosion small",
+	"description": "The Summer Leaf is mostly used by the Wanderers as a light transport, but it is also quite effective in combat."
+}

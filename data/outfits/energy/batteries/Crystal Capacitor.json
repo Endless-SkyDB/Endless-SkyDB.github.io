@@ -1,0 +1,19 @@
+{
+	"race": "Remnant",
+	"category": "Power",
+	"type": "Battery",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 113000,
+	"thumbnail": "outfit/crystal capacitor",
+	"mass": 12,
+	"outfit_space": -12,
+	"energy_capacity": 3400,
+	"energy_consumption": 0.4,
+	"heat_generation": 0.4,
+	"description": [
+		"These crystals, mined on the Remnant planet Viminal, can store a surprising amount of power in a compact form. Crystals pure enough to be used in such a manner are hard to find, however.",
+		"Also, the capacitors tend to leak small amounts of energy, in the form of excess heat."
+	]
+}

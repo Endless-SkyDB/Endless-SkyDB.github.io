@@ -1,0 +1,46 @@
+{
+  "file": "Finch",
+  "plural": "Finches",
+  "sprite": "ship/finch",
+  "attributes": {
+    "category": "Fighter",
+    "cost": 126000,
+    "shields": 1100,
+    "hull": 200,
+    "required_crew": 1,
+    "bunks": 1,
+    "mass": 40,
+    "drag": 0.83,
+    "heat_dissipation": 0.85,
+    "outfit_space": 110,
+    "weapon_capacity": 20,
+    "engine_capacity": 40,
+    "weapon": {
+      "blast_radius": 12,
+      "shield_damage": 120,
+      "hull_damage": 60,
+      "hit_force": 180
+    }
+  },
+  "outfits": {
+    "Beam_Laser": 2,
+    "nGVF-BB_Fuel_Cell": 1,
+    "LP036a_Battery_Pack": 1,
+    "D14-RN_Shield_Generator": 1,
+    "Chipmunk_Plasma_Thruster": 1,
+    "Chipmunk_Plasma_Steering": 1
+  },
+  "engine": [
+    "-5 32",
+    "5 32"
+  ],
+  "gun": [
+    "-7 -14 Beam Laser",
+    "7 -14 Beam Laser"
+  ],
+  "explode": [
+    "tiny explosion 15",
+    "small explosion 5"
+  ],
+  "description": "When the Free Worlds started requesting a Carrier solution from its local shipyards, Tarazed Shipyards quickly saw that a few modifications could make their entry level interceptor into a top tier fighter. Over 85% of the parts that make up the Finch are shared with the Sparrow assembly line, so it's no surprise that even trimmed down to (barely) fit into a fighter bay, the Finch bears strong resemblance to its hyperspace-faring cousin."
+}

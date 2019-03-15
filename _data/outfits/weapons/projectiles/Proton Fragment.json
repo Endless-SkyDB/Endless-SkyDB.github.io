@@ -1,0 +1,16 @@
+{
+  "file": "Proton Fragment",
+  "weapon": {
+    "sprite": {
+      "file": "projectile/proton fragment",
+      "no_repeat": "true",
+      "frame_rate": 2
+    },
+    "hit_effect": "proton impact",
+    "inaccuracy": 2,
+    "lifetime": 20,
+    "hit_force": 6,
+    "shield_damage": 8,
+    "hull_damage": 6.6
+  }
+}

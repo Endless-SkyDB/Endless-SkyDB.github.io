@@ -1,0 +1,25 @@
+{
+	"race": "Hai",
+	"category": "Guns",
+	"type": "Gun",
+	"cost": 130000,
+	"thumbnail": "outfit/pulse cannon",
+	"mass": 13,
+	"outfit_space": -13,
+	"weapon_capacity": -13,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": "projectile/pulse",
+		"sound": "pulse",
+		"hit_effect": "pulse impact",
+		"inaccuracy": 1,
+		"velocity": 15,
+		"lifetime": 30,
+		"reload": 20,
+		"firing_energy": 24,
+		"firing_heat": 70,
+		"shield_damage": 45,
+		"hull_damage": 34
+	},
+	"description": "Like most examples of Hai engineering that you have seen, the Pulse Cannon does not stand out as a particularly advanced or elegant technology, but it has a reputation for being efficient, reliable, and well-balanced."
+}

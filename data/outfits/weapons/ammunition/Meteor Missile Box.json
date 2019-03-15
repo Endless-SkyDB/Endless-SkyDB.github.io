@@ -1,0 +1,13 @@
+{
+	"race": "Human",
+	"plural": "Meteor Missile Boxes",
+	"category": "Ammunition",
+	"type": "Ammunition Storage",
+	"cost": 9000,
+	"thumbnail": "outfit/meteor storage",
+	"mass": 1.4,
+	"outfit_space": -5,
+	"meteor_capacity": 18,
+	"ammo": "Meteor Missile",
+	"description": "The Meteor Missile Box is used to store extra ammunition for Meteor Missile Launchers."
+}

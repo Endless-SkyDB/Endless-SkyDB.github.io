@@ -1,0 +1,10 @@
+{
+  "file": "Liquid Nitrogen Cooler",
+  "category": "Systems",
+  "cost": 60000,
+  "thumbnail": "outfit/liquid nitrogen",
+  "mass": 20,
+  "outfit_space": -20,
+  "cooling": 29,
+  "description": "For ships with extreme cooling needs, liquid nitrogen is the answer. One of these coolers will dissipate the heat produced by anything but the heaviest of armaments."
+}

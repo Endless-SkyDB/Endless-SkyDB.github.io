@@ -1,0 +1,71 @@
+{
+	"race": "Remnant",
+	"sprite": "ship/starling",
+	"attributes": {
+		"category": "Light Warship",
+		"licenses": {
+			"Remnant": 1
+		},
+		"cost": 8800000,
+		"shields": 8800,
+		"hull": 4900,
+		"required_crew": 6,
+		"bunks": 15,
+		"mass": 270,
+		"drag": 3.8,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 900,
+		"cargo_space": 36,
+		"outfit_space": 312,
+		"weapon_capacity": 83,
+		"engine_capacity": 94,
+		"shield_generation": 1.8,
+		"shield_energy": 1.2,
+		"hull_repair_rate": 0.8,
+		"hull_energy": 0.6,
+		"cloak": 0.02,
+		"cloaking_energy": 5,
+		"cloaking_fuel": 0.1,
+		"weapon": {
+			"blast_radius": 80,
+			"shield_damage": 800,
+			"hull_damage": 400,
+			"hit_force": 1200
+		}
+	},
+	"outfits": {
+		"Inhibitor_Cannon": 3,
+		"Point_Defense_Turret": 1,
+		"Epoch_Cell": 1,
+		"Crystal_Capacitor": 1,
+		"Emergency_Ramscoop": 2,
+		"Quantum_Key_Stone": 1,
+		"Forge-Class_Thruster": 1,
+		"Forge-Class_Steering": 1,
+		"Crucible-Class_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-16 82 0.7",
+		"16 82 0.7",
+		"0 90 1"
+	],
+	"gun": [
+		"0 -99 Inhibitor Cannon",
+		"-12 -72 Inhibitor Cannon",
+		"12 -72 Inhibitor Cannon",
+		"-18 -49",
+		"18 -49"
+	],
+	"turret": "0 2 Point Defense Turret",
+	"explode": [
+		"tiny explosion 40",
+		"small explosion 20",
+		"medium explosion 10"
+	],
+	"final_explode": "final explosion small 1",
+	"description": [
+		"One of the strangest and most useful things that the Remnant discovered in the abandoned worlds of the Ember Waste is alien cloaking technology. They designed their scout ships to be able to cloak when needed, in order to explore alien territory without being seen... or to escape in a hurry after stealing something particularly valuable from those aliens.",
+		"The cloaking technology is built into the Starling's hull; it cannot be removed or transferred to another ship."
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"race": "Wanderer",
+	"category": "Systems",
+	"type": "Cooling",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 94000,
+	"thumbnail": "outfit/wanderer heat sink",
+	"mass": 12,
+	"outfit_space": -12,
+	"cooling": 19,
+	"description": "Most Wanderer systems are so efficient that ancillary cooling is unnecessary. As a result, their recent attempts to add cooling to their heavy warships are somewhat rudimentary."
+}

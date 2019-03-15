@@ -1,0 +1,62 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/arach spindle",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 6652000,
+		"shields": 5000,
+		"hull": 9700,
+		"required_crew": 4,
+		"bunks": 14,
+		"mass": 340,
+		"drag": 10.8,
+		"heat_dissipation": 0.55,
+		"fuel_capacity": 500,
+		"cargo_space": 280,
+		"outfit_space": 434,
+		"weapon_capacity": 138,
+		"engine_capacity": 148,
+		"weapon": {
+			"blast_radius": 100,
+			"shield_damage": 1000,
+			"hull_damage": 500,
+			"hit_force": 1500
+		}
+	},
+	"outfits": {
+		"Large_Collector_Module": 1,
+		"Large_Battery_Module": 1,
+		"Small_Battery_Module": 1,
+		"Small_Shield_Module": 2,
+		"Small_Repair_Module": 3,
+		"Cooling_Module": 1,
+		"Large_Thrust_Module": 2,
+		"Small_Thrust_Module": 3,
+		"Large_Steering_Module": 2,
+		"Small_Steering_Module": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-13 198 .7",
+		"0 199 1",
+		"13 198 .7"
+	],
+	"gun": [
+		"-27 -88",
+		"27 -88"
+	],
+	"turret": [
+		"0 -65",
+		"0 189"
+	],
+	"explode": [
+		"small explosion 10",
+		"medium explosion 20",
+		"large explosion 20"
+	],
+	"final_explode": "final explosion large",
+	"description": "`The Arach Hulk is an ungainly, lumbering behemoth of a ship, but with its side pods removed it becomes the much more maneuverable Spindle. Because of its much lower cargo space, usually the only reason a fleet would include a Spindle is if they are planning on picking up new cargo pods at their destination.`"
+}

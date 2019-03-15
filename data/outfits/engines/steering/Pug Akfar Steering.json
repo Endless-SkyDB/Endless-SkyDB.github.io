@@ -1,0 +1,14 @@
+{
+	"race": "Pug",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 472000,
+	"thumbnail": "outfit/pug akfar steering",
+	"mass": 33,
+	"outfit_space": -33,
+	"engine_capacity": -33,
+	"turn": 750,
+	"turning_energy": 1.3,
+	"turning_heat": 2.1,
+	"description": "This is a small steering system designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines."
+}

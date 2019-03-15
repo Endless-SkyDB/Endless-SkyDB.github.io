@@ -1,0 +1,36 @@
+{
+	"cost_min":10000,
+	"cost":"bad",
+	"cost_max":100000000,
+
+	"mass_min":3,
+	"mass":"bad",
+	"mass_max":169,
+
+	"outfit_space_min":-169,
+	"outfit_space":"bad",
+	"outfit_space_max":-3,
+	"outfit_space_operation":"flip",
+
+	"energy_generation_min":1.2,
+	"energy_generation":"good",
+	"energy_generation_max":80,
+
+	"heat_generation_min":0.4,
+	"heat_generation":"bad",
+	"heat_generation_max":154,
+
+	"solar_collection_min":0.1,
+	"solar_collection":"good",
+	"solar_collection_max":3.3,
+
+	"energy_capacity_min":300,
+	"energy_capacity":"good",
+	"energy_capacity_max":8900,
+
+	"group": [
+		["cost", "mass"],
+		["energy_generation", "energy_capacity", "solar_collection"],
+		["heat_generation"]
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"race": "Korath",
+	"plural": "Thrusters (Stellar Class)",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 2733000,
+	"thumbnail": "outfit/huge korath thruster",
+	"mass": 118,
+	"outfit_space": -118,
+	"engine_capacity": -118,
+	"thrust": 153.4,
+	"thrusting_energy": 15.8,
+	"thrusting_heat": 42.6,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/korath flare/huge",
+		"frame_rate": 6
+	},
+	"flare_sound": "plasma huge",
+	"description": "A legend among the Korath claims that when they were first testing out their latest generation of plasma thrusters, a concerned Quarg fleet approached and volunteered to help evacuate the Korath crew from what they assumed was a dying ship. The Quarg were surprised to learn that the flames shooting out the back of the ship were in fact its intended mode of propulsion."
+}

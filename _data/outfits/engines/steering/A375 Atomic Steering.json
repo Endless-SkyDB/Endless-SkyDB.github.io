@@ -1,0 +1,13 @@
+{
+    "file": "A375 Atomic Steering",
+    "category": "Engines",
+    "cost": 480000,
+    "thumbnail": "outfit/medium atomic steering",
+    "mass": 38,
+    "outfit_space": -38,
+    "engine_capacity": -38,
+    "turn": 1192,
+    "turning_energy": 2.5,
+    "turning_heat": 6.3,
+    "description": "Bounty hunters and other captains who need to gain a speed advantage over the ships they are pursuing often dream of being able to save up enough money for a set of atomic engines."
+}

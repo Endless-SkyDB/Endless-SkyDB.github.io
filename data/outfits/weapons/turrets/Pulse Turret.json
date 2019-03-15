@@ -1,0 +1,29 @@
+{
+	"race": "Hai",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 590000,
+	"thumbnail": "outfit/pulse turret",
+	"mass": 34,
+	"outfit_space": -34,
+	"weapon_capacity": -34,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": "projectile/pulse",
+		"hardpoint_sprite": "hardpoint/pulse turret",
+		"hardpoint_offset": 7.0,
+		"sound": "pulse",
+		"hit_effect": "pulse impact",
+		"inaccuracy": 1,
+		"turret_turn": 4,
+		"velocity": 15,
+		"lifetime": 30,
+		"reload": 10,
+		"firing_energy": 24,
+		"firing_heat": 70,
+		"shield_damage": 45,
+		"hull_damage": 34
+	},
+	"description": "Pulse Cannons are the primary offensive weapon used by Hai ships. This turret mounts two pulse cannons side by side and allows them to track even the fastest-moving of targets."
+}

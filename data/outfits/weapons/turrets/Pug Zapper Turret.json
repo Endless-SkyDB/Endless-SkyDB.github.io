@@ -1,0 +1,33 @@
+{
+	"race": "Pug",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 860000,
+	"thumbnail": "outfit/pug zapper turret",
+	"mass": 66,
+	"outfit_space": -66,
+	"weapon_capacity": -66,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/lightning",
+			"frame_rate": 60,
+			"random_start_frame": 1
+		},
+		"hardpoint_sprite": "hardpoint/pug zapper turret",
+		"hardpoint_offset": 7.0,
+		"sound": "zapper",
+		"hit_effect": "skylance impact",
+		"inaccuracy": 0.3,
+		"turret_turn": 3,
+		"velocity": 320,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 5.4,
+		"firing_heat": 2.8,
+		"shield_damage": 7.4,
+		"hull_damage": 5.8
+	},
+	"description": "Mounted on a turret, this Pug weapon becomes even more devastatingly powerful. However, its energy requirements are higher than most human ships can support."
+}

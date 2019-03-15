@@ -1,0 +1,11 @@
+{
+	"race": "Human",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 90000,
+	"thumbnail": "outfit/small photovoltaic",
+	"mass": 24,
+	"outfit_space": -24,
+	"solar_collection": 1.1,
+	"description": "The compact modularity of the KP-6 lent itself well to the creation of larger solar collection arrays. This original Korunak Photovoltaics model is equipped with a solar tracker, allowing it to make better use of available light."
+}

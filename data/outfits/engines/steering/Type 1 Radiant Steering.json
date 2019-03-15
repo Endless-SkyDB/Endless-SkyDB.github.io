@@ -1,0 +1,18 @@
+{
+	"race": "Wanderer",
+	"category": "Engines",
+	"type": "Steering",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 115000,
+	"thumbnail": "outfit/tiny radiant steering",
+	"mass": 9,
+	"outfit_space": -9,
+	"engine_capacity": -9,
+	"turn": 172.8,
+	"turning_energy": 0.3,
+	"turning_heat": 0.6,
+	"cooling": 1.0,
+	"description": "This tiny steering system is used by the Wanderers to power their unpiloted mining and surveying drones."
+}

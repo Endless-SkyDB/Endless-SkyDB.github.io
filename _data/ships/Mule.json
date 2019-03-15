@@ -1,0 +1,62 @@
+{
+  "file": "Mule",
+  "sprite": "ship/mule",
+  "attributes": {
+    "category": "Medium Warship",
+    "cost": 4580000,
+    "shields": 5400,
+    "hull": 4400,
+    "required_crew": 6,
+    "bunks": 43,
+    "mass": 320,
+    "drag": 5.7,
+    "heat_dissipation": 0.5,
+    "fuel_capacity": 600,
+    "cargo_space": 270,
+    "outfit_space": 450,
+    "weapon_capacity": 210,
+    "engine_capacity": 110,
+    "weapon": {
+      "blast_radius": 100,
+      "shield_damage": 1000,
+      "hull_damage": 500,
+      "hit_force": 1500
+    }
+  },
+  "outfits": {
+    "Sidewinder_Missile_Launcher": 2,
+    "Sidewinder_Missile": 100,
+    "Heavy_Laser_Turret": 3,
+    "Heavy_Anti-Missile_Turret": 1,
+    "NT-200_Nucleovoltaic": 1,
+    "LP072a_Battery_Pack": 1,
+    "D41-HY_Shield_Generator": 1,
+    "Small_Radar_Jammer": 2,
+    "Ramscoop": 1,
+    "X3700_Ion_Thruster": 1,
+    "X3200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-12 123",
+    "12 123"
+  ],
+  "gun": [
+    "-9 -119 Sidewinder Missile Launcher",
+    "9 -119 Sidewinder Missile Launcher"
+  ],
+  "turret": [
+    "22 -65 Heavy Laser Turret",
+    "-37 -21 Heavy Laser Turret",
+    "39 35 Heavy Laser Turret",
+    "-9 59 Heavy Anti-Missile Turret"
+  ],
+  "fighter": "-16 -9",
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 30",
+    "medium explosion 20"
+  ],
+  "final_explode": "final explosion medium",
+  "description": "The Mule is as much of a hodgepodge as its looks suggest. The Lionheart ship designers combined a good deal of cargo space with a decent amount of weaponry and even a fighter bay, and ended up with a ship that is mostly used as a freighter but must be classified as a warship because of its heavy armament and shields."
+}

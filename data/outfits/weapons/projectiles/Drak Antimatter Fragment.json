@@ -1,0 +1,26 @@
+{
+	"race": "Drak",
+	"type": "Projectile",
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/drak bolt",
+			"frame_rate": 9.835,
+			"random_start_frame": 1
+		},
+		"live_effect": [
+			"antimatter spark 249",
+			"antimatter dust 249"
+		],
+		"hit_effect": [
+			"antimatter dust 10",
+			"nuke explosion"
+		],
+		"safe": 1,
+		"inaccuracy": 1,
+		"lifetime": 499,
+		"hit_force": 1000,
+		"shield_damage": 5610,
+		"hull_damage": 5610,
+		"blast_radius": 100
+	}
+}

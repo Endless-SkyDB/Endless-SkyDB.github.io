@@ -1,0 +1,10 @@
+{
+	"race": "Human",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 50,
+	"thumbnail": "outfit/javelin",
+	"mass": 0.04,
+	"javelin_capacity": -1,
+	"description": "A Javelin missile is ammunition for the Javelin Pod; without a Pod to store them in you cannot purchase or use Javelins. Each pod stores up to 200 Javelins."
+}

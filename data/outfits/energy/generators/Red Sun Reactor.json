@@ -1,0 +1,16 @@
+{
+	"race": "Wanderer",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 3800000,
+	"thumbnail": "outfit/red sun",
+	"mass": 47,
+	"outfit_space": -47,
+	"energy_generation": 8.3,
+	"heat_generation": 13,
+	"energy_capacity": 1100,
+	"description": "The Wanderers have recently begun producing this tiny reactor as a way to squeeze a bit more energy production into their warships."
+}

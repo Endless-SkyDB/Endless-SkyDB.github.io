@@ -1,0 +1,10 @@
+{
+  "file": "Typhoon Torpedo",
+  "plural": "Typhoon Torpedoes",
+  "category": "Ammunition",
+  "cost": 2700,
+  "thumbnail": "outfit/typhoon",
+  "mass": 0.5,
+  "typhoon_capacity": -1,
+  "description": "Typhoon Torpedoes are ammunition for the Typhoon Launcher. Each launcher can hold 30 of them. You cannot install Typhoon Torpedoes unless you have also installed a launcher to fire them from."
+}

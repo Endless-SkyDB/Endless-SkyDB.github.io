@@ -1,0 +1,15 @@
+{
+	"race": "Remnant",
+	"category": "Systems",
+	"type": "Cooling",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 160000,
+	"thumbnail": "outfit/thermoelectric cooler",
+	"mass": 4,
+	"outfit_space": -4,
+	"active_cooling": 7,
+	"cooling_energy": 0.4,
+	"description": "This cooler is actually just one of the power-generating elements of a Millennium Cell, but wired so it can run in reverse: consuming electricity in order to transfer heat from a ship's systems to its exterior."
+}

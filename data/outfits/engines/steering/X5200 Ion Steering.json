@@ -1,0 +1,17 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 225000,
+	"thumbnail": "outfit/huge ion steering",
+	"mass": 100,
+	"outfit_space": -100,
+	"engine_capacity": -100,
+	"turn": 2174,
+	"turning_energy": 3.5,
+	"turning_heat": 7.3,
+	"description": [
+		"The X5200 is a steering system so powerful that only a handful of ships use it. It is standard equipment for Republic cruisers and carriers, ships so large that they are practically a self-contained city.",
+		"Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+	]
+}

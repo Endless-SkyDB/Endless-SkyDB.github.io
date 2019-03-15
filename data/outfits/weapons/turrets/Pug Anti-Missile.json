@@ -1,0 +1,23 @@
+{
+	"race": "Pug",
+	"category": "Turrets",
+	"type": "Anti Missile Turret",
+	"cost": 350000,
+	"thumbnail": "outfit/pug anti-missile",
+	"mass": 41,
+	"outfit_space": -41,
+	"weapon_capacity": -41,
+	"turret_mounts": -1,
+	"weapon": {
+		"hardpoint_sprite": "hardpoint/pug anti-missile",
+		"hardpoint_offset": 6.0,
+		"hit_effect": "pug anti-missile",
+		"anti-missile": 5,
+		"velocity": 200,
+		"lifetime": 1,
+		"reload": 2,
+		"firing_energy": 8,
+		"firing_heat": 2
+	},
+	"description": "This anti-missile system designed by the Pug draws a lot of energy, but its fast firing rate makes it twice as effective as anything that Lovelace Labs has been able to come up with. A ship with one of these turrets will be very difficult to hit with missiles."
+}

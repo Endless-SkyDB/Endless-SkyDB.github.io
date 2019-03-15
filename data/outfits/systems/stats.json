@@ -1,0 +1,125 @@
+{
+	"cost_min": 7000,
+	"cost": "bad",
+	"cost_max": 9075000,
+
+	"mass_min": 1,
+	"mass": "bad",
+	"mass_max": 91,
+
+	"bunks_min": 1,
+	"bunks": "good",
+	"bunks_max": 4,
+
+	"outfit_space_min": -91,
+	"outfit_space": "bad",
+	"outfit_space_max": 15,
+	"outfit_space_operation": "flip",
+
+	"cargo_space_min": -20,
+	"cargo_space": "good",
+	"cargo_space_max": 15,
+	"cargo_space_operation": "flip",
+
+	"cargo_scan_power_min": 4,
+	"cargo_scan_power": "good",
+	"cargo_scan_power_max": 9,
+
+	"cargo_scan_speed_min": 1,
+	"cargo_scan_speed": "good",
+	"cargo_scan_speed_max": 2,
+
+	"ramscoop_min": 0.5,
+	"ramscoop": "good",
+	"ramscoop_max": 7,
+
+	"cloak_min": 0.01,
+	"cloak": "good",
+	"cloak_max": 0.01,
+
+	"cloaking_energy_min": 1,
+	"cloaking_energy": "bad",
+	"cloaking_energy_max": 1,
+
+	"cloaking_fuel_min": 0.2,
+	"cloaking_fuel": "bad",
+	"cloaking_fuel_max": 0.2,
+
+	"required_crew_min": 1,
+	"required_crew": "bad",
+	"required_crew_max": 1,
+
+	"fuel_capacity_min": 100,
+	"fuel_capacity": "good",
+	"fuel_capacity_max": 100,
+
+	"jump_speed_min": 0.2,
+	"jump_speed": "good",
+	"jump_speed_max": 0.3,
+
+	"jump_fuel_min": 100,
+	"jump_fuel": "bad",
+	"jump_fuel_max": 200,
+
+	"scan_interference_min": 0.5,
+	"scan_interference": "good",
+	"scan_interference_max": 0.5,
+
+	"radar_jamming_min": 2,
+	"radar_jamming": "good",
+	"radar_jamming_max": 10,
+
+	"hull_repair_rate_min": 0.12,
+	"hull_repair_rate": "good",
+	"hull_repair_rate_max": 0.8,
+
+	"hull_energy_min": 0.12,
+	"hull_energy": "bad",
+	"hull_energy_max": 0.8,
+
+	"hull_heat_min": 0.1,
+	"hull_heat": "bad",
+	"hull_heat_max": 1.2,
+
+	"outfit_scan_power_min": 16,
+	"outfit_scan_power": "good",
+	"outfit_scan_power_max": 25,
+
+	"outfit_scan_speed_min": 1,
+	"outfit_scan_speed": "good",
+	"outfit_scan_speed_max": 2,
+
+	"cooling_inefficiency_min": 1,
+	"cooling_inefficiency": "bad",
+	"cooling_inefficiency_max": 1,
+
+	"heat_dissipation_min": -0.01,
+	"heat_dissipation": "good",
+	"heat_dissipation_max": -0.01,
+
+	"scram_drive_min": 0.2,
+	"scram_drive": "good",
+	"scram_drive_max": 0.2,
+
+	"atmosphere_scan_min": 100,
+	"atmosphere_scan": "good",
+	"atmosphere_scan_max": 100,
+
+	"shield_generation_min": 1.6,
+	"shield_generation": "good",
+	"shield_generation_max": 6,
+
+	"shield_energy_min": 2.4,
+	"shield_energy": "good",
+	"shield_energy_max": 8.8,
+
+	"energy_capacity_min": 1300,
+	"energy_capacity": "good",
+	"energy_capacity_max": 5200,
+
+	"group": [
+		["cost", "mass"],
+		["bunks", "cargo_space", "cargo_scan_power", "cargo_scan_speed", "ramscoop", "cloak", "fuel_capacity", "jump_speed", "scan_interference", "radar_jamming", "hull_repair_rate", "outfit_scan_power", "outfit_scan_speed", "scram_drive", "atmosphere_scan", "shield_generation", "shield_energy", "energy_capacity"],
+		["cloaking_energy", "cloaking_fuel", "required_crew", "jump_fuel", "hull_energy", "hull_heat", "cooling_inefficiency", "heat_dissipation"]
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/heliarch neutralizer",
+	"attributes": {
+		"category": "Light Warship",
+		"licenses": {
+			"Heliarch": 1
+		},
+		"cost": 18847000,
+		"shields": 36400,
+		"hull": 32800,
+		"required_crew": 17,
+		"bunks": 24,
+		"mass": 270,
+		"drag": 4.1,
+		"heat_dissipation": 0.75,
+		"fuel_capacity": 1000,
+		"cargo_space": 36,
+		"outfit_space": 367,
+		"weapon_capacity": 72,
+		"engine_capacity": 102,
+		"weapon": {
+			"blast_radius": 150,
+			"shield_damage": 1800,
+			"hull_damage": 900,
+			"hit_force": 2100
+		}
+	},
+	"outfits": {
+		"Ion_Rain_Gun": 4,
+		"Small_Reactor_Module": 2,
+		"Large_Battery_Module": 1,
+		"Large_Shield_Module": 1,
+		"Large_Repair_Module": 1,
+		"Cooling_Module": 1,
+		"Large_Thrust_Module": 1,
+		"Small_Thrust_Module": 2,
+		"Large_Steering_Module": 1,
+		"Small_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-17 82 .7",
+		"0 74 1",
+		"17 82 .7"
+	],
+	"gun": [
+		"-16 -59 Ion Rain Gun",
+		"16 -59 Ion Rain Gun",
+		"-22 -57 Ion Rain Gun",
+		"22 -57 Ion Rain Gun"
+	],
+	"explode": [
+		"small explosion 30",
+		"medium explosion 40",
+		"large explosion 20"
+	],
+	"final_explode": "final explosion medium 1",
+	"description": "`The most common Heliarch patrol ship, Neutralizers are designed to be just strong enough to keep an enemy vessel occupied until reinforcements can arrive.`"
+}

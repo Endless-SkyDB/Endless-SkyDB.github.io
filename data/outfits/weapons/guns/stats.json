@@ -1,0 +1,106 @@
+{
+	"cost_min": 16000,
+	"cost": "bad",
+	"cost_max": 10000000,
+
+	"mass_min": 5,
+	"mass": "bad",
+	"mass_max": 96,
+
+	"outfit_space_min": -96,
+	"outfit_space": "bad",
+	"outfit_space_max": -5,
+	"outfit_space_operation": "flip",
+
+	"weapon_capacity_min": -96,
+	"weapon_capacity": "bad",
+	"weapon_capacity_max": -5,
+	"weapon_capacity_operation": "flip",
+
+	"gun_ports_min": -1,
+	"gun_ports": "bad",
+	"gun_ports_max": -1,
+	"gun_ports_operation": "flip",
+
+	"inaccuracy_min": 0,
+	"inaccuracy": "bad",
+	"inaccuracy_max": 9,
+
+	"velocity_min": 6,
+	"velocity": "good",
+	"velocity_max": 540,
+
+	"lifetime_min": 1,
+	"lifetime": "good",
+	"lifetime_max": 200,
+
+	"reload_min": 1,
+	"reload": "bad",
+	"reload_max": 187,
+
+	"firing_energy_min": 0.5,
+	"firing_energy": "bad",
+	"firing_energy_max": 5610,
+
+	"firing_heat_min": 1.2,
+	"firing_heat": "bad",
+	"firing_heat_max": 1870,
+
+	"shield_damage_min": 1,
+	"shield_damage": "good",
+	"shield_damage_max": 320,
+
+	"hull_damage_min": 1.3,
+	"hull_damage": "good",
+	"hull_damage_max": 240,
+
+	"blast_radius_min": 20,
+	"blast_radius": "good",
+	"blast_radius_max": 100,
+
+	"hit_force_min": 2,
+	"hit_force": "good",
+	"hit_force_max": 1000,
+
+	"firing_force_min": 2,
+	"firing_force": "bad",
+	"firing_force_max": 40,
+
+	"slowing_damage_min": 0.5,
+	"slowing_damage": "good",
+	"slowing_damage_max": 40,
+
+	"ion_damage_min": 0.2,
+	"ion_damage": "good",
+	"ion_damage_max": 5,
+
+	"energy_capacity_min": 100,
+	"energy_capacity": "good",
+	"energy_capacity_max": 1600,
+
+	"burst_reload_min": 1,
+	"burst_reload": "bad",
+	"burst_reload_max": 10,
+
+	"burst_count_min": 2,
+	"burst_count": "good",
+	"burst_count_max": 17,
+
+	"heat_damage_min": 12,
+	"heat_damage": "good",
+	"heat_damage_max": 340,
+
+	"drag_min": 0.1,
+	"drag": "bad",
+	"drag_max": 0.1,
+
+	"missile_strength_min": 40,
+	"missile_strength": "good",
+	"missile_strength_max": 40,
+
+	"group": [
+		["cost", "mass"],
+		["velocity", "lifetime", "shield_damage", "hull_damage", "blast_radius", "hit_force", "slowing_damage", "ion_damage", "energy_capacity", "burst_count", "heat_damage", "missile_strength"],
+		["gun_ports", "inaccuracy", "reload", "firing_energy", "firing_heat", "firing_force", "burst_reload", "drag"]
+	]
+}

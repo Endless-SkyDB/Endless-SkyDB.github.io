@@ -1,0 +1,51 @@
+{
+	"race": "Human",
+	"plural": "Furies",
+	"sprite": "ship/fury",
+	"attributes": {
+		"category": "Interceptor",
+		"cost": 490000,
+		"shields": 2000,
+		"hull": 400,
+		"required_crew": 1,
+		"bunks": 3,
+		"mass": 70,
+		"drag": 1.6,
+		"heat_dissipation": 0.9,
+		"fuel_capacity": 600,
+		"cargo_space": 15,
+		"outfit_space": 160,
+		"weapon_capacity": 40,
+		"engine_capacity": 60,
+		"weapon": {
+			"blast_radius": 24,
+			"shield_damage": 240,
+			"hull_damage": 120,
+			"hit_force": 360
+		}
+	},
+	"outfits": {
+		"Energy_Blaster": 4,
+		"nGVF-CC_Fuel_Cell": 1,
+		"LP036a_Battery_Pack": 1,
+		"D14-RN_Shield_Generator": 1,
+		"X2700_Ion_Thruster": 1,
+		"X2200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-17 35",
+		"17 35"
+	],
+	"gun": [
+		"-10 -26",
+		"10 -26",
+		"-16 -20",
+		"16 -20"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 20"
+	],
+	"description": "The Fury is Southbound Shipyard's most popular design of escort ship. They have greater firepower than any other interceptor-class vessel, meaning that any pirate flying solo will think twice before attacking a convoy that is accompanied by a Fury. However, Furies are also much less maneuverable than other small ships."
+}

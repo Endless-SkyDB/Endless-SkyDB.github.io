@@ -1,0 +1,19 @@
+{
+	"race": "Hai",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 1100000,
+	"thumbnail": "outfit/large atomic thruster hai",
+	"mass": 63,
+	"outfit_space": -63,
+	"engine_capacity": -63,
+	"thrust": 66.1,
+	"thrusting_energy": 6.4,
+	"thrusting_heat": 13.4,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/atomic flare/medium",
+		"frame_rate": 12
+	},
+	"flare_sound": "atomic medium",
+	"description": "While Deep Sky was busy developing the combat atomic engines, the Hai were working on making theirs even better. Because of this, Hai atomic engines are highly efficient compared to their human variants, requiring less energy to fire and producing less heat in the process."
+}

@@ -1,0 +1,40 @@
+{
+  "file": "Meteor Missile Launcher",
+  "category": "Secondary Weapons",
+  "cost": 15000,
+  "thumbnail": "outfit/meteor launcher",
+  "mass": 3,
+  "outfit_space": -10,
+  "weapon_capacity": -10,
+  "gun_ports": -1,
+  "meteor_capacity": 35,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/meteor",
+      "no_repeat": "true",
+      "frame_rate": 0.25
+    },
+    "sound": "meteor",
+    "ammo": "Meteor Missile",
+    "icon": "icon/meteor",
+    "fire_effect": "meteor fire",
+    "die_effect": "missile death",
+    "hit_effect": "medium explosion",
+    "inaccuracy": 10,
+    "velocity": 9,
+    "lifetime": 600,
+    "reload": 48,
+    "firing_energy": 1,
+    "firing_heat": 20,
+    "acceleration": 0.9,
+    "drag": 0.1,
+    "turn": 2,
+    "homing": 3,
+    "infrared_tracking": 0.8,
+    "shield_damage": 130,
+    "hull_damage": 80,
+    "hit_force": 30,
+    "missile_strength": 4
+  },
+  "description": "The Meteor Missile is the cheapest and simplest homing weapon available in human space. The tracking system on these missiles is notoriously unreliable, and they are easily destroyed by anti-missile systems, but in large numbers or when fired at a slow-moving target they can be deadly."
+}

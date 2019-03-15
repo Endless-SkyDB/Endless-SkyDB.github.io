@@ -1,0 +1,63 @@
+{
+  "file": "Protector",
+  "sprite": "ship/protector",
+  "attributes": {
+    "category": "Heavy Warship",
+    "cost": 5500000,
+    "shields": 9500,
+    "hull": 6500,
+    "required_crew": 30,
+    "bunks": 69,
+    "mass": 500,
+    "drag": 10.3,
+    "heat_dissipation": 0.6,
+    "fuel_capacity": 400,
+    "cargo_space": 50,
+    "outfit_space": 570,
+    "weapon_capacity": 220,
+    "engine_capacity": 100,
+    "weapon": {
+      "blast_radius": 160,
+      "shield_damage": 1600,
+      "hull_damage": 800,
+      "hit_force": 2400
+    }
+  },
+  "outfits": {
+    "Torpedo_Launcher": 2,
+    "Torpedo": 60,
+    "Quad_Blaster_Turret": 6,
+    "Fusion_Reactor": 1,
+    "LP288a_Battery_Pack": 1,
+    "D67-TM_Shield_Generator": 1,
+    "Small_Radar_Jammer": 3,
+    "Liquid_Nitrogen_Cooler": 1,
+    "X3700_Ion_Thruster": 1,
+    "X3200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-11 125",
+    "11 125"
+  ],
+  "gun": [
+    "-15 -100 Torpedo Launcher",
+    "15 -100 Torpedo Launcher"
+  ],
+  "turret": [
+    "-54 -54 Quad Blaster Turret",
+    "54 -54 Quad Blaster Turret",
+    "-73 0 Quad Blaster Turret",
+    "73 0 Quad Blaster Turret",
+    "-54 54 Quad Blaster Turret",
+    "54 54 Quad Blaster Turret"
+  ],
+  "explode": [
+    "tiny explosion 18",
+    "small explosion 36",
+    "medium explosion 24",
+    "large explosion 8"
+  ],
+  "final_explode": "final explosion large",
+  "description": "`Voted the ugliest ship in the sky by Stars and Starships Magazine, the Protector is a typical example of brutally efficient Syndicate engineering. It is basically nothing more than six blaster turrets attached to a set of engines and crew's quarters, designed as a defense platform that can accompany merchant convoys.`"
+}

@@ -1,0 +1,64 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/tempest",
+	"attributes": {
+		"category": "Medium Warship",
+		"licenses": {
+			"Wanderer_Military": 1
+		},
+		"cost": 19700000,
+		"shields": 42100,
+		"hull": 25900,
+		"required_crew": 38,
+		"bunks": 53,
+		"mass": 320,
+		"drag": 6.2,
+		"heat_dissipation": 0.65,
+		"fuel_capacity": 600,
+		"cargo_space": 47,
+		"outfit_space": 607,
+		"weapon_capacity": 271,
+		"engine_capacity": 122,
+		"weapon": {
+			"blast_radius": 280,
+			"shield_damage": 2800,
+			"hull_damage": 1400,
+			"hit_force": 4200
+		}
+	},
+	"outfits": {
+		"Sunbeam": 2,
+		"Thunderhead_Launcher": 2,
+		"Thunderhead_Missile": 80,
+		"Dual_Sunbeam_Turret": 1,
+		"Wanderer_Anti-Missile": 2,
+		"Yellow_Sun_Reactor": 2,
+		"Dark_Storm_Shielding": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_4_Radiant_Thruster": 1,
+		"Type_4_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-22 129",
+		"22 129"
+	],
+	"gun": [
+		"-16 -100 Sunbeam",
+		"16 -100 Sunbeam",
+		"-21 -83 Thunderhead Launcher",
+		"21 -83 Thunderhead Launcher"
+	],
+	"turret": [
+		"0 -37 Dual Sunbeam Turret",
+		"-32 87 Wanderer Anti-Missile",
+		"32 87 Wanderer Anti-Missile"
+	],
+	"explode": [
+		"small explosion 80",
+		"medium explosion 50",
+		"large explosion 25"
+	],
+	"final_explode": "final explosion medium 1",
+	"description": "In response to the Unfettered invasion, the Wanderers have begun digging up ancient warship designs from their archives and putting them back into production. The Tempest is the first purpose-built warship they have manufactured in tens of thousands of years."
+}

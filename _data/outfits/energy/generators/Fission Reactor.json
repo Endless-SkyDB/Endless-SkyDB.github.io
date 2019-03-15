@@ -1,0 +1,11 @@
+{
+    "file": "Fission Reactor",
+    "category": "Power",
+    "cost": 1500000,
+    "thumbnail": "outfit/fission",
+    "mass": 65,
+    "outfit_space": -65,
+    "energy_generation": 9.4,
+    "heat_generation": 25,
+    "description": "Fission reactors have been a mainstay of large military vessels since even before the dawn of the space era. Today's models are very safe and efficient, but some pilots still find them disconcerting."
+}

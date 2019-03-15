@@ -1,0 +1,16 @@
+{
+    "file": "A860 Atomic Thruster",
+    "category": "Engines",
+    "cost": 2240000,
+    "thumbnail": "outfit/huge atomic thruster",
+    "mass": 127,
+    "outfit_space": -127,
+    "engine_capacity": -127,
+    "thrust": 139.7,
+    "thrusting_energy": 13.3,
+    "thrusting_heat": 29.1,
+    "flare_sprite": "effect/atomic flare/huge",
+    "frame_rate": 10,
+    "flare_sound": "atomic huge",
+    "description": "The A860 atomic thruster is the most powerful engine sold in human space, and is much more compact than any of the alternatives. But, you may need to upgrade your ship's power and cooling systems to handle it."
+}

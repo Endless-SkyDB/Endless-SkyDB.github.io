@@ -1,0 +1,59 @@
+{
+	"race": "Pug",
+	"sprite": "ship/pug enfolta",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 6300000,
+		"shields": 6800,
+		"hull": 1700,
+		"required_crew": 19,
+		"bunks": 27,
+		"mass": 410,
+		"drag": 5.9,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 600,
+		"cargo_space": 40,
+		"outfit_space": 360,
+		"weapon_capacity": 184,
+		"engine_capacity": 106,
+		"energy_generation": 22,
+		"shield_generation": 8,
+		"shield_energy": 8,
+		"heat_generation": 32,
+		"energy_capacity": 2000,
+		"weapon": {
+			"blast_radius": 180,
+			"shield_damage": 720,
+			"hull_damage": 360,
+			"hit_force": 1080
+		}
+	},
+	"outfits": {
+		"Pug_Zapper": 2,
+		"Pug_Seeker": 2,
+		"Pug_Zapper_Turret": 1,
+		"Pug_Biodefenses": 6,
+		"Jump_Drive": 1,
+		"Pug_Cormet_Thruster": 1,
+		"Pug_Cormet_Steering": 1
+	},
+	"engine": [
+		"-11 68",
+		"11 68"
+	],
+	"gun": [
+		"-11 -85 Pug Zapper",
+		"11 -85 Pug Zapper",
+		"-11 -85 Pug Seeker",
+		"11 -85 Pug Seeker"
+	],
+	"turret": "0 7 Pug Zapper Turret",
+	"explode": [
+		"tiny explosion 5",
+		"small explosion 20",
+		"medium explosion 25",
+		"large explosion 15"
+	],
+	"final_explode": "final explosion medium",
+	"description": "This is a medium-sized Pug warship."
+}

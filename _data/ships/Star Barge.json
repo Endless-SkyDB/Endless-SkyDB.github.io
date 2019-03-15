@@ -1,0 +1,44 @@
+{
+  "file": "Star Barge",
+  "sprite": "ship/star barge",
+  "attributes": {
+    "category": "Light Freighter",
+    "cost": 210000,
+    "shields": 600,
+    "hull": 1000,
+    "required_crew": 1,
+    "bunks": 3,
+    "mass": 70,
+    "drag": 2.4,
+    "heat_dissipation": 0.7,
+    "fuel_capacity": 300,
+    "cargo_space": 50,
+    "outfit_space": 130,
+    "weapon_capacity": 20,
+    "engine_capacity": 40,
+    "weapon": {
+      "blast_radius": 16,
+      "shield_damage": 160,
+      "hull_damage": 80,
+      "hit_force": 240
+    }
+  },
+  "outfits": {
+    "nGVF-BB_Fuel_Cell": 1,
+    "LP036a_Battery_Pack": 1,
+    "D14-RN_Shield_Generator": 1,
+    "Chipmunk_Plasma_Thruster": 1,
+    "Chipmunk_Plasma_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-9 38",
+    "9 38"
+  ],
+  "turret": "0 -8",
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 10"
+  ],
+  "description": "The Syndicate CT-50 Star Barge is little more than a cluster of cargo containers with an engine at one end and a cockpit on the other. It is a slow and ugly ship, but it can carry enough cargo to earn its captain a steady income even in parts of the galaxy where it is hard to find passengers to carry or courier missions. Because they often carry valuable cargo, and because they are too slow to evade any attackers, Star Barges are a common target of pirates."
+}

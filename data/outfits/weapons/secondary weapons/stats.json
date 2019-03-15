@@ -1,0 +1,182 @@
+{
+	"cost_min": 15000,
+	"cost": "bad",
+	"cost_max": 1370000,
+
+	"mass_min": 2,
+	"mass": "bad",
+	"mass_max": 36,
+
+	"outfit_space_min": -48,
+	"outfit_space": "bad",
+	"outfit_space_max": -7,
+	"outfit_space_operation": "flip",
+
+	"weapon_capacity_min": -48,
+	"weapon_capacity": "bad",
+	"weapon_capacity_max": -7,
+	"weapon_capacity_operation": "flip",
+
+	"gun_ports_min": -1,
+	"gun_ports": "bad",
+	"gun_ports_max": -1,
+	"gun_ports_operation": "flip",
+
+	"finisher_capacity_min": 40,
+	"finisher_capacity": "good",
+	"finisher_capacity_max": 40,
+
+	"inaccuracy_min": 1,
+	"inaccuracy": "bad",
+	"inaccuracy_max": 20,
+
+	"velocity_min": 3,
+	"velocity": "good",
+	"velocity_max": 22,
+
+	"lifetime_min": 1,
+	"lifetime": "good",
+	"lifetime_max": 800,
+
+	"reload_min": 1,
+	"reload": "bad",
+	"reload_max": 400,
+
+	"firing_energy_min": 0.03,
+	"firing_energy": "bad",
+	"firing_energy_max": 120,
+
+	"firing_heat_min": 2,
+	"firing_heat": "bad",
+	"firing_heat_max": 400,
+
+	"acceleration_min": 0.16,
+	"acceleration": "good",
+	"acceleration_max": 1.1,
+
+	"drag_min": 0.03,
+	"drag": "bad",
+	"drag_max": 0.1,
+
+	"turn_min": 0.1,
+	"turn": "good",
+	"turn_max": 6,
+
+	"homing_min": 2,
+	"homing": "good",
+	"homing_max": 4,
+
+	"radar_tracking_min": 0.5,
+	"radar_tracking": "good",
+	"radar_tracking_max": 0.9,
+
+	"missile_strength_min": 2,
+	"missile_strength": "good",
+	"missile_strength_max": 200,
+
+	"gatling_round_capacity_min": 3000,
+	"gatling_round_capacity": "good",
+	"gatling_round_capacity_max": 3000,
+
+	"burst_count_min": 180,
+	"burst_count": "good",
+	"burst_count_max": 180,
+
+	"burst_reload_min": 1,
+	"burst_reload": "bad",
+	"burst_reload_max": 1,
+
+	"tracker_capacity_min": 56,
+	"tracker_capacity": "good",
+	"tracker_capacity_max": 56,
+
+	"optical_tracking_min": 0.8,
+	"optical_tracking": "good",
+	"optical_tracking_max": 1,
+
+	"infrared_tracking_min": 0.4,
+	"infrared_tracking": "good",
+	"infrared_tracking_max": 0.9,
+
+	"shield_damage_min": -3200,
+	"shield_damage": "good",
+	"shield_damage_max": 9000,
+
+	"hull_damage_min": -2400,
+	"hull_damage": "good",
+	"hull_damage_max": 7000,
+
+	"hit_force_min": -150,
+	"hit_force": "good",
+	"hit_force_max": 4000,
+
+	"rocket_capacity_min": 20,
+	"rocket_capacity": "good",
+	"rocket_capacity_max": 20,
+
+	"trigger_radius_min": 30,
+	"trigger_radius": "good",
+	"trigger_radius_max": 30,
+
+	"blast_radius_min": 50,
+	"blast_radius": "good",
+	"blast_radius_max": 150,
+
+	"javelin_capacity_min": 200,
+	"javelin_capacity": "good",
+	"javelin_capacity_max": 200,
+
+	"energy_capacity_min": 50,
+	"energy_capacity": "good",
+	"energy_capacity_max": 50,
+
+	"minelayer_capacity_min": 17,
+	"minelayer_capacity": "good",
+	"minelayer_capacity_max": 17,
+
+	"piercer_capacity_min": 31,
+	"piercer_capacity": "good",
+	"piercer_capacity_max": 31,
+
+	"piercing_min": 0.2,
+	"piercing": "good",
+	"piercing_max": 0.2,
+
+	"meteor_capacity_min": 35,
+	"meteor_capacity": "good",
+	"meteor_capacity_max": 35,
+
+	"railgun_slug_capacity_min": 150,
+	"railgun_slug_capacity": "good",
+	"railgun_slug_capacity_max": 150,
+
+	"sidewinder_capacity_min": 50,
+	"sidewinder_capacity": "good",
+	"sidewinder_capacity_max": 50,
+
+	"thunderhead_capacity_min": 40,
+	"thunderhead_capacity": "good",
+	"thunderhead_capacity_max": 40,
+
+	"split_range_min": 600,
+	"split_range": "good",
+	"split_range_max": 600,
+
+	"torpedo_capacity_min": 30,
+	"torpedo_capacity": "good",
+	"torpedo_capacity_max": 30,
+
+	"typhoon_capacity_min": 30,
+	"typhoon_capacity": "good",
+	"typhoon_capacity_max": 30,
+
+	"firing_fuel_min": 0.25,
+	"firing_fuel": "bad",
+	"firing_fuel_max": 0.25,
+
+	"group": [
+		["cost", "mass"],
+		["finisher_capacity", "velocity", "lifetime", "acceleration", "turn", "homing", "radar_tracking", "missile_strength", "gatling_round_capacity", "burst_count", "tracker_capacity", "optical_tracking", "infrared_tracking", "shield_damage", "hull_damage", "hit_force", "rocket_capacity", "trigger_radius", "blast_radius", "javelin_capacity", "energy_capacity", "minelayer_capacity", "piercer_capacity", "piercing", "meteor_capacity", "railgun_slug_capacity", "sidewinder_capacity", "thunderhead_capacity", "split_range", "torpedo_capacity", "typhoon_capacity"],
+		["gun_ports", "inaccuracy", "reload", "firing_energy", "firing_heat", "drag", "burst_reload", "firing_fuel"]
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"race": "Coalition",
+	"plural": "Finisher Torpedoes",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 32000,
+	"thumbnail": "outfit/finisher",
+	"mass": 0.5,
+	"finisher_capacity": -1,
+	"description": "`This extremely powerful but also expensive missile is ammunition for the Heliarch Finisher Pod.`"
+}

@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"plural": "Hai Gorge Batteries",
+	"category": "Power",
+	"type": "Battery",
+	"cost": 55000,
+	"thumbnail": "outfit/medium battery hai",
+	"mass": 30,
+	"outfit_space": -30,
+	"energy_capacity": 3761,
+	"description": "This medium-sized battery pack is ideal for most of the Hai power needs, allowing for medium length combat engagements, but could also be used keep a ship's heat footprint low with a small power generator and oversized engines."
+}

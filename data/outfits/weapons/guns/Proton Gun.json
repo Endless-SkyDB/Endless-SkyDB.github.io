@@ -1,0 +1,25 @@
+{
+	"race": "Human",
+	"category": "Guns",
+	"type": "Gun",
+	"cost": 150000,
+	"thumbnail": "outfit/proton gun",
+	"mass": 28,
+	"outfit_space": -28,
+	"weapon_capacity": -28,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": "projectile/proton",
+		"sound": "proton",
+		"hit_effect": "proton impact 3",
+		"inaccuracy": 4,
+		"submunition": "Proton Fragment 3",
+		"velocity": 24,
+		"lifetime": 2,
+		"reload": 8,
+		"firing_energy": 15,
+		"firing_force": 2,
+		"firing_heat": 60
+	},
+	"description": "The Proton Gun started out as the Syndicate's attempt to reverse engineer and mass produce a cheap competitor for the Particle Cannon. Unfortunately, they were unable to find a reliable way to keep the beam coherent, but the resulting weapon is still popular with some captains, particularly as an anti-fighter gun."
+}

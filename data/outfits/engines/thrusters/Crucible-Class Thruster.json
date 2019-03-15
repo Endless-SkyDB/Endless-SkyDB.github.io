@@ -1,0 +1,22 @@
+{
+	"race": "Remnant",
+	"category": "Engines",
+	"type": "Thrusters",
+	"licenses": {
+		"Remnant": 1
+	},
+	"cost": 200000,
+	"thumbnail": "outfit/small remnant thruster",
+	"mass": 20,
+	"outfit_space": -20,
+	"engine_capacity": -20,
+	"thrust": 18.0,
+	"thrusting_energy": 2.65,
+	"thrusting_heat": 2.5,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/remnant small flare",
+		"frame_rate": 5
+	},
+	"flare_sound": "plasma tiny",
+	"description": "These small but powerful engines are driven by ionized gas propelled at a sizable fraction of the speed of light."
+}

@@ -1,0 +1,56 @@
+{
+	"race": "Human",
+	"sprite": "ship/manta",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 3400000,
+		"shields": 5900,
+		"hull": 1500,
+		"required_crew": 6,
+		"bunks": 10,
+		"mass": 170,
+		"drag": 4.7,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 400,
+		"cargo_space": 20,
+		"outfit_space": 350,
+		"weapon_capacity": 140,
+		"engine_capacity": 100,
+		"weapon": {
+			"blast_radius": 80,
+			"shield_damage": 800,
+			"hull_damage": 400,
+			"hit_force": 1200
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 4,
+		"Meteor_Missile_Launcher": 2,
+		"Meteor_Missile": 70,
+		"RT-I_Radiothermal": 1,
+		"LP144a_Battery_Pack": 1,
+		"D14-RN_Shield_Generator": 1,
+		"X3700_Ion_Thruster": 1,
+		"X3200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-33 38",
+		"33 38"
+	],
+	"gun": [
+		"-21 -35 Particle Cannon",
+		"21 -35 Particle Cannon",
+		"-27 -35 Particle Cannon",
+		"27 -35 Particle Cannon",
+		"-66 -32 Meteor Missile Launcher",
+		"66 -32 Meteor Missile Launcher"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 20",
+		"medium explosion 15"
+	],
+	"final_explode": "final explosion small",
+	"description": "After their Quicksilver light warship with its armament of particle cannons became a large success with convoy escorts and planetary defense forces, Megaparsec decided to develop a larger ship with similar maneuverability but heavier firepower. The Manta is the result: a ship with enough long-range firepower that fleeing from a battle with it is almost impossible."
+}

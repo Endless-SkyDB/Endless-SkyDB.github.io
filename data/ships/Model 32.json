@@ -1,0 +1,59 @@
+{
+	"race": "Korath",
+	"sprite": "ship/model 32",
+	"attributes": {
+		"category": "Light Warship",
+		"cost": 12765000,
+		"shields": 27900,
+		"hull": 13400,
+		"automaton": 1,
+		"mass": 370,
+		"drag": 9.0,
+		"heat_dissipation": 1.3,
+		"fuel_capacity": 400,
+		"cargo_space": 16,
+		"outfit_space": 481,
+		"weapon_capacity": 205,
+		"engine_capacity": 110,
+		"self_destruct": 0.7,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 240,
+			"shield_damage": 3200,
+			"hull_damage": 1600,
+			"hit_force": 4800
+		}
+	},
+	"outfits": {
+		"Korath_Minelayer": 1,
+		"Korath_Mine": 17,
+		"Korath_Disruptor": 1,
+		"Korath_Slicer_Turret": 2,
+		"Double_Plasma_Core": 1,
+		"Generator_(Candle_Class)": 1,
+		"Systems_Core_(Small)": 1,
+		"Small_Heat_Shunt": 1,
+		"Reasoning_Node": 1,
+		"Thruster_(Planetary_Class)": 1,
+		"Steering_(Lunar_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-10 128",
+		"10 128"
+	],
+	"gun": "0 -129 Korath Minelayer",
+	"turret": [
+		"32 -24 Korath Disruptor",
+		"-31 -9 Korath Slicer Turret",
+		"24 19 Korath Slicer Turret"
+	],
+	"explode": [
+		"tiny explosion 80",
+		"small explosion 55",
+		"medium explosion 40",
+		"large explosion 15"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Kor Mereti built their drones to mimic life: capable of growth and development throughout their life cycles. Their automated factories can convert the drones from one configuration to another by adding or removing modules."
+}

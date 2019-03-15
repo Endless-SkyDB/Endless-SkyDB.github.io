@@ -1,0 +1,22 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 128000,
+	"thumbnail": "outfit/large ion thruster",
+	"mass": 79,
+	"outfit_space": -79,
+	"engine_capacity": -79,
+	"thrust": 42.5,
+	"thrusting_energy": 3.5,
+	"thrusting_heat": 6.2,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/ion flare/large",
+		"frame_rate": 0.9
+	},
+	"flare_sound": "ion large",
+	"description": [
+		"The X4700 ion thruster was developed when the Republic Navy began building warships so large that the X3700 was not sufficient for them. It allows even a capital ship to move at a respectable speed.",
+		"Ion engines consume less energy than plasma engines and produce less heat, but they also take up more space."
+	]
+}

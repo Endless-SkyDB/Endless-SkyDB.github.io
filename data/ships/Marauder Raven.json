@@ -1,0 +1,59 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mravens",
+	"attributes": {
+		"category": "Light Warship",
+		"cost": 2250000,
+		"shields": 5200,
+		"hull": 1600,
+		"required_crew": 7,
+		"bunks": 14,
+		"mass": 145,
+		"drag": 3.7,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 500,
+		"cargo_space": 20,
+		"outfit_space": 310,
+		"weapon_capacity": 105,
+		"engine_capacity": 110,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 65,
+			"shield_damage": 650,
+			"hull_damage": 350,
+			"hit_force": 1000
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 4,
+		"Heavy_Laser_Turret": 1,
+		"Breeder_Reactor": 1,
+		"Supercapacitor": 3,
+		"S-270_Regenerator": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"Outfits_Expansion": 1,
+		"A250_Atomic_Thruster": 1,
+		"A375_Atomic_Steering": 1,
+		"Afterburner": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-12 45",
+		"12 45"
+	],
+	"gun": [
+		"-10 -33 Heavy Laser",
+		"10 -33 Heavy Laser",
+		"-16 -28 Heavy Laser",
+		"16 -28 Heavy Laser"
+	],
+	"turret": "0 -19 Heavy Laser Turret",
+	"explode": [
+		"medium explosion 24",
+		"large explosion 16",
+		"tiny explosion 28",
+		"small explosion 40"
+	],
+	"final_explode": "final explosion small",
+	"description": "The modifier of this Raven has given more heft to an agile and elegant vessel. They've added a turret and some apparently flimsy bulkheads over extra shield emitters and outfit space. If it weren't for the wingtips, you would barely recognize Lionheart's ship under the patchwork that you expect has made an already deadly warship even more so."
+}

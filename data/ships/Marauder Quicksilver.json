@@ -1,0 +1,55 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mquicksilvers",
+	"attributes": {
+		"category": "Light Warship",
+		"cost": 1200000,
+		"shields": 3500,
+		"hull": 900,
+		"required_crew": 4,
+		"bunks": 7,
+		"mass": 140,
+		"drag": 2.7,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 400,
+		"cargo_space": 5,
+		"outfit_space": 265,
+		"weapon_capacity": 65,
+		"engine_capacity": 75,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 45,
+			"shield_damage": 450,
+			"hull_damage": 225,
+			"hit_force": 650
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 2,
+		"Heavy_Anti-Missile_Turret": 1,
+		"Fission_Reactor": 1,
+		"LP036a_Battery_Pack": 1,
+		"S-270_Regenerator": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"Security_Station": 3,
+		"Laser_Rifle": 1,
+		"A250_Atomic_Thruster": 1,
+		"A375_Atomic_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-16 52",
+		"16 52"
+	],
+	"gun": [
+		"-7 -39 Heavy Laser",
+		"7 -39 Heavy Laser"
+	],
+	"turret": "0 15 Heavy Anti-Missile Turret",
+	"explode": [
+		"tiny explosion 12",
+		"small explosion 16"
+	],
+	"final_explode": "final explosion small",
+	"description": "This Megaparsec Quicksilver is a bit of a Hotrod, being a little faster, with extra shield projectors, hull plating, and an extra bunk. This aftermarket model also features a turret mount, perhaps in an answer to Lionheart's Headhunter. The shop that built this ship is sure to see more customers."
+}

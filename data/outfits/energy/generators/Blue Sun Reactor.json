@@ -1,0 +1,16 @@
+{
+	"race": "Wanderer",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 21500000,
+	"thumbnail": "outfit/blue sun",
+	"mass": 152,
+	"outfit_space": -152,
+	"energy_generation": 31.3,
+	"heat_generation": 39,
+	"energy_capacity": 8900,
+	"description": "As the Wanderers have begun producing heavy warships, a need has arisen for larger and larger reactor cores to power them."
+}

@@ -1,0 +1,29 @@
+{
+	"race": "Human",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 100000,
+	"thumbnail": "outfit/blaster turret",
+	"mass": 15,
+	"outfit_space": -15,
+	"weapon_capacity": -15,
+	"turret_mounts": -1,
+	"required_crew": 1,
+	"weapon": {
+		"sprite": "projectile/blaster",
+		"hardpoint_sprite": "hardpoint/blaster turret",
+		"hardpoint_offset": 9.0,
+		"sound": "blaster",
+		"hit_effect": "blaster impact",
+		"inaccuracy": 3,
+		"turret_turn": 5,
+		"velocity": 7,
+		"lifetime": 60,
+		"reload": 6,
+		"firing_energy": 10,
+		"firing_heat": 35,
+		"shield_damage": 9,
+		"hull_damage": 6
+	},
+	"description": "A Blaster Turret is a pair of Energy Blasters mounted on a rotating platform, allowing it to fire in any direction. Sophisticated software algorithms allow the turret to correct for a target's motion, making the Blaster Turret effective even against small, quickly moving fighters. Because it needs a special mounting point with a 360 degree field of view, not all ships are capable of being equipped with a turret."
+}

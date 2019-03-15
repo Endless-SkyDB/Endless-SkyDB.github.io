@@ -1,0 +1,506 @@
+{
+	"Aerie": {
+		"cost": 3500000,
+		"category": "Medium Warship"
+	},
+	"Albatross": {
+		"cost": 20000000,
+		"category": "Heavy Warship"
+	},
+	"Hai Aphid": {
+		"cost": 570000,
+		"category": "Light Freighter"
+	},
+	"Arach Courier": {
+		"cost": 723000,
+		"category": "Light Freighter"
+	},
+	"Arach Freighter": {
+		"cost": 4580000,
+		"category": "Light Freighter"
+	},
+	"Arach Hulk": {
+		"cost": 9978000,
+		"category": "Heavy Freighter"
+	},
+	"Arach Spindle": {
+		"cost": 6652000,
+		"category": "Heavy Freighter"
+	},
+	"Arach Transport": {
+		"cost": 2772000,
+		"category": "Light Freighter"
+	},
+	"Archon": {
+		"cost": 1000000000,
+		"category": "Heavy Warship"
+	},
+	"Argosy": {
+		"cost": 1960000,
+		"category": "Light Freighter"
+	},
+	"Arrow": {
+		"cost": 1200000,
+		"category": "Transport"
+	},
+	"Autumn Leaf": {
+		"cost": 12500000,
+		"category": "Light Warship"
+	},
+	"Bactrian": {
+		"cost": 17600000,
+		"category": "Heavy Warship"
+	},
+	"Barb (Proton)": {
+		"cost": 50000,
+		"category": "Fighter"
+	},
+	"Barb": {
+		"cost": 50000,
+		"category": "Fighter"
+	},
+	"Bastion": {
+		"cost": 3560000,
+		"category": "Medium Warship"
+	},
+	"Behemoth": {
+		"cost": 10800000,
+		"category": "Heavy Freighter"
+	},
+	"Berserker": {
+		"cost": 520000,
+		"category": "Interceptor"
+	},
+	"Blackbird": {
+		"cost": 2230000,
+		"category": "Transport"
+	},
+	"Bounder": {
+		"cost": 1140000,
+		"category": "Transport"
+	},
+	"Boxwing": {
+		"cost": 369000,
+		"category": "Fighter"
+	},
+	"Bulk Freighter": {
+		"cost": 11400000,
+		"category": "Heavy Warship"
+	},
+	"Carrier": {
+		"cost": 15200000,
+		"category": "Heavy Warship"
+	},
+	"Clipper": {
+		"cost": 900000,
+		"category": "Light Freighter"
+	},
+	"Combat Drone": {
+		"cost": 83000,
+		"category": "Drone"
+	},
+	"Corvette": {
+		"cost": 4400000,
+		"category": "Medium Warship"
+	},
+	"Cruiser": {
+		"cost": 11200000,
+		"category": "Heavy Warship"
+	},
+	"Dagger": {
+		"cost": 129000,
+		"category": "Fighter"
+	},
+	"Deep River": {
+		"cost": 18300000,
+		"category": "Heavy Freighter"
+	},
+	"Derecho": {
+		"cost": 30500000,
+		"category": "Heavy Warship"
+	},
+	"Dreadnought": {
+		"cost": 11900000,
+		"category": "Heavy Warship"
+	},
+	"Earth Shaper": {
+		"cost": 500000,
+		"category": "Light Freighter"
+	},
+	"Falcon": {
+		"cost": 10900000,
+		"category": "Heavy Warship"
+	},
+	"Far Lek 14": {
+		"cost": 573000,
+		"category": "Drone"
+	},
+	"Far Osk 27": {
+		"cost": 761000,
+		"category": "Fighter"
+	},
+	"Finch": {
+		"cost": 126000,
+		"category": "Fighter"
+	},
+	"Firebird": {
+		"cost": 3700000,
+		"category": "Medium Warship"
+	},
+	"Hai Flea": {
+		"cost": 122400,
+		"category": "Drone"
+	},
+	"Flivver": {
+		"cost": 180000,
+		"category": "Transport"
+	},
+	"Flycatcher": {
+		"cost": 830000,
+		"category": "Drone"
+	},
+	"Freighter": {
+		"cost": 730000,
+		"category": "Light Freighter"
+	},
+	"Frigate": {
+		"cost": 5200000,
+		"category": "Medium Warship"
+	},
+	"Fury": {
+		"cost": 490000,
+		"category": "Interceptor"
+	},
+	"Gascraft": {
+		"cost": 530000,
+		"category": "Transport"
+	},
+	"Gunboat": {
+		"cost": 3200000,
+		"category": "Light Warship"
+	},
+	"Hauler II": {
+		"cost": 2340000,
+		"category": "Heavy Freighter"
+	},
+	"Hauler III": {
+		"cost": 3260000,
+		"category": "Heavy Freighter"
+	},
+	"Hauler I": {
+		"cost": 1430000,
+		"category": "Light Freighter"
+	},
+	"Hawk": {
+		"cost": 670000,
+		"category": "Interceptor"
+	},
+	"Headhunter": {
+		"cost": 1850000,
+		"category": "Light Warship"
+	},
+	"Heavy Shuttle": {
+		"cost": 320000,
+		"category": "Transport"
+	},
+	"Heliarch Interdictor": {
+		"cost": 35487000,
+		"category": "Medium Warship"
+	},
+	"Heliarch Neutralizer": {
+		"cost": 18847000,
+		"category": "Light Warship"
+	},
+	"Heliarch Punisher": {
+		"cost": 58487000,
+		"category": "Heavy Warship"
+	},
+	"Hurricane": {
+		"cost": 39100000,
+		"category": "Heavy Warship"
+	},
+	"Kar Ik Vot 349": {
+		"cost": 41280000,
+		"category": "Heavy Warship"
+	},
+	"Kimek Briar": {
+		"cost": 1532000,
+		"category": "Transport"
+	},
+	"Kimek Spire": {
+		"cost": 9375000,
+		"category": "Transport"
+	},
+	"Kimek Thistle": {
+		"cost": 2904000,
+		"category": "Transport"
+	},
+	"Kimek Thorn": {
+		"cost": 440000,
+		"category": "Transport"
+	},
+	"Korath Chaser": {
+		"cost": 671000,
+		"category": "Fighter"
+	},
+	"Korath Raider": {
+		"cost": 16570000,
+		"category": "Heavy Warship"
+	},
+	"Korath World-Ship": {
+		"cost": 27690000,
+		"category": "Heavy Freighter"
+	},
+	"Lance": {
+		"cost": 93000,
+		"category": "Fighter"
+	},
+	"Leviathan": {
+		"cost": 9800000,
+		"category": "Heavy Warship"
+	},
+	"Hai Lightning Bug": {
+		"cost": 3200000,
+		"category": "Light Warship"
+	},
+	"Manta": {
+		"cost": 3400000,
+		"category": "Medium Warship"
+	},
+	"Marauder Arrow": {
+		"cost": 1320000,
+		"category": "Interceptor"
+	},
+	"Marauder Bounder": {
+		"cost": 1250000,
+		"category": "Interceptor"
+	},
+	"Marauder Falcon": {
+		"cost": 13900000,
+		"category": "Heavy Warship"
+	},
+	"Marauder Firebird": {
+		"cost": 4100000,
+		"category": "Medium Warship"
+	},
+	"Marauder Fury": {
+		"cost": 750000,
+		"category": "Interceptor"
+	},
+	"Marauder Leviathan": {
+		"cost": 10800000,
+		"category": "Heavy Warship"
+	},
+	"Marauder Manta": {
+		"cost": 3740000,
+		"category": "Medium Warship"
+	},
+	"Marauder Quicksilver": {
+		"cost": 1200000,
+		"category": "Light Warship"
+	},
+	"Marauder Raven": {
+		"cost": 2250000,
+		"category": "Light Warship"
+	},
+	"Marauder Splinter": {
+		"cost": 3400000,
+		"category": "Medium Warship"
+	},
+	"Met Par Tek 53": {
+		"cost": 14480000,
+		"category": "Light Warship"
+	},
+	"Model 8": {
+		"cost": 3725000,
+		"category": "Interceptor"
+	},
+	"Model 16": {
+		"cost": 8449000,
+		"category": "Light Warship"
+	},
+	"Model 32": {
+		"cost": 12765000,
+		"category": "Light Warship"
+	},
+	"Model 64": {
+		"cost": 19552000,
+		"category": "Medium Warship"
+	},
+	"Model 128": {
+		"cost": 24073000,
+		"category": "Medium Warship"
+	},
+	"Model 256": {
+		"cost": 34920000,
+		"category": "Heavy Warship"
+	},
+	"Model 512": {
+		"cost": 40375000,
+		"category": "Heavy Warship"
+	},
+	"Modified Argosy": {
+		"cost": 1960000,
+		"category": "Light Warship"
+	},
+	"Mule": {
+		"cost": 4580000,
+		"category": "Medium Warship"
+	},
+	"Nest": {
+		"cost": 2500000,
+		"category": "Medium Warship"
+	},
+	"Osprey": {
+		"cost": 4400000,
+		"category": "Medium Warship"
+	},
+	"Hai Pond Strider": {
+		"cost": 5250000,
+		"category": "Medium Warship"
+	},
+	"Protector": {
+		"cost": 5500000,
+		"category": "Heavy Warship"
+	},
+	"Pug Arfecta": {
+		"cost": 90000000,
+		"category": "Medium Warship"
+	},
+	"Pug Enfolta": {
+		"cost": 6300000,
+		"category": "Medium Warship"
+	},
+	"Pug Maboro": {
+		"cost": 9500000,
+		"category": "Heavy Warship"
+	},
+	"Pug Zibruka": {
+		"cost": 1900000,
+		"category": "Light Warship"
+	},
+	"Skylark": {
+		"cost": 5900000,
+		"category": "Heavy Warship"
+	},
+	"Wardragon": {
+		"cost": 5900000,
+		"category": "Heavy Warship"
+	},
+	"Quicksilver": {
+		"cost": 1090000,
+		"category": "Light Warship"
+	},
+	"Rainmaker": {
+		"cost": 1580000,
+		"category": "Light Warship"
+	},
+	"Raven": {
+		"cost": 1800000,
+		"category": "Light Warship"
+	},
+	"Roost": {
+		"cost": 3000000,
+		"category": "Medium Warship"
+	},
+	"Saryd Runabout": {
+		"cost": 942000,
+		"category": "Light Freighter"
+	},
+	"Saryd Sojourner": {
+		"cost": 11075000,
+		"category": "Heavy Freighter"
+	},
+	"Saryd Traveler": {
+		"cost": 3385000,
+		"category": "Heavy Freighter"
+	},
+	"Saryd Visitor": {
+		"cost": 1982000,
+		"category": "Light Freighter"
+	},
+	"Scout": {
+		"cost": 850000,
+		"category": "Transport"
+	},
+	"Shield Beetle": {
+		"cost": 17900000,
+		"category": "Heavy Warship"
+	},
+	"Shuttle": {
+		"cost": 180000,
+		"category": "Transport"
+	},
+	"Skein": {
+		"cost": 3500000,
+		"category": "Medium Warship"
+	},
+	"Solifuge": {
+		"cost": 22800000,
+		"category": "Heavy Warship"
+	},
+	"Sparrow": {
+		"cost": 225000,
+		"category": "Interceptor"
+	},
+	"Splinter": {
+		"cost": 3100000,
+		"category": "Medium Warship"
+	},
+	"Star Barge": {
+		"cost": 210000,
+		"category": "Light Freighter"
+	},
+	"Star Queen": {
+		"cost": 5500000,
+		"category": "Transport"
+	},
+	"Starling": {
+		"cost": 8800000,
+		"category": "Light Warship"
+	},
+	"Strong Wind": {
+		"cost": 16100000,
+		"category": "Medium Warship"
+	},
+	"Summer Leaf": {
+		"cost": 9500000,
+		"category": "Light Warship"
+	},
+	"Surveillance Drone": {
+		"cost": 50000,
+		"category": "Drone"
+	},
+	"Tek Far 71 - lek": {
+		"cost": 22870000,
+		"category": "Medium Warship"
+	},
+	"Tek Far 78 - Osk": {
+		"cost": 25630000,
+		"category": "Medium Warship"
+	},
+	"Tek Far 109": {
+		"cost": 18290000,
+		"category": "Medium Warship"
+	},
+	"Tempest": {
+		"cost": 19700000,
+		"category": "Medium Warship"
+	},
+	"Vanguard": {
+		"cost": 7200000,
+		"category": "Heavy Warship"
+	},
+	"Violin Spider": {
+		"cost": 139000,
+		"category": "Fighter"
+	},
+	"Wasp": {
+		"cost": 400000,
+		"category": "Interceptor"
+	},
+	"Water Bug": {
+		"cost": 6500000,
+		"category": "Heavy Freighter"
+	}
+}

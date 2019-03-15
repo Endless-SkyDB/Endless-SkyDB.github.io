@@ -1,0 +1,55 @@
+{
+	"race": "Hai",
+	"sprite": "ship/hai lightning bug",
+	"attributes": {
+		"category": "Light Warship",
+		"cost": 3200000,
+		"shields": 6700,
+		"hull": 1700,
+		"required_crew": 4,
+		"bunks": 10,
+		"mass": 220,
+		"drag": 3.8,
+		"heat_dissipation": 0.85,
+		"fuel_capacity": 600,
+		"cargo_space": 73,
+		"outfit_space": 278,
+		"weapon_capacity": 87,
+		"engine_capacity": 93,
+		"weapon": {
+			"blast_radius": 84,
+			"shield_damage": 840,
+			"hull_damage": 420,
+			"hit_force": 1260
+		}
+	},
+	"outfits": {
+		"Ion_Cannon": 1,
+		"Bullfrog_Anti-Missile": 2,
+		"Geode_Reactor": 1,
+		"Hai_Gorge_Batteries": 1,
+		"Hai_Corundum_Regenerator": 1,
+		"Hai_Williwaw_Cooling": 1,
+		"Quantum_Keystone": 1,
+		"Benga Atomic Thruster": 1,
+		"Biroo Atomic Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-40 22",
+		"40 22"
+	],
+	"gun": "0 -40 Ion Cannon",
+	"turret": [
+		"-47 18 Bullfrog Anti-Missile",
+		"47 18 Bullfrog Anti-Missile"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion small",
+	"description": "The Lightning Bug is a small defensive ship, mostly used by the Hai as a convoy escort. In its stock configuration, its only offensive weapon is a single ion cannon."
+}

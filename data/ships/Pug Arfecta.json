@@ -1,0 +1,65 @@
+{
+	"race": "Pug",
+	"sprite": "ship/pug arfecta",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 90000000,
+		"shields": 98000,
+		"hull": 80000,
+		"required_crew": 36,
+		"bunks": 46,
+		"mass": 670,
+		"drag": 7.5,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 1200,
+		"cargo_space": 64,
+		"outfit_space": 640,
+		"weapon_capacity": 390,
+		"engine_capacity": 220,
+		"energy_generation": 200,
+		"shield_generation": 32,
+		"shield_energy": 32,
+		"hull_repair_rate": 5,
+		"hull_energy": 5,
+		"heat_generation": 10,
+		"energy_capacity": 10000,
+		"cloaking_fuel": -0.2,
+		"weapon": {
+			"blast_radius": 320,
+			"shield_damage": 9000,
+			"hull_damage": 4500,
+			"hit_force": 7000
+		}
+	},
+	"outfits": {
+		"Tier_3_Anti-Missile": 2,
+		"Pug_Gridfire_Turret": 3,
+		"Cloaking_Device": 1,
+		"Pug_Biodefenses": 12,
+		"Pug_Lohmar_Thruster": 1,
+		"Pug_Lohmar_Steering": [
+			1,
+			1
+		],
+		"Jump_Drive": 1
+	},
+	"engine": [
+		"-15 164",
+		"15 164"
+	],
+	"turret": [
+		"-50 -29 Tier 3 Anti-Missile",
+		"50 -29 Tier 3 Anti-Missile",
+		"0 40 Pug Gridfire Turret",
+		"-73 84 Pug Gridfire Turret",
+		"73 84 Pug Gridfire Turret"
+	],
+	"explode": [
+		"tiny explosion 100",
+		"small explosion 60",
+		"medium explosion 30",
+		"large explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "This is a Pug tier 3 warship, intended for use in combat against either a species on par with the Quarg, or a lesser species that has decided to be particularly meddlesome."
+}

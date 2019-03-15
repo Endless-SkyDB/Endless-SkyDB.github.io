@@ -1,0 +1,52 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/kimek thorn",
+	"attributes": {
+		"category": "Transport",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 440000,
+		"shields": 1400,
+		"hull": 800,
+		"required_crew": 1,
+		"bunks": 7,
+		"mass": 80,
+		"drag": 1.8,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 600,
+		"cargo_space": 12,
+		"outfit_space": 133,
+		"weapon_capacity": 40,
+		"engine_capacity": 38,
+		"weapon": {
+			"blast_radius": 14,
+			"shield_damage": 140,
+			"hull_damage": 70,
+			"hit_force": 210
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 1,
+		"Small_Battery_Module": 1,
+		"Small_Shield_Module": 1,
+		"Small_Thrust_Module": 2,
+		"Small_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-8 41 .7",
+		"0 43 1",
+		"8 41 .7"
+	],
+	"gun": [
+		"-8 -23",
+		"8 -23"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 5"
+	],
+	"final_explode": "final explosion small",
+	"description": "`The Thorn is the Kimek equivalent of a shuttle, and thanks to their speed and maneuverability they are used throughout Coalition space for transferring passengers from one ship to another or from a planet into orbit.`"
+}

@@ -1,0 +1,45 @@
+{
+	"race": "Coalition",
+	"category": "Secondary Weapons",
+	"type": "Secondary Weapon",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 1370000,
+	"thumbnail": "outfit/finisher pod",
+	"mass": 16,
+	"outfit_space": -36,
+	"weapon_capacity": -36,
+	"gun_ports": -1,
+	"finisher_capacity": 40,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/finisher activating",
+			"frame_rate": 1,
+			"no_repeat": 1
+		},
+		"sound": "finisher",
+		"ammo": "Finisher Torpedo",
+		"icon": "icon/finisher",
+		"fire_effect": "finisher sparks 8",
+		"hit_effect": [
+			"finisher impact 2",
+			"finisher fragment 12"
+		],
+		"die_effect": "finisher fragment 6",
+		"inaccuracy": 5,
+		"velocity": 10,
+		"lifetime": 60,
+		"reload": 80,
+		"firing_energy": 120,
+		"firing_heat": 20,
+		"acceleration": 0.8,
+		"drag": 0.1,
+		"turn": 0.1,
+		"homing": 2,
+		"radar_tracking": 0.8,
+		"missile_strength": 50,
+		"submunition": "Active Finisher 1"
+	},
+	"description": "`Finisher Torpedoes are one of the Heliarchs' most dreaded weapons. In fact, in one way or another most of their other weapons merely exist to hold a ship in place for long enough for a barrage of Finishers to destroy it.`"
+}

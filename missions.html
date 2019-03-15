@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Endless Sky Database</title>
+    <meta name="viewport" width=device-width, initial-scale=1.0>
+    <style> body {padding: 0; margin: 0;} </style>
+
+    <!--Other sources   ondrop="preview(event)" oncontextmenu="return false;"-->
+
+    <!--My sources-->
+
+    <link rel="icon" href="images/siteIcon.png" type="image/png" sizes="64x64">
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu">
+
+    <script src="javascript/main.js"></script>
+    <script src="javascript/search.js"></script>
+    <script src="javascript/map.js"></script>
+    <script src="javascript/_temp.js"></script>
+    <script src="javascript/missionParse.js"></script>
+
+    <!--<script src="javascript/main.js"></script>-->
+
+  </head>
+
+  <body>
+    <header style="user-select: none;">
+      <center>
+        <div style="padding: 20px; margin: auto; height: 100%; background-color: transparent; background: url('images/menu/compass.png') no-repeat center; cursor: pointer;" onclick="window.location.href='/'">
+          <p style="font-size: 40px;">E N D L E S S &nbsp; S K Y</p>
+        </div>
+      </center>
+
+      <div style="display: block; margin: 0 10% 0 10%; border-radius: 8px; padding: 5px; user-select: none; background-color: #000;">
+        <center>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/ships.html'">S H I P S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/outfits.html'">O U T F I T S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/missions.html'">M I S S I O N S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/map.html'">M A P</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; float: right; vertical-align: top;">
+            <input type="text" spellcheck="false" placeholder="Search" style="width: 280px" oninput="findString(this.value);" onkeyup="startSearch();">
+            <div id="search" style="width: 296px; display: block; background-color: #000000; margin: 0; position: absolute;"></div>
+          </div>
+        </center>
+
+      </div>
+    </header>
+
+    <center>
+      <p>In developement.</p>
+    </center>
+
+  </body>

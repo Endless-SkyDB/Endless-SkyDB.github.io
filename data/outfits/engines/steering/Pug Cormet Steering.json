@@ -1,0 +1,14 @@
+{
+	"race": "Pug",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 880000,
+	"thumbnail": "outfit/pug cormet steering",
+	"mass": 46,
+	"outfit_space": -46,
+	"engine_capacity": -46,
+	"turn": 1130,
+	"turning_energy": 1.9,
+	"turning_heat": 3.1,
+	"description": "This is a medium-sized steering system designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines."
+}

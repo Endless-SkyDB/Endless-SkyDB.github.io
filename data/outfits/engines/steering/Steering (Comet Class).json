@@ -1,0 +1,15 @@
+{
+	"race": "Korath",
+	"plural": "Steerings (Comet Class)",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 221000,
+	"thumbnail": "outfit/small korath steering",
+	"mass": 18,
+	"outfit_space": -18,
+	"engine_capacity": -18,
+	"turn": 568.8,
+	"turning_energy": 1.4,
+	"turning_heat": 4.1,
+	"description": "This compact steering system is a classic example of Korath technology: small, powerful, and woefully inefficient."
+}

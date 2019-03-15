@@ -1,0 +1,16 @@
+{
+	"race": "Wanderer",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Wanderer_Outfits": 1
+	},
+	"cost": 940000,
+	"thumbnail": "outfit/large biochemical",
+	"mass": 63,
+	"outfit_space": -63,
+	"energy_generation": 6.2,
+	"heat_generation": 4.9,
+	"energy_capacity": 700,
+	"description": "The Wanderers are masters of unusual and efficient technology. This bioreactor is fueled by a culture of microorganisms that produce a small electric charge."
+}

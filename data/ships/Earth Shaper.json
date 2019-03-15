@@ -1,0 +1,42 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/earth shaper",
+	"attributes": {
+		"category": "Light Freighter",
+		"licenses": {
+			"Wanderer": 1
+		},
+		"cost": 500000,
+		"hull": 3300,
+		"mass": 30,
+		"drag": 0.9,
+		"heat_dissipation": 0.9,
+		"fuel_capacity": 300,
+		"cargo_space": 27,
+		"outfit_space": 59,
+		"engine_capacity": 26,
+		"atmosphere_scan": 100,
+		"automaton": 1,
+		"weapon": {
+			"blast_radius": 10,
+			"shield_damage": 100,
+			"hull_damage": 150,
+			"hit_force": 250
+		}
+	},
+	"outfits": {
+		"Small_Biochemical_Cell": 1,
+		"Type_1_Radiant_Thruster": 1,
+		"Type_1_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-9 30",
+		"9 30"
+	],
+	"explode": [
+		"tiny explosion 20",
+		"small explosion 10"
+	],
+	"description": "The Earth Shaper is a robotic drone that the Wanderers use for mining, exploring, surveying, and terraforming."
+}

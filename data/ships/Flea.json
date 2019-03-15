@@ -1,0 +1,34 @@
+{
+	"race": "Hai",
+	"sprite": "ship/hai flea",
+	"attributes": {
+		"category": "Drone",
+		"cost": 122400,
+		"shields": 200,
+		"hull": 700,
+		"mass": 21,
+		"drag": 0.55,
+		"heat_dissipation": 0.75,
+		"outfit_space": 60,
+		"weapon_capacity": 9,
+		"engine_capacity": 29,
+		"automaton": 1,
+		"weapon": {
+			"blast_radius": 6,
+			"shield_damage": 55,
+			"hull_damage": 30,
+			"hit_force": 80
+		}
+	},
+	"outfits": {
+		"Railgun": 1,
+		"Railgun_Slug": 160,
+		"Sand_Cell": 1,
+		"Hai_Chasm_Batteries": 1,
+		"Baellie": "Atomic Engines"
+	},
+	"engine": "0 27",
+	"gun": "0 -27 Railgun",
+	"explode": "tiny explosion 15",
+	"description": "This is a combat drone designed to help contain Unfettered aggression with a minimum risk to Hai life."
+}

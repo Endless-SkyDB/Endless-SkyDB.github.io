@@ -1,0 +1,14 @@
+{
+	"race": "Pug",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 1580000,
+	"thumbnail": "outfit/pug lohmar steering",
+	"mass": 64,
+	"outfit_space": -64,
+	"engine_capacity": -64,
+	"turn": 1700,
+	"turning_energy": 2.8,
+	"turning_heat": 4.7,
+	"description": "This is a large steering system designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines."
+}

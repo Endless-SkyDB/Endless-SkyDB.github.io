@@ -1,0 +1,40 @@
+{
+  "file": "Typhoon Launcher",
+  "category": "Secondary Weapons",
+  "cost": 260000,
+  "thumbnail": "outfit/typhoon launcher",
+  "mass": 20,
+  "outfit_space": -35,
+  "weapon_capacity": -35,
+  "gun_ports": -1,
+  "typhoon_capacity": 30,
+  "weapon": {
+    "sprite": {
+      "file": "projectile/typhoon",
+      "frame_rate": 4,
+      "random_start_frame": "true"
+    },
+    "sound": "typhoon",
+    "ammo": "Typhoon Torpedo",
+    "icon": "icon/typhoon",
+    "fire_effect": "typhoon fire",
+    "hit_effect": "large explosion",
+    "die_effect": "tiny explosion",
+    "inaccuracy": 5,
+    "velocity": 5,
+    "lifetime": 600,
+    "reload": 100,
+    "firing_energy": 4,
+    "firing_heat": 50,
+    "acceleration": 0.5,
+    "drag": 0.1,
+    "turn": 6,
+    "homing": 4,
+    "optical_tracking": 0.9,
+    "shield_damage": 610,
+    "hull_damage": 610,
+    "hit_force": 70,
+    "missile_strength": 30
+  },
+  "description": "Typhoon Torpedoes are an improved torpedo technology; they do considerably more damage than ordinary torpedoes. However, they are also much slower, because they are intended mostly for use against large and slow-moving capital ships. As a result, sufficiently skilled pilots can often dodge around them."
+}

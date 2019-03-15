@@ -1,0 +1,20 @@
+{
+	"race": "Korath",
+	"plural": "Thrusters (Comet Class)",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 249000,
+	"thumbnail": "outfit/small korath thruster",
+	"mass": 24,
+	"outfit_space": -24,
+	"engine_capacity": -24,
+	"thrust": 21.8,
+	"thrusting_energy": 2.8,
+	"thrusting_heat": 6.5,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/korath flare/small",
+		"frame_rate": 7.5
+	},
+	"flare_sound": "plasma small",
+	"description": "Like most Korath technology, this thruster's power is offset by its energy requirements and heat output."
+}

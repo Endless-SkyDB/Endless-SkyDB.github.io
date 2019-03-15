@@ -1,0 +1,71 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/derecho",
+	"attributes": {
+		"category": "Heavy Warship",
+		"licenses": {
+			"Wanderer_Military": 1
+		},
+		"cost": 30500000,
+		"shields": 53200,
+		"hull": 32700,
+		"required_crew": 53,
+		"bunks": 82,
+		"mass": 540,
+		"drag": 8.7,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 500,
+		"cargo_space": 56,
+		"outfit_space": 796,
+		"weapon_capacity": 342,
+		"engine_capacity": 164,
+		"weapon": {
+			"blast_radius": 340,
+			"shield_damage": 3400,
+			"hull_damage": 1700,
+			"hit_force": 5100
+		}
+	},
+	"outfits": {
+		"Sunbeam": 2,
+		"Thunderhead_Launcher": 2,
+		"Thunderhead_Missile": 80,
+		"Dual_Sunbeam_Turret": 2,
+		"Wanderer_Anti-Missile": 2,
+		"Blue_Sun_Reactor": 1,
+		"Red_Sun_Reactor": 1,
+		"Dark_Storm_Shielding": 1,
+		"Bright_Cloud_Shielding": 1,
+		"Wanderer_Heat_Sink": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_4_Radiant_Thruster": 1,
+		"Type_1_Radiant_Thruster": 1,
+		"Type_4_Radiant_Steering": 1,
+		"Type_3_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-16 177",
+		"16 177"
+	],
+	"gun": [
+		"-12 -156 Sunbeam",
+		"12 -156 Sunbeam",
+		"-17 -134 Thunderhead Launcher",
+		"17 -134 Thunderhead Launcher"
+	],
+	"turret": [
+		"-28 -45 Dual Sunbeam Turret",
+		"28 -45 Dual Sunbeam Turret",
+		"-38 95 Wanderer Anti-Missile",
+		"38 95 Wanderer Anti-Missile"
+	],
+	"explode": [
+		"small explosion 40",
+		"medium explosion 70",
+		"large explosion 50",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large 1",
+	"description": "Like a latent gene waiting to express itself, the knowledge of how to wage war in space has been passed down through hundreds of generations of Wanderers. Based on one of their ancient designs, the Derecho has a mixture of agility and raw firepower that is well-suited to their present, rapidly changing situation."
+}

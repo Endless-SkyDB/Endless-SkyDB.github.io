@@ -1,0 +1,10 @@
+{
+	"race": "Korath",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 3500,
+	"thumbnail": "outfit/piercer",
+	"mass": 0.3,
+	"piercer_capacity": -1,
+	"description": "This missile is fired from a Korath Piercer Launcher."
+}

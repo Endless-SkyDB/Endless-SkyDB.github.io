@@ -1,0 +1,33 @@
+{
+	"race": "Coalition",
+	"category": "Guns",
+	"type": "Gun",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 437000,
+	"thumbnail": "outfit/bombardment cannon",
+	"mass": 12,
+	"outfit_space": -12,
+	"weapon_capacity": -12,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/bombardment",
+			"frame_rate": 3.2,
+			"no_repeat": 1
+		},
+		"sound": "bombardment",
+		"hit_effect": "bombardment impact",
+		"inaccuracy": 4,
+		"velocity": 6,
+		"random_velocity": 1,
+		"lifetime": 150,
+		"reload": 9,
+		"firing_energy": 17,
+		"firing_heat": 14,
+		"shield_damage": 22,
+		"hull_damage": 25
+	},
+	"description": "`The Bombardment Cannon was designed during the original war with the Quarg, in order to give Heliarch civilian ships a way to strike Quarg warships from a safe distance. But now, as with all their weapons, its use is limited to Heliarch warships.`"
+}

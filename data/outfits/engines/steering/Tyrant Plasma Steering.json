@@ -1,0 +1,17 @@
+{
+	"race": "Human",
+	"category": "Engines",
+	"type": "Steering",
+	"cost": 382000,
+	"thumbnail": "outfit/huge plasma steering",
+	"mass": 125,
+	"outfit_space": -125,
+	"engine_capacity": -125,
+	"turn": 3479,
+	"turning_energy": 5.2,
+	"turning_heat": 14.7,
+	"description": [
+		"As with the corresponding thruster, the Tyrant class steering system is so large and powerful that very few ships can make use of it.",
+		"Plasma engines are a bit more powerful than ion engines of the same size, but they are less energy efficient and produce more heat."
+	]
+}

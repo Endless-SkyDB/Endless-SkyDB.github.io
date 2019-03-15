@@ -1,0 +1,11 @@
+{
+	"race": "Quarg",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 100000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 80,
+	"outfit_space": -80,
+	"energy_generation": 80,
+	"heat_generation": 20
+}

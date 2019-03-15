@@ -1,0 +1,12 @@
+{
+	"race": "Korath",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 20460000,
+	"thumbnail": "outfit/triple plasma core",
+	"mass": 169,
+	"outfit_space": -169,
+	"energy_generation": 43.6,
+	"heat_generation": 154.0,
+	"description": "For the largest of their capital ships, the Korath designed a fusion reactor far more powerful than any comparable human technology."
+}

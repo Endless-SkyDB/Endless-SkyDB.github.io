@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 47000,
+	"thumbnail": "outfit/small fuel cell",
+	"mass": 30,
+	"outfit_space": -30,
+	"energy_generation": 1.9,
+	"heat_generation": 2.9,
+	"description": "This is a step up from the smallest fuel cells, providing enough energy to power a few small guns in addition to your engines."
+}

@@ -1,0 +1,50 @@
+{
+  "file": "Bounder",
+  "sprite": "ship/bounder",
+  "attributes": {
+    "category": "Transport",
+    "cost": 1140000,
+    "shields": 2200,
+    "hull": 700,
+    "required_crew": 1,
+    "bunks": 17,
+    "mass": 130,
+    "drag": 3.7,
+    "heat_dissipation": 0.8,
+    "fuel_capacity": 900,
+    "cargo_space": 40,
+    "outfit_space": 220,
+    "weapon_capacity": 50,
+    "engine_capacity": 110,
+    "weapon": {
+      "blast_radius": 30,
+      "shield_damage": 300,
+      "hull_damage": 150,
+      "hit_force": 450
+    }
+  },
+  "outfits": {
+    "Blaster_Turret": 2,
+    "nGVF-CC_Fuel_Cell": 1,
+    "LP036a_Battery_Pack": 1,
+    "D14-RN_Shield_Generator": 1,
+    "X3700_Ion_Thruster": 1,
+    "X3200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-12 44",
+    "12 44"
+  ],
+  "turret": [
+    "-37 4 Blaster Turret",
+    "37 4 Blaster Turret"
+  ],
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 20",
+    "medium explosion 15"
+  ],
+  "final_explode": "final explosion small",
+  "description": "The Megaparsec Bounder is a scout ship and courier, designed not for battle but for carrying passengers and small amounts of cargo across large distances quickly."
+}

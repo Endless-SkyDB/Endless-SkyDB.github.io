@@ -1,0 +1,64 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/arach hulk",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 9978000,
+		"shields": 5700,
+		"hull": 13800,
+		"required_crew": 8,
+		"bunks": 14,
+		"mass": 670,
+		"drag": 18.9,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 500,
+		"cargo_space": 541,
+		"outfit_space": 520,
+		"weapon_capacity": 208,
+		"engine_capacity": 148,
+		"weapon": {
+			"blast_radius": 120,
+			"shield_damage": 1200,
+			"hull_damage": 600,
+			"hit_force": 1800
+		}
+	},
+	"outfits": {
+		"Large_Collector_Module": 1,
+		"Large_Battery_Module": 1,
+		"Small_Battery_Module": 1,
+		"Small_Shield_Module": 2,
+		"Large_Repair_Module": 1,
+		"Large_Thrust_Module": 2,
+		"Small_Thrust_Module": 2,
+		"Large_Steering_Module": 2,
+		"Small_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-13 198 .7",
+		"0 199 1",
+		"13 198 .7"
+	],
+	"gun": [
+		"-27 -88",
+		"27 -88"
+	],
+	"turret": [
+		"0 -65",
+		"-90 88",
+		"90 88",
+		"0 189"
+	],
+	"explode": [
+		"small explosion 10",
+		"medium explosion 20",
+		"large explosion 30",
+		"huge explosion 10"
+	],
+	"final_explode": "final explosion large",
+	"description": "`The Arachi believe that efficient functionality is the highest form of beauty, and none of their ships demonstrate that principle more clearly than the ugly yet utilitarian Hulk, designed with detachable side pods that can be swapped out on a planet in a matter of minutes if the captain is in a hurry to reach the next destination.`"
+}

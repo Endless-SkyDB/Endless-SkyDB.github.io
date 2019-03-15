@@ -1,0 +1,23 @@
+{
+	"race": "Drak",
+	"category": "Turrets",
+	"type": "Turret",
+	"cost": 1000000,
+	"thumbnail": "outfit/unknown",
+	"mass": 84,
+	"outfit_space": -84,
+	"weapon_capacity": -84,
+	"turret_mounts": -1,
+	"weapon": {
+		"velocity": 400,
+		"lifetime": 1,
+		"reload": 1,
+		"firing_energy": 20,
+		"firing_heat": 5,
+		"firing_force": 30,
+		"hit_force": 60,
+		"shield_damage": 50,
+		"ion_damage": 0.5
+	},
+	"description": "This device produces a field that drains energy from any ship within it."
+}

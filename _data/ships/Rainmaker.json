@@ -1,0 +1,59 @@
+{
+  "file": "Rainmaker",
+  "sprite": "ship/rainmaker",
+  "attributes": {
+    "category": "Light Warship",
+    "licenses": {
+      
+    },
+    "cost": 1580000,
+    "shields": 3500,
+    "hull": 1200,
+    "required_crew": 7,
+    "bunks": 14,
+    "mass": 180,
+    "drag": 3.8,
+    "heat_dissipation": 0.6,
+    "fuel_capacity": 500,
+    "cargo_space": 25,
+    "outfit_space": 230,
+    "weapon_capacity": 60,
+    "engine_capacity": 50,
+    "weapon": {
+      "blast_radius": 40,
+      "shield_damage": 400,
+      "hull_damage": 200,
+      "hit_force": 600
+    }
+  },
+  "outfits": {
+    "Energy_Blaster": 2,
+    "Meteor_Missile_Launcher": 4,
+    "Meteor_Missile": 140,
+    "nGVF-CC_Fuel_Cell": 1,
+    "LP036a_Battery_Pack": 1,
+    "D14-RN_Shield_Generator": 1,
+    "X2700_Ion_Thruster": 1,
+    "X2200_Ion_Steering": 1,
+    "Hyperdrive": 1
+  },
+  "engine": [
+    "-8 46",
+    "8 46"
+  ],
+  "gun": [
+    "-10 -30 Energy Blaster",
+    "10 -30 Energy Blaster",
+    "-27 -5 Meteor Missile Launcher",
+    "27 -5 Meteor Missile Launcher",
+    "-17 -5 Meteor Missile Launcher",
+    "17 -5 Meteor Missile Launcher"
+  ],
+  "explode": [
+    "tiny explosion 10",
+    "small explosion 20",
+    "medium explosion 15"
+  ],
+  "final_explode": "final explosion small",
+  "description": "The Rainmaker is a missile boat built in the Republic Navy Yard. It comes equipped with four missile launchers and enough ammunition to destroy even ships many times its size. Because of their lack of maneuverability and relatively light shielding, Rainmakers serve best as long-range attack ships, and once their missile supply is spent, they are relatively useless in combat."
+}

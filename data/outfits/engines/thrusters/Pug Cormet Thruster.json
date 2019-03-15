@@ -1,0 +1,19 @@
+{
+	"race": "Pug",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 1050000,
+	"thumbnail": "outfit/pug cormet thruster",
+	"mass": 60,
+	"outfit_space": -60,
+	"engine_capacity": -60,
+	"thrust": 44.0,
+	"thrusting_energy": 3.3,
+	"thrusting_heat": 4.6,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/ion flare/large",
+		"frame_rate": 9
+	},
+	"flare_sound": "ion large",
+	"description": "This is a medium-sized thruster designed by the Pug. It is not quite as powerful as a similarly sized atomic engine, but it makes up for that by being almost as energy efficient as ion engines."
+}

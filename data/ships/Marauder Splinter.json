@@ -1,0 +1,61 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/msplinters",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 3400000,
+		"shields": 5700,
+		"hull": 1950,
+		"required_crew": 14,
+		"bunks": 22,
+		"mass": 275,
+		"drag": 4.0,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 600,
+		"cargo_space": 40,
+		"outfit_space": 450,
+		"weapon_capacity": 165,
+		"engine_capacity": 110,
+		"self_destruct": 0.25,
+		"weapon": {
+			"blast_radius": 60,
+			"shield_damage": 600,
+			"hull_damage": 300,
+			"hit_force": 900
+		}
+	},
+	"outfits": {
+		"Plasma_Cannon": 2,
+		"Heavy_Laser_Turret": 2,
+		"Heavy_Anti-Missile_Turret": 1,
+		"Fusion_Reactor": 1,
+		"LP036a_Battery_Pack": 1,
+		"D67-TM_Shield_Generator": 1,
+		"Liquid_Nitrogen_Cooler": 1,
+		"Laser_Rifle": 22,
+		"A250_Atomic_Thruster": 1,
+		"A525_Atomic_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-14 112",
+		"14 112"
+	],
+	"gun": [
+		"-15 -82 Plasma Cannon",
+		"15 -82 Plasma Cannon"
+	],
+	"turret": [
+		"-17 -28 Heavy Laser Turret",
+		"0 -28 Heavy Anti-Missile Turret",
+		"17 -28 Heavy Laser Turret"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Splinter is the largest warship produced by Megaparsec. Apparently someone wanted a bit more out of it, and has covered large sections of the hull with extra shield emitters and hull plating. Much of the stock cargo space has been converted to outfit, weapons and engines space, coupled with streamlining of existing internal systems make this light Medium Warship an agile and flexible war machine."
+}

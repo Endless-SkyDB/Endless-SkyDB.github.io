@@ -1,0 +1,10 @@
+{
+	"race": "Hai",
+	"category": "Ammunition",
+	"type": "Ammunition",
+	"cost": 1000,
+	"thumbnail": "outfit/hai tracker",
+	"mass": 0.2,
+	"tracker_capacity": -1,
+	"description": "This is ammunition for a Tracker Pod."
+}

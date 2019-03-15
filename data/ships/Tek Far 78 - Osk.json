@@ -1,0 +1,79 @@
+{
+	"race": "Korath",
+	"sprite": "ship/tek far 78 osk",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 25630000,
+		"shields": 27600,
+		"hull": 34100,
+		"automaton": 1,
+		"mass": 690,
+		"drag": 10.2,
+		"heat_dissipation": 0.55,
+		"fuel_capacity": 400,
+		"cargo_space": 43,
+		"outfit_space": 611,
+		"weapon_capacity": 272,
+		"engine_capacity": 117,
+		"self_destruct": 0.7,
+		"ramscoop": 3,
+		"weapon": {
+			"blast_radius": 340,
+			"shield_damage": 4400,
+			"hull_damage": 2200,
+			"hit_force": 6600
+		}
+	},
+	"outfits": {
+		"Korath_Detainer": 1,
+		"Korath_Piercer_Launcher": 3,
+		"Korath_Piercer": 93,
+		"Korath_Banisher": 1,
+		"Korath_Warder": 2,
+		"Double_Plasma_Core": 1,
+		"Generator_(Inferno_Class)": 1,
+		"Systems_Core_(Medium)": 1,
+		"Large_Heat_Shunt": 1,
+		"Control_Transceiver": 1,
+		"Thruster_(Lunar_Class)": 1,
+		"Steering_(Planetary_Class)": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-9 245",
+		"9 245"
+	],
+	"gun": [
+		"0 -239 Korath Detainer",
+		"0 -239 Korath Piercer Launcher",
+		"-9 -220 Korath Piercer Launcher",
+		"-9 -220 Korath Piercer Launcher"
+	],
+	"turret": [
+		"17 -133 Korath Warder",
+		"19 -110",
+		"21 -87",
+		"23 -64 Korath Banisher",
+		"38 145 Korath Warder"
+	],
+	"fighter": [
+		"-18.5 -163 over",
+		"-43.5 -103.5 over",
+		"-16.5 -32.5 over",
+		"-30 57 over",
+		"-55.5 96.5 over",
+		"-21.5 150.5 over",
+		"-32.5 -76.5 under",
+		"-14.5 43.5 under",
+		"-42.5 193.5 under"
+	],
+	"explode": [
+		"tiny explosion 90",
+		"small explosion 50",
+		"medium explosion 55",
+		"large explosion 45",
+		"huge explosion 12"
+	],
+	"final_explode": "final explosion large",
+	"description": "This carrier is equipped with docking clamps for up to nine fighters. When loaded with a full complement of the powerful Kor Sestor robotic fighters, it is a formidable opponent."
+}

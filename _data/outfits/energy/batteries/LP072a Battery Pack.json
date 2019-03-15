@@ -1,0 +1,10 @@
+{
+	"file": "LP072a Battery Pack",
+	"category": "Power",
+	"cost": 30000,
+	"thumbnail": "outfit/small battery",
+	"mass": 20,
+	"outfit_space": -20,
+	"energy_capacity": 2200,
+	"description": "This battery pack has more than twice the energy capacity of the most basic model, allowing your ship to engage in combat for longer periods of time before running out of energy. Some pilots have even been known to install these in lieu of any generator at all, trusting that they can reach their destination planet and recharge before running out of battery power, but that is a risky proposition."
+}

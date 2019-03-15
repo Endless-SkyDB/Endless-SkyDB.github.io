@@ -1,0 +1,32 @@
+{
+	"cost_min": 10000,
+	"cost": "bad",
+	"cost_max": 790000,
+
+	"mass_min": 4,
+	"mass": "bad",
+	"mass_max": 40,
+	"mass_alias": ["outfit_space", "engine_capacity", "weapon_capacity"],
+
+	"outfit_space_min": -40,
+	"outfit_space": "bad",
+	"outfit_space_max": -4,
+	"outfit_space_operation":"flip",
+
+	"cooling_min": 5,
+	"cooling": "good",
+	"cooling_max": 69,
+
+	"active_cooling_min": 7,
+	"active_cooling": "good",
+	"active_cooling_max": 21,
+
+	"cooling_energy_min": 0.4,
+	"cooling_energy": "bad",
+	"cooling_energy_max": 1.4,
+
+	"group": [
+		["cost", "mass"],
+		["cooling", "active_cooling", "cooling_energy"]
+	]
+}

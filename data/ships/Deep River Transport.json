@@ -1,0 +1,57 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/deep river",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"licenses": {
+			"Wanderer": 1
+		},
+		"cost": 18300000,
+		"shields": 17600,
+		"hull": 47500,
+		"required_crew": 13,
+		"bunks": 166,
+		"mass": 750,
+		"drag": 9.4,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 500,
+		"cargo_space": 74,
+		"outfit_space": 321,
+		"weapon_capacity": 114,
+		"engine_capacity": 83,
+		"weapon": {
+			"blast_radius": 280,
+			"shield_damage": 2800,
+			"hull_damage": 1400,
+			"hit_force": 4200
+		}
+	},
+	"outfits": {
+		"Wanderer_Anti-Missile": 4,
+		"Yellow_Sun_Reactor": 1,
+		"Dark_Storm_Shielding": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_2_Radiant_Thruster": 1,
+		"Type_4_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"53 345 .7",
+		"0 345",
+		"-53 345 .7"
+	],
+	"turret": [
+		"-36 -205 Wanderer Anti-Missile",
+		"36 -205 Wanderer Anti-Missile",
+		"-36 330 Wanderer Anti-Missile",
+		"36 330 Wanderer Anti-Missile"
+	],
+	"explode": [
+		"small explosion 80",
+		"medium explosion 60",
+		"large explosion 30",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large",
+	"description": "This is a Deep River freighter that has been converted into a transport ship for refugees."
+}

@@ -1,0 +1,60 @@
+{
+	"race": "Wanderer",
+	"sprite": "ship/deep river",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"licenses": {
+			"Wanderer": 1
+		},
+		"cost": 18300000,
+		"shields": 17600,
+		"hull": 47500,
+		"required_crew": 13,
+		"bunks": 22,
+		"mass": 750,
+		"drag": 9.4,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 500,
+		"cargo_space": 1140,
+		"outfit_space": 363,
+		"weapon_capacity": 177,
+		"engine_capacity": 83,
+		"weapon": {
+			"blast_radius": 280,
+			"shield_damage": 2800,
+			"hull_damage": 1400,
+			"hit_force": 4200
+		}
+	},
+	"outfits": {
+		"Thunderhead_Launcher": 6,
+		"Thunderhead_Missile": 240,
+		"Large_Biochemical_Cell": 1,
+		"Bright_Cloud_Shielding": 1,
+		"Wanderer_Ramscoop": 1,
+		"Type_2_Radiant_Thruster": 1,
+		"Type_3_Radiant_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"53 345 .7",
+		"0 345",
+		"-53 345 .7"
+	],
+	"gun": [
+		"-56 -217",
+		"56 -217",
+		"-40 -217",
+		"40 -217",
+		"-18 -217",
+		"18 -217"
+	],
+	"explode": [
+		"small explosion 80",
+		"medium explosion 60",
+		"large explosion 30",
+		"huge explosion 20"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Deep River is a bulk freighter, designed to carry cargo in detachable pods."
+}

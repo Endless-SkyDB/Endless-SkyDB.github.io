@@ -1,0 +1,61 @@
+{
+	"race": "Human",
+	"sprite": "ship/hauler iii",
+	"attributes": {
+		"category": "Heavy Freighter",
+		"cost": 3260000,
+		"shields": 3300,
+		"hull": 6700,
+		"required_crew": 3,
+		"bunks": 12,
+		"mass": 470,
+		"drag": 12.5,
+		"heat_dissipation": 0.6,
+		"fuel_capacity": 400,
+		"cargo_space": 390,
+		"outfit_space": 350,
+		"weapon_capacity": 140,
+		"engine_capacity": 80,
+		"weapon": {
+			"blast_radius": 100,
+			"shield_damage": 1000,
+			"hull_damage": 500,
+			"hit_force": 1500
+		}
+	},
+	"outfits": {
+		"Meteor_Missile_Launcher": 2,
+		"Meteor_Missile": 70,
+		"Quad_Blaster_Turret": 2,
+		"Heavy_Anti-Missile_Turret": 2,
+		"S3_Thermionic": 1,
+		"LP072a_Battery_Pack": 1,
+		"D23-QP_Shield_Generator": 1,
+		"Small_Radar_Jammer": 1,
+		"Greyhound_Plasma_Thruster": 1,
+		"Impala_Plasma_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-45 196",
+		"45 196"
+	],
+	"gun": [
+		"-15 -165",
+		"15 -165"
+	],
+	"turret": [
+		"-26 -122 Quad Blaster Turret",
+		"26 -122 Heavy Anti-Missile Turret",
+		"-19 151 Heavy Anti-Missile Turret",
+		"19 151 Quad Blaster Turret"
+	],
+	"explode": [
+		"small explosion 15",
+		"medium explosion 30",
+		"large explosion 20",
+		"huge explosion 5"
+	],
+	"final_explode": "final explosion large",
+	"description": "Considered by many to be outdated, there are nonetheless many Haulers still in service due to their combination of comparatively low price and simple construction. This large version of the Hauler provides the best tradeoff between price and cargo space."
+}

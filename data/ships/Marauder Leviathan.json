@@ -1,0 +1,67 @@
+{
+	"race": "Marauders",
+	"sprite": "ship/mleviathans",
+	"attributes": {
+		"category": "Heavy Warship",
+		"cost": 10800000,
+		"shields": 16000,
+		"hull": 5500,
+		"required_crew": 48,
+		"bunks": 69,
+		"mass": 640,
+		"drag": 7.6,
+		"heat_dissipation": 0.5,
+		"fuel_capacity": 500,
+		"cargo_space": 40,
+		"outfit_space": 680,
+		"weapon_capacity": 265,
+		"engine_capacity": 140,
+		"self_destruct": 0.15,
+		"weapon": {
+			"blast_radius": 90,
+			"shield_damage": 900,
+			"hull_damage": 450,
+			"hit_force": 1500
+		}
+	},
+	"outfits": {
+		"Particle_Cannon": 4,
+		"Quad_Blaster_Turret": 2,
+		"Heavy_Laser_Turret": 2,
+		"Fusion_Reactor": 1,
+		"LP144a_Battery_Pack": 1,
+		"D94-YV_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"Liquid_Helium_Cooler": 1,
+		"Outfits_Expansion": 2,
+		"Laser_Rifle": 69,
+		"A370_Atomic_Thruster": 1,
+		"A525_Atomic_Steering": 1,
+		"Ionic_Afterburner": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-25 125",
+		"25 125"
+	],
+	"gun": [
+		"-38 -34 Particle Cannon",
+		"38 -34 Particle Cannon",
+		"-50 -26 Particle Cannon",
+		"50 -26 Particle Cannon"
+	],
+	"turret": [
+		"-15 -50 Quad Blaster Turret",
+		"15 -50 Quad Blaster Turret",
+		"-25 10 Heavy Laser Turret",
+		"25 10 Heavy Laser Turret"
+	],
+	"explode": [
+		"tiny explosion 18",
+		"small explosion 36",
+		"medium explosion 24",
+		"large explosion 8"
+	],
+	"final_explode": "final explosion large",
+	"description": "The Betelgeuse Shipyards Leviathan has been in service for a long time, and captains have had some very interesting ideas about how to modify them for optimum performance. This one has had the hull surface completely stripped off and replaced with a surface containing more shield projectors per square meter."
+}

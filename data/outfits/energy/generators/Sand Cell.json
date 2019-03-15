@@ -1,0 +1,12 @@
+{
+	"race": "Hai",
+	"category": "Power",
+	"type": "Generator",
+	"cost": 45000,
+	"thumbnail": "outfit/fuel cell hai",
+	"mass": 24,
+	"outfit_space": -24,
+	"energy_generation": 1.55,
+	"heat_generation": 2.4,
+	"description": "The Sand Cell is the smallest Hai generator. It was designed to fit their drones, and it clearly resembles human fuel cells."
+}

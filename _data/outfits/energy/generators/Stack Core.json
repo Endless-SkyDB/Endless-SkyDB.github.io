@@ -1,0 +1,11 @@
+{
+    "file": "Stack Core",
+    "category": "Power",
+    "cost": 4500000,
+    "thumbnail": "outfit/stack core",
+    "mass": 140,
+    "outfit_space": -140,
+    "energy_generation": 22.9,
+    "heat_generation": 55,
+    "description": "The Stack Core was created by the Free Worlds primarily as a power source for their Dreadnoughts. It is a fission reactor, and therefore less efficient than the Navy's fusion technology, but it is also significantly cheaper to produce."
+}

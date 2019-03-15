@@ -1,0 +1,35 @@
+{
+	"race": "Coalition",
+	"category": "Guns",
+	"type": "Gun",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 798000,
+	"thumbnail": "outfit/ion rain gun",
+	"mass": 17,
+	"outfit_space": -17,
+	"weapon_capacity": -17,
+	"gun_ports": -1,
+	"weapon": {
+		"sprite": {
+			"sprite_name": "projectile/ion rain",
+			"frame_rate": 7,
+			"random_start_frame": 1
+		},
+		"sound": "ion rain",
+		"hit_effect": "ion rain impact",
+		"inaccuracy": 4.5,
+		"velocity": 16,
+		"random_velocity": 2,
+		"lifetime": 25,
+		"random_lifetime": 5,
+		"reload": 4,
+		"firing_energy": 12,
+		"firing_heat": 4,
+		"shield_damage": 12,
+		"hull_damage": 2,
+		"ion_damage": 0.2
+	},
+	"description": "Heliarch ships primarily serve as a police force. This weapon is designed to neutralize a target's offensive capabilities until more Heliarch ships can join the fray."
+}

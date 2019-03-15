@@ -1,0 +1,37 @@
+{
+	"race": "Human",
+	"sprite": "ship/surveillance drone",
+	"attributes": {
+		"category": "Drone",
+		"licenses": {
+			"Navy": 1
+		},
+		"cost": 50000,
+		"hull": 300,
+		"mass": 15,
+		"drag": 0.53,
+		"heat_dissipation": 0.9,
+		"outfit_space": 53,
+		"weapon_capacity": 0,
+		"engine_capacity": 28,
+		"automaton": 1,
+		"weapon": {
+			"blast_radius": 3,
+			"shield_damage": 30,
+			"hull_damage": 15,
+			"hit_force": 45
+		}
+	},
+	"outfits": {
+		"nGVF-AA_Fuel_Cell": 1,
+		"Surveillance_Pod": 1,
+		"X1700_Ion_Thruster": 1,
+		"X1200_Ion_Steering": 1
+	},
+	"engine": [
+		"-5 29",
+		"5 29"
+	],
+	"explode": "tiny explosion 15",
+	"description": "Surveillance drones are unarmed drones used by the Republic navy to scan ships and planets in a star system."
+}

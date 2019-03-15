@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Endless Sky Database</title>
+    <meta name="viewport" width=device-width, initial-scale=1.0>
+    <style> body {padding: 0; margin: 0;} </style>
+
+
+    <link rel="icon" href="images/siteIcon.png" type="image/png" sizes="64x64">
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu">
+
+    <script src="javascript/map.js"></script>
+    <script src="javascript/main.js"></script>
+    <script src="javascript/ships.js"></script>
+    <script src="javascript/shipMain.js"></script>
+    <script src="javascript/search.js"></script>
+
+  </head>
+
+  <body>
+
+    <header style="user-select: none;">
+      <center>
+        <div style="padding: 20px; margin: auto; height: 100%; background-color: transparent; background: url('images/menu/compass.png') no-repeat center; cursor: pointer;" onclick="window.location.href='/'">
+          <p style="font-size: 40px;">E N D L E S S &nbsp; S K Y</p>
+        </div>
+      </center>
+
+      <div id="imgHolder" style="display: none; position: absolute; background-image: url('images/ui/shipyard unselected+.png'); width: 250px; height: 250px; border: 1px solid #444444; pointer-events: none; padding: 5px; z-index: 3;">
+        <img id="imgPreview" style="margin-top: 25px;">
+      </div>
+
+      <div style="display: block; margin: 0 10% 0 10%; border-radius: 8px; padding: 5px; user-select: none; background-color: #000;">
+        <center>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/ships.html'">S H I P S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/outfits.html'">O U T F I T S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; border-right: 1px solid #444; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/missions.html'">M I S S I O N S</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; vertical-align: top;">
+            <p style="cursor: pointer; font-size: 33px;" onclick="window.location.href='/map.html'">M A P</p>
+          </div>
+
+          <div style="height: 100%; margin: 0; padding: 0 20px 0 15px; float: right; vertical-align: top;">
+            <input type="text" spellcheck="false" placeholder="Search" style="width: 280px" oninput="findString(this.value);" onkeyup="startSearch();">
+            <div id="search" style="width: 296px; display: block; background-color: #000000; margin: 0; position: absolute;"></div>
+          </div>
+        </center>
+
+      </div>
+    </header>
+
+    <div style="display: block; width: 70%; height: 100%; background-color: rgba(32, 32, 32, 0.5); border-radius: 8px; padding: 0 5% 0 5%; margin: 10px 10% 0 10%;">
+
+      <div id="mainDiv" style="display: none;">
+        <div style="text-align: center; display: block; background: transparent;">
+          <p id="itemName" style="display: inline-block; border-bottom: 1px solid #444; padding: 0 10% 0 10%; font-size: 33px">Unknown item.</p>
+        </div>
+
+        <div id="itemDisplay" style="width: calc(50% - 10px);">
+          <div style="width: 250px; height: 250px; border: 1px solid #444; background-image: url('images/ui/shipyard unselected+.png');">
+            <img id="itemPic" src="images/outfit/unknown.png">
+          </div>
+
+          <div style="vertical-align: top; width: calc(100% - 276px);">
+            <p id="itemDesc">This ship does not have a description.</p>
+          </div>
+
+          <div style="display: block; margin: 0; width: 100%;">
+            <div id="barContainer" style="display: grid; grid-template-columns: 100% 100%; margin: 0; width: calc(50% - 2px);">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="mainTable" style="display: none; grid-template-columns: auto auto auto; text-align: center; padding-top: 5px;">
+        <p id="selectName" style="border-right: 1px solid #444444; border-bottom: 1px solid #444444; padding: 10px; background-color: #222222; cursor: pointer;" onclick="sortItems('lower');">Name</p>
+        <select id="select1" style="border-bottom: 1px solid #444444; padding: 10px; background-color: #222222;" onchange="sortItems(this.value);">
+          <option value="category">Category</option>
+          <option value="cost">Cost</option>
+          <option value="mass">Mass</option>
+          <option value="shields">Shields</option>
+          <option value="hull">Hull</option>
+          <option value="cargo_space">Cargo Space</option>
+          <option value="outfit_space">Outfit Space</option>
+          <option value="engine_capacity">Engine Capacity</option>
+          <option value="fuel_capacity">Fuel Capacity</option>
+          <option value="bunks">Bunks</option>
+          <option value="required_crew">Required Crew</option>
+          <option value="race">Race</option>
+        </select>
+        <select id="select2" style="border-left: 1px solid #444444; border-bottom: 1px solid #444444; padding: 10px; background-color: #222222;" onchange="sortItems(this.value);">
+          <option value="cost">Cost</option>
+          <option value="category">Category</option>
+          <option value="mass">Mass</option>
+          <option value="shields">Shields</option>
+          <option value="hull">Hull</option>
+          <option value="cargo_space">Cargo Space</option>
+          <option value="outfit_space">Outfit Space</option>
+          <option value="engine_capacity">Engine Capacity</option>
+          <option value="fuel_capacity">Fuel Capacity</option>
+          <option value="bunks">Bunks</option>
+          <option value="required_crew">Required Crew</option>
+          <option value="race">Race</option>
+        </select>
+      </div>
+
+    </div>
+
+    
+
+    <footer style="width: 100%; height: 40px; background-color: #000; margin-top: 3%;">
+    </footer>
+
+
+
+  </body>
+</html>

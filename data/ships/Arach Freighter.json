@@ -1,0 +1,60 @@
+{
+	"race": "Coalition",
+	"sprite": "ship/arach freighter",
+	"attributes": {
+		"category": "Light Freighter",
+		"licenses": {
+			"Coalition": 1
+		},
+		"cost": 4580000,
+		"shields": 3400,
+		"hull": 8500,
+		"required_crew": 3,
+		"bunks": 10,
+		"mass": 380,
+		"drag": 10.6,
+		"heat_dissipation": 0.55,
+		"fuel_capacity": 500,
+		"cargo_space": 310,
+		"outfit_space": 349,
+		"weapon_capacity": 132,
+		"engine_capacity": 92,
+		"weapon": {
+			"blast_radius": 80,
+			"shield_damage": 800,
+			"hull_damage": 400,
+			"hit_force": 1200
+		}
+	},
+	"outfits": {
+		"Small_Collector_Module": 3,
+		"Small_Battery_Module": 2,
+		"Small_Shield_Module": 1,
+		"Small_Repair_Module": 2,
+		"Large_Thrust_Module": 1,
+		"Small_Thrust_Module": 2,
+		"Large_Steering_Module": 1,
+		"Small_Steering_Module": 2,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-18 141 .7",
+		"0 143 1",
+		"18 141 .7"
+	],
+	"gun": [
+		"-19 -112",
+		"19 -112"
+	],
+	"turret": [
+		"-41 37",
+		"41 37"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 15",
+		"medium explosion 15"
+	],
+	"final_explode": "final explosion medium",
+	"description": "`Arach cargo ship hulls are legendary for their durability. It is not uncommon for a large Arach family to convert a freighter that is no longer space-worthy into a planet-side dwelling, and even in the harshest of conditions these converted houses can last for hundreds of years with little or no exterior maintenance.`"
+}

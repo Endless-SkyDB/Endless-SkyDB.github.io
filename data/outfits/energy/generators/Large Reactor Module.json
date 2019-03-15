@@ -1,0 +1,15 @@
+{
+	"race": "Coalition",
+	"category": "Power",
+	"type": "Generator",
+	"licenses": {
+		"Heliarch": 1
+	},
+	"cost": 17754000,
+	"thumbnail": "outfit/large reactor module",
+	"mass": 98,
+	"outfit_space": -98,
+	"energy_generation": 22.3,
+	"heat_generation": 45,
+	"description": "This reactor was designed for the most powerful Heliarch warships. Its design has not changed significantly in the millennia since the first battle with the Quarg, but each generation of reactors is made slightly more efficient than the previous ones."
+}

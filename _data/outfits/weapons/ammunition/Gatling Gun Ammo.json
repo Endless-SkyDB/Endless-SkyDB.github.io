@@ -1,0 +1,10 @@
+{
+  "file": "Gatling Gun Ammo",
+  "plural": "Gatling Gun Ammo",
+  "category": "Ammunition",
+  "cost": 2,
+  "thumbnail": "outfit/bullet",
+  "mass": 0.002,
+  "gatling_round_capacity": -1,
+  "description": "This simple cartridge is the ammunition for the Gatling Gun, with a projectile of depleted nuclear fuel or an illuminated tracer round. Since this ammunition is primarily manufactured on pirate worlds by slave children in poor working conditions, muzzle velocity can vary by up to 30%, and tracer distribution is seldom uniform."
+}

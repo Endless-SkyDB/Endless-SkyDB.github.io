@@ -1,0 +1,57 @@
+{
+	"race": "Human",
+	"sprite": "ship/gunboat",
+	"attributes": {
+		"category": "Light Warship",
+		"licenses": {
+			"Navy": 1
+		},
+		"cost": 3200000,
+		"shields": 5800,
+		"hull": 1400,
+		"required_crew": 7,
+		"bunks": 12,
+		"mass": 150,
+		"drag": 3.1,
+		"heat_dissipation": 0.8,
+		"fuel_capacity": 600,
+		"cargo_space": 50,
+		"outfit_space": 270,
+		"weapon_capacity": 100,
+		"engine_capacity": 90,
+		"weapon": {
+			"blast_radius": 72,
+			"shield_damage": 720,
+			"hull_damage": 360,
+			"hit_force": 1080
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 2,
+		"Heavy_Laser_Turret": 1,
+		"RT-I_Radiothermal": 1,
+		"LP144a_Battery_Pack": 1,
+		"D14-RN_Shield_Generator": 1,
+		"Cargo_Scanner": 1,
+		"Outfit_Scanner": 1,
+		"X3700_Ion_Thruster": 1,
+		"X2200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-12 57",
+		"12 57"
+	],
+	"gun": [
+		"-28 -28 Heavy Laser",
+		"28 -28 Heavy Laser"
+	],
+	"turret": "0 -8 Heavy Laser Turret",
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 20",
+		"medium explosion 15"
+	],
+	"final_explode": "final explosion small",
+	"description": "The Navy gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
+}

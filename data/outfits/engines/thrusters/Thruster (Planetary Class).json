@@ -1,0 +1,20 @@
+{
+	"race": "Korath",
+	"plural": "Thrusters (Planetary Class)",
+	"category": "Engines",
+	"type": "Thrusters",
+	"cost": 1216000,
+	"thumbnail": "outfit/large korath thruster",
+	"mass": 69,
+	"outfit_space": -69,
+	"engine_capacity": -69,
+	"thrust": 80.0,
+	"thrusting_energy": 8.9,
+	"thrusting_heat": 22.7,
+	"flare_sprite": {
+		"flare_sprite_name": "effect/korath flare/large",
+		"frame_rate": 6.5
+	},
+	"flare_sound": "plasma large",
+	"description": "The Quarg, who do all things efficiently, view the Korath propulsion systems with particular distaste."
+}

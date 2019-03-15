@@ -1,0 +1,12 @@
+{
+	"race": "Human",
+	"category": "Systems",
+	"type": "Scanning",
+	"cost": 8000,
+	"thumbnail": "outfit/cargo scanner",
+	"mass": 1,
+	"outfit_space": -1,
+	"cargo_scan_power": 9,
+	"cargo_scan_speed": 1,
+	"description": "This scanner allows you to scan the cargo holds of the ship you are currently targeting, as long as you are flying close enough to it. Patrol craft use cargo scanners to detect illegal contraband. Installing more than one increases the scan range and speed."
+}

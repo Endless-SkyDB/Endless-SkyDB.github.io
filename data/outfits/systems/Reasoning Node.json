@@ -1,0 +1,10 @@
+{
+	"race": "Korath",
+	"category": "Systems",
+	"type": "Systems",
+	"cost": 23000,
+	"thumbnail": "outfit/reasoning node",
+	"mass": 1,
+	"outfit_space": -1,
+	"description": "This is some sort of advanced, miniature computer combined with various sensor inputs and a hyperspace communication relay. Presumably, in some way it controls the Mereti automata or allows them to more easily coordinate their actions with each other."
+}

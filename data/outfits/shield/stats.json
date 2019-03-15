@@ -1,0 +1,40 @@
+{
+	"cost_min": 20000,
+	"cost": "bad",
+	"cost_max": 30000000,
+
+	"mass_min": 11,
+	"mass": "bad",
+	"mass_max": 120,
+
+	"outfit_space_min": -120,
+	"outfit_space": "bad",
+	"outfit_space_max": -11,
+	"outfit_space_operation": "flip",
+
+	"shield_generation_min": 0.2,
+	"shield_generation": "good",
+	"shield_generation_max": 10,
+
+	"shield_energy_min": 0.2,
+	"shield_energy": "good",
+	"shield_energy_max": 10,
+
+	"energy_consumption_min": 0.3,
+	"energy_consumption": "bad",
+	"energy_consumption_max": 0.9,
+
+	"shield_heat_min": 0.1,
+	"shield_heat": "bad",
+	"shield_heat_max": 9,
+	
+	"heat_generation_min": 2,
+	"heat_generation": "bad",
+	"heat_generation_max": 6,
+
+	"group": [
+		["cost", "mass"],
+		["shield_generation", "shield_energy"],
+		["energy_consumption", "shield_heat", "heat_generation"]
+	]
+}

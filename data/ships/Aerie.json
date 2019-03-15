@@ -1,0 +1,63 @@
+{
+	"race": "Human",
+	"sprite": "ship/aerie",
+	"attributes": {
+		"category": "Medium Warship",
+		"cost": 3500000,
+		"shields": 5700,
+		"hull": 1900,
+		"required_crew": 10,
+		"bunks": 28,
+		"mass": 130,
+		"drag": 4.1,
+		"heat_dissipation": 0.7,
+		"fuel_capacity": 500,
+		"cargo_space": 50,
+		"outfit_space": 390,
+		"weapon_capacity": 150,
+		"engine_capacity": 95,
+		"weapon": {
+			"blast_radius": 80,
+			"shield_damage": 800,
+			"hull_damage": 400,
+			"hit_force": 1200
+		}
+	},
+	"outfits": {
+		"Heavy_Laser": 2,
+		"Heavy_Laser_Turret": 2,
+		"Heavy_Anti-Missile_Turret": 1,
+		"NT-200_Nucleovoltaic": 1,
+		"LP072a_Battery_Pack": 1,
+		"D41-HY_Shield_Generator": 1,
+		"Large_Radar_Jammer": 1,
+		"X3700_Ion_Thruster": 1,
+		"X3200_Ion_Steering": 1,
+		"Hyperdrive": 1
+	},
+	"engine": [
+		"-10 91",
+		"10 91"
+	],
+	"gun": [
+		"-13 -79 Heavy Laser",
+		"13 -79 Heavy Laser"
+	],
+	"turret": [
+		"0 0 Heavy Anti-Missile Turret",
+		"-17 14 Heavy Laser Turret",
+		"17 14 Heavy Laser Turret"
+	],
+	"fighter": [
+		"-42 -2",
+		"42 2"
+	],
+	"explode": [
+		"tiny explosion 10",
+		"small explosion 25",
+		"medium explosion 25",
+		"large explosion 10"
+	],
+	"final_explode": "final explosion medium",
+	"description": "The Lionheart Aerie is a light carrier, designed to be just big enough for two fighter bays plus a decent armament of its own. Variations on this same ship design have been in use in the Deep for almost half a millennium, but this model comes with the very latest in generator and weapon technology."
+}
