@@ -1590,7 +1590,7 @@ var ships = {
 		},
 		"description": "The Korath Raider is their warship of choice for plundering neighboring species."
 	},
-	"Korath World-Ship": {
+	"Korath World-ship": {
 		"upper": "Korath World-Ship",
 		"lower": "korath world-ship",
 		"race": "Korath",
