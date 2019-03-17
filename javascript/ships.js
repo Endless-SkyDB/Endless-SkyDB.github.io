@@ -351,6 +351,8 @@ var ships = {
 		"description": "This ship doesn't have a description."
 	},
 	"Argosy": {
+		"upper": "Argosy",
+		"lower": "argosy",
 		"race": "Human",
 		"plural": "Argosies",
 		"sprite": "ship/argosy",
